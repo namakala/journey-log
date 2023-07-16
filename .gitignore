@@ -1,2 +1,3 @@
 # Untrack the rendered content
 _book/*
+.quarto/*
