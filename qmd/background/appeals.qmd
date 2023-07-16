@@ -1,0 +1,34 @@
+## Appeals
+
+This research focuses on the data mining process, especially to generate new
+insight and knowledge (knowledge mining).  The tools used in this research
+shall be free to access under an open-source license, with some restriction to
+the source code of a more specific use cases, which will be protected under a
+closed-source license. The highlight of the proposed model is to use
+agent-based model as a general modelling framework using a graph object as its
+input. The following subsections shall further elaborate how the general
+framework and knowledge mining process can be beneficial for the institution,
+researchers, and general audiences.
+
+### Appeals to the Institution
+
+Firstly, this research aims to disentangle the general framework of agent-based
+modelling in a graph object. The general modelling framework will be useful in
+various cases representable as a graph object, especially a knowledge graph.
+This framework is beneficial for the institution, since a patent for specific
+use cases would be applicable.
+
+### Appeals to the Researchers
+
+Secondly, for researchers, the use of general modelling framework will aid in the
+modelling workflow. The agent-based model can be treated as a singular building
+block of an analytic pipeline. This will aid the researchers in generating a
+more flexible model by incorporating the general modelling framework.
+
+### Appeals to the General Audiences
+
+Thirdly, the general audiences will gain benefits from the knowledge mining
+process. Generally, this research will highlight effective countermeasures
+against psychological stressors and psychological disorders. Furthermore, this
+research will yield an insight regarding improving the resilient state.
+

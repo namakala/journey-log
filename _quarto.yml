@@ -1,0 +1,54 @@
+project:
+  type: book
+
+book:
+  title: >
+    Mental Resilience as a Determinant of Burnout, Depression, and Anxiety amidst
+    Adversity
+  author: "Aly Lamuri"
+  date: "7/16/2023"
+  chapters:
+    - index.md
+    - qmd/intro.qmd
+    - qmd/litrev.qmd
+    - qmd/research-framework.qmd
+    - qmd/methods.qmd
+    - qmd/summary.qmd
+    - qmd/references.qmd
+
+format:
+  html:
+    theme: darkly
+  pdf:
+    template: template/ui.tex
+    documentclass: scrreprt
+    include-in-header:
+      text: |
+        \usepackage{longtable}
+        \usepackage{amsmath}
+        \usepackage{amssymb}
+        \usepackage{multicol}
+        \usepackage{float}
+        \floatplacement{figure}{htbp}
+        \floatplacement{table}{htbp}
+
+supervisor:
+- "Prof. dr. Mondastri Korib Sudaaryo, MSc, DSc"
+- "Prof. Talitha Feenstra"
+version:
+  no: 3
+  date: 12-07-2023
+
+bibliography: ref.bib
+logo: fig/logo-ui.png
+knitr:
+  opts_chunk:
+    echo: false
+    eval: true
+    error: false
+    message: false
+    warning: false
+    fig.width: 10
+    fig.height: 8
+    out.width: "\\textwidth"
+    comment: "|"

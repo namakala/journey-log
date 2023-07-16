@@ -1,0 +1,121 @@
+# LITERATURE REVIEW
+
+This chapter shall focus on elaborating theories and findings pertaining to resilience and psychological outcomes. @sec-resilience explains the scope and context of mental resilience in this research. @sec-stressor defines a set of stressors investigated in this research, which will be the generic precipitator of maladaptive behavior. @sec-psych justifies the psychological outcomes. @sec-concept illustrates the conceptual framework of the current proposal.
+
+## Resilience as an Indicator of Mental Immunity \label{resilience} {#sec-resilience}
+
+Resilience can be seen as a trait or a state of a human psyche, where
+resilience as a trait covers contributing internal factors that help the
+individual to overcome adversities. As a state, resilience is best defined as a
+dynamic adaptive behaviour that emerges due to circumstantial changes. Several
+constituents of resilience as a trait includes habitual effective coping
+mechanism and positive emotions, both act as a buffer against negative life
+events [@davydov2010resilience]. Meanwhile, as a state, resilience is a dynamic
+capacity to adapt supported by the interaction of internal and external
+factors, including biological, psychological, social, and ecological systems
+[@ungar2020resilience]. Resilience as a trait is observable as a non-adaptive
+countermeasures, where the individual will act against the stressful events,
+i.e. being resistant to adversities. On the other hand, resilience as state is
+an adaptive transformation to prevent persistent dysfunction or
+psychopathology [@davydov2010resilience], thus, will be better suited for any
+modelling and policy-directed research.
+
+The intertwining facade of the trait and state of resilience is explainable as
+an inherent activities of neurocircuitries [@rutten2013resilience], where
+gene-environmental interactions play a role in determining individual
+susceptibility to psychiatric illness (resilience as a trait)
+[@amstadter2014psychiatric]. Also, there exists biological mechanism that allow
+experience-dependant plasticity and fuel up adaptability (resilience as a
+state) [@derakhshan2020attentional; @rutten2013resilience]. By considering both
+sides of resilience, This research is concerned with the latter aspect, where
+maintaining an adaptive behavior is of essence to abate the development of
+mental disorder.
+
+## Stressors Precipitating the Development of Mental Issues \label{stressor} {#sec-stressor}
+
+Resilience is the moderator between risk factors and psychological disorders,
+therefore, a clear definition of included stressors will aid in developing an
+explainable and generalizable study design [@ungar2020resilience]. Defining the
+stressors also allow us to measure resilience using a reactivity approach,
+where resilience is evaluated as growing tolerance to regular stress
+[@davydov2010resilience]. This way we can partly assess the dynamic process in
+developing an adaptive behavior.
+
+The presence of stressors disrupts physiological function to a lower utility
+state [@oken2015systems]. Following the methods proposed by @veer2021psycho,
+our research evaluates two distinct groups of stressor, namely the general
+daily stressor and health-related stressor. The general stressor is an
+instrument comprising ten items of daily hassles and life events, while the
+health-related stressor consists of items reflecting adversity related to
+general health concern in self, families, and close relatives. Any item rated
+as `"TRUE"` is then weighted for the severity, ranging from *not burdensome* (0) to
+*substantially burdensome* (5). Below is the excerpt of the general stressor
+items:
+
+- Negative political events
+- Conflicts with relatives or colleagues
+- Financial problems
+- Physical health problems
+- Mental health problems
+- Burdensome experiences with family
+- Burdensome experiences in workplace
+- Conflicts with strangers
+- Separation from a loved one, which triggers reduced social contact and
+  loneliness
+- Death of a loved one
+
+The health-related stressor in @veer2021psycho was particularly narrating
+distress caused by the COVID-19 pandemic. In brief, these items are comprised
+of trepidation or perceived burden due to a disease, thus adaptable for a more
+general research context.
+
+## Psychological Outcomes \label{psych} {#sec-psych}
+
+Depression, anxiety, and burnout are selected as outcomes of interest due to
+the relatedness between burnout $\rightleftharpoons$ depression and burnout
+$\rightleftharpoons$ anxiety [@koutsimani2019relationship]. The partial
+correlations have a moderate effect size, signifying the boundary between
+burnout and depression also burnout and anxiety. Therefore, statistically,
+each of depression, anxiety, and burnout does not share similar latent
+construct even though they have closely-related manifests. This is
+interpretable as distinctive remarks to differentiate three of such outcomes
+and the clinical importance of examining the others when one is present.
+
+Burnout is a condition of increasing depersonalization and emotional
+exhaustion, leading to reduced personal accomplishment in the workplace (sense
+of inefficacy). Burnout often happens due to a long-term ongoing stressor,
+where the inability to cope with external issues decreases work engagement
+[@Schaufeli2017]. The incidence of burnout overlaps with psychological
+distress, marked by depressive symptoms or anxiety.
+
+In a recent finding, burnout is partially explainable by depression and
+anxiety. Depression symptoms pose similar characteristics to exhaustion and
+depersonalization, while anxiety is related to the sense of personal inefficacy
+[@golonka2019occupational]. In theory, depression is marked by the loss of
+energy (fatigue) and anxiety is marked by being excessively worried; but a
+study suggested the presence of anxious depression [@gaspersz2018patients],
+which in turn also implies a pathophysiological overlap between depression and
+anxiety.  Moreover, lower brain connectivity in the default mode network is a
+curious co-occurrence between depression [@jacob2020neural], anxiety
+[@imperatori2019default], and burnout [@shang2022aberrant]. Neurobiological,
+clinical, and contextual overlaps between depression, anxiety, and burnout
+necessitate the inclusion of these outcomes to infer a more general impact of
+associated stressors.
+
+Several policies have been implemented to alleviate the mental health burden in
+Indonesia, mainly highlighted in the Mental Health Act in 2014
+[@tampubolon2021covid], and further defined in the Indonesian Minister of
+Health Regulation Number 77 of 2015 and Indonesian Minister of Health
+Regulation Number 54 of 2017 [@hartono2018tracking]. During the pandemic, the
+government of Indonesia has stipulated a Presidential Decree R1 No. 7 of 2020
+to promptly respond the pandemic; however, the practical implementation has not
+addressed mental health issues. Though, several ongoing initiatives led by the
+government has been realized as a regulation on managing a digital counselling
+platform [@tampubolon2021covid]. The digital platform, conducted through
+various chat-based and video call-based application, helps the general
+population to get in touch with therapists, psychologists, counselors, and
+educational practitioners [@ifdil2020online]. Tele-consulting, either through
+chat or video call, enables practitioners to provide psychological first aid to
+address elevated distress during the pandemic, depression, and anxiety
+[@ifdil2020online].
+

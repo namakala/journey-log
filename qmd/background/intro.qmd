@@ -1,0 +1,55 @@
+## Introduction
+
+Resilience is the adaptability of an individual to adversities in a routine or
+occasional circumstances, factoring the biopsychososcial-ecological system
+supporting multiple promotive also protective factors and processes
+[@ungar2020resilience]. Resilient individuals have three essential
+psychological characteristics, including secure attachment, experiencing
+positive emotions, and having a purpose in life [@rutten2013resilience].
+Resilience is a dynamic process regulating the homeostatic plasticity
+[@vella2019theoretical; @liu2018biological], which reflects a desirable mental
+control, emotion regulation, coping mechanism, self efficacy, sense of purpose,
+positive affect, and social support [@precious2019mental]. Resilient
+individuals are more likely to bounce back from negative events, either by
+promptly adapting or quickly recovering, to accomplish a more favorable mental
+health outcome [@ungar2020resilience].
+
+Individuals with resilient trait have an overall better mental health,
+indicated by higher life satisfaction and positive affect. Accordingly, the
+lack of resilient trait also contributes to heightening depression, anxiety,
+and negative affect [@hu2015meta]. Several studies have also replicated the
+extensive impact of resilience in lowering depression
+[@nakazawa2018resilience], anxiety [@ran2020psychological;
+@schiele2018epigenetics], and burnout [@west2020resilience;
+@luceno2020symptoms], which shall be the main psychological outcomes
+highlighted in this study. Intriguingly, burnout has been established as a
+common association between depression and anxiety [@meier2022meta;
+@koutsimani2019relationship], suggesting a generic yet distinctive process in
+relation to mental resilience [@luceno2020symptoms; @serrao2021burnout]. In a
+situation-specific distress, e.g. the COVID-19 pandemic, individuals with
+higher resilience can adapt better to the abrupt changes, reflected by lower
+trepidation, reduced anxiety, and attenuated depression
+[@barzilay2020resilience]. In Indonesia, the COVID-19 pandemic has caused
+multitude of mental health issues, especially during the large-scale
+containment which halted the economic activities, mostly impacting those in
+mid-low socioeconomic stratum, and hindered social activities, resulting in
+loneliness and in some cases social dejection [@tampubolon2021covid]. The
+pandemic aggravates the mental health situation in Indonesia, where previously
+among older adults, 46.28% experienced stress and 31.72% felt depressed
+[@hanum2022indonesian]. Although the government of Indonesia has implemented
+The Mental Health act in 2014, the resources and facilities are not widely
+available [@tampubolon2021covid; @hanum2022indonesian]. Several online mental
+health services have spurred during the pandemic, but further regulation and
+mitigation from the government is necessary to abate the spread of mental
+health problem [@ifdil2020online], i.e. by establishing a government-verified
+digital counselling platform, multi-stakeholder mental health support program,
+and improving the accessibility of mental health services in the primary health
+care[@tampubolon2021covid]. Considering the intricacies between policy-driven
+action, resilience, situational changes, depression, anxiety, and burnout, the
+upcoming investigations will be mainly concerned with unravelling the question:
+
+> **"What is the long-term effectiveness and cost-effectiveness of various
+> policies to maintain mental resilience amidst adversities, especially
+> regarding their impact on depression, anxiety, and burnout and related
+> medication use?"**
+

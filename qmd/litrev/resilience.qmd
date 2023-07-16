@@ -1,0 +1,29 @@
+## Resilience as an Indicator of Mental Immunity \label{resilience} {#sec-resilience}
+
+Resilience can be seen as a trait or a state of a human psyche, where
+resilience as a trait covers contributing internal factors that help the
+individual to overcome adversities. As a state, resilience is best defined as a
+dynamic adaptive behaviour that emerges due to circumstantial changes. Several
+constituents of resilience as a trait includes habitual effective coping
+mechanism and positive emotions, both act as a buffer against negative life
+events [@davydov2010resilience]. Meanwhile, as a state, resilience is a dynamic
+capacity to adapt supported by the interaction of internal and external
+factors, including biological, psychological, social, and ecological systems
+[@ungar2020resilience]. Resilience as a trait is observable as a non-adaptive
+countermeasures, where the individual will act against the stressful events,
+i.e. being resistant to adversities. On the other hand, resilience as state is
+an adaptive transformation to prevent persistent dysfunction or
+psychopathology [@davydov2010resilience], thus, will be better suited for any
+modelling and policy-directed research.
+
+The intertwining facade of the trait and state of resilience is explainable as
+an inherent activities of neurocircuitries [@rutten2013resilience], where
+gene-environmental interactions play a role in determining individual
+susceptibility to psychiatric illness (resilience as a trait)
+[@amstadter2014psychiatric]. Also, there exists biological mechanism that allow
+experience-dependant plasticity and fuel up adaptability (resilience as a
+state) [@derakhshan2020attentional; @rutten2013resilience]. By considering both
+sides of resilience, This research is concerned with the latter aspect, where
+maintaining an adaptive behavior is of essence to abate the development of
+mental disorder.
+

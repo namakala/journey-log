@@ -1,0 +1,14 @@
+{
+  "hash": "4b310fee5ec34f05225f57707914abcd",
+  "result": {
+    "markdown": "# RESEARCH FRAMEWORK\n\n## Conceptual Framework \\label{concept} {#sec-concept}\n\n@fig-concept explains the conceptual framework of the proposed\ninvestigation. An individual perceives stressors, moderated by an adaptive\nresilience, resulting in a varying degree of psychological outcomes. Any\nmedication taken during the course of observable diagnosis is presumed to\naffect the mental health, which in return influence the resilience. The\ntheoretical remarks of resilience is further investigated in a scoping review\n(denoted by `#1` in the conceptual framework figure), conducted following the methods\nin [-@sec-scoping.rev]. The trend of medication uses (`#2`) is\ninvestigated following the methods in [-@sec-med].  Psychological\noutcomes (`#3`) are investigated following the methods in\n[-@sec-psych.method]. The methods measuring impacts of medication uses to mental\nresilience (`#4`) is described in section [-@sec-cost]. Lastly, the methods\ndelineating the overall theoretical remarks (`#5`) is defined in section\n[-@sec-survey].\n\n\n::: {.cell}\n::: {.cell-output-display}\n![Conceptual framework of how stressors are moderated by mental resilience in affecting the psychological outcome](../fig/conceptual-framework.png){#fig-concept width=\\textwidth}\n:::\n:::\n\n\n\n## Research Hypothesis\n\nThe proposed research encompasses five main topics of interest, and the\nhypotheses are ordered accordingly. For brevity, this section only enlist the\nalternative hypotheses for each topic of interest.\n\n1. Scoping review on resilience and mental health  \n   *H~1~:* Resilience acts as a moderator of stressors and psychological\n   outcomes.\n1. Exploring the trend of medication uses   \n   *H~1~:* There exists a seasonal pattern on the overtime trend of\n   psychopharmaca uses.\n1. Exploring the mental health profile before and during the pandemic  \n   *H~1~:* The health perception is nuanced towards the change of environmental\n   stressors and moderated by individual traits.\n1. Cost-effectiveness analysis of policy measures to increase resilience  \n   *H~1~:* Policies acting on institutional entities influence individual\n   resilience.\n1. Survey on mental resilience, burnout, and depression  \n   *H~1~:* The resilient state is a moderator of stressor and psychological\n   disorders.\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

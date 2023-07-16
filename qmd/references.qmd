@@ -1,0 +1,7 @@
+# REFERENCES {.unnumbered}
+
+\multicols{2}
+\footnotesize
+
+::: {#refs}
+:::
