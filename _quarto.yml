@@ -24,6 +24,7 @@ book:
       usernameUrl: https://hypothes.is/users/lamurian
     giscus:
       repo: diographer/diographer.github.io
+      theme: noborder_dark
 
 website:
   back-to-top-navigation: true
@@ -35,6 +36,8 @@ website:
       usernameUrl: https://hypothes.is/users/lamurian
     giscus:
       repo: diographer/diographer.github.io
+      theme: noborder_dark
+      input-position: top
 
 profile:
   default: site
