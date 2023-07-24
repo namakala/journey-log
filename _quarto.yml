@@ -1,6 +1,5 @@
 project:
   type: book
-  output-dir: _render/site
   preview:
     port: 1810
 
