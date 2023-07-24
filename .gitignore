@@ -1,9 +1,11 @@
 # Untrack the rendered content
 .quarto/*
 _render/*
-**/.quarto/*
+/.quarto/
 
 # Untrack local env files
 *local
 
-/.quarto/
+# Only track specific renv artifact
+renv/*
+!renv/activate.R
