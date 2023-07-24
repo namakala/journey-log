@@ -1,0 +1,12 @@
+:::{.content-hidden when-profile="proposal"}
+
+# Proposal {.unnumbered}
+
+:::
+
+:::{.content-visible when-profile="proposal"}
+
+# ABSTRACT {-}
+
+:::
+

@@ -119,3 +119,8 @@ chat or video call, enables practitioners to provide psychological first aid to
 address elevated distress during the pandemic, depression, and anxiety
 [@ifdil2020online].
 
+:::{.content-hidden unless-profile="site"}
+
+# References {-}
+
+:::

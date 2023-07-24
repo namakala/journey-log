@@ -1,0 +1,116 @@
+---
+date: last-updated
+citation:
+  doi: 10.53962/jn77-mprt
+---
+
+# INTRODUCTION
+
+\pagenumbering{arabic}
+
+## Background
+
+
+Resilience is the adaptability of an individual to adversities in a routine or occasional circumstances, factoring the biopsychososcial-ecological system supporting multiple promotive also protective factors and processes [@ungar2020resilience]. Resilient individuals have three essential psychological characteristics, including secure attachment, experiencing positive emotions, and having a purpose in life [@rutten2013resilience].  Resilience is a dynamic process regulating the homeostatic plasticity [@vella2019theoretical; @liu2018biological], which reflects a desirable mental control, emotion regulation, coping mechanism, self efficacy, sense of purpose, positive affect, and social support [@precious2019mental]. Resilient individuals are more likely to bounce back from negative events, either by promptly adapting or quickly recovering, to accomplish a more favorable mental health outcome [@ungar2020resilience].
+
+Though there are no agreed consensus clarifying the definition of resilience, @rutten2013resilience suggested that resilience constitutes the occurrence of adversity and its mitigation in promoting positive outcomes. The presence of adversity becomes the hallmark of being resilient, both as a trait and a state. Looking from this perspective, it is still a matter of debate whether a resilient individual relies on their innate psychological strength or their ability to adapt when facing risks. Pragmatically, both trait and state of resilience have a particular degree of contribution to promoting individual well-being. On further evaluation, considering that resilience requires both adversity and positive outcomes, it is notable that resilience is an adaptive countermeasure towards adversity. Thus, @rutten2013resilience further argued that the presence of adversity is relevant and essential for an individual to develop resilience. On the other hand, looking at the outcome-based definition, there is a need of bridging risk or adversity and positive individual experience. Resilience is a proposition of a factor advancing the emotive dynamics and the propensity towards positive outcomes. Thus, it is essential to initially define the boundary of adversity and positive outcome before conceptualizing resilience.
+
+The first part of investigating resilience is defining adversity, i.e. an interconnecting facade between external risk factor and internal subjective experience Quantifying adversity requires an association between negative life events and individual adjustment. There exist a statistical magnitude for measuring negative circumstances and its relation to emotional saliency; however, adversity could also be denoted without referencing the statistical threshold. As such, adversity can be evaluated as a presence or absence of suffering in relation to difficulty, implying adversity as a general setback being encountered on daily basis [@rutten2013resilience].
+
+The second part in evaluating resilience is setting a boundary to what positive outcome means. As a generic reference, positive outcome implies an adaptive momentum allowing individuals to recover from a negative setback. When challenged by risk or adversity in life, positive outcome is plausibly explained as the capability to prevent mental illness [@rutten2013resilience]. The presence of adaptive momentum as a positive outcome enables an individual to maintain, regain, or surpass their functional state upon exposure to a negative setback. Having a broader perspective on adversity and positive outcome poses particular merits, including leveraging the limitation of life-event quantification and avoiding too rigid of a formal definition which potentially hinders looking at the blue-sky picture: resilience.
+
+@rutten2013resilience:
+
+- Secure attachment
+- Experience positive emotions
+- Having a purpose in life
+
+@vella2019theoretical & @liu2018biological
+
+- Resilience as a dynamic process regulating homeostatic plasticity
+
+@precious2019mental
+
+- Desirable mental control
+- Emotion regulation
+- Coping mechanism
+- Self efficacy
+- Sense of purpose
+- Positive affect
+- Social support
+
+Individuals with resilient trait have an overall better mental health, indicated by higher life satisfaction and positive affect. Accordingly, the lack of resilient trait also contributes to heightening depression, anxiety, and negative affect [@hu2015meta]. Several studies have also replicated the extensive impact of resilience in lowering depression [@nakazawa2018resilience], anxiety [@ran2020psychological; @schiele2018epigenetics], and burnout [@west2020resilience; @luceno2020symptoms], which shall be the main psychological outcomes highlighted in this study. Intriguingly, burnout has been established as a common association between depression and anxiety [@meier2022meta; @koutsimani2019relationship], suggesting a generic yet distinctive process in relation to mental resilience [@luceno2020symptoms; @serrao2021burnout]. In a situation-specific distress, e.g. the COVID-19 pandemic, individuals with higher resilience can adapt better to the abrupt changes, reflected by lower trepidation, reduced anxiety, and attenuated depression [@barzilay2020resilience]. In Indonesia, the COVID-19 pandemic has caused multitude of mental health issues, especially during the large-scale containment which halted the economic activities, mostly impacting those in mid-low socioeconomic stratum, and hindered social activities, resulting in loneliness and in some cases social dejection [@tampubolon2021covid]. The pandemic aggravates the mental health situation in Indonesia, where previously among older adults, 46.28% experienced stress and 31.72% felt depressed [@hanum2022indonesian]. Although the government of Indonesia has implemented The Mental Health act in 2014, the resources and facilities are not widely available [@tampubolon2021covid; @hanum2022indonesian]. Several online mental health services have spurred during the pandemic, but further regulation and mitigation from the government is necessary to abate the spread of mental health problem [@ifdil2020online], i.e. by establishing a government-verified digital counselling platform, multi-stakeholder mental health support program, and improving the accessibility of mental health services in the primary health care[@tampubolon2021covid]. Considering the intricacies between policy-driven action, resilience, situational changes, depression, anxiety, and burnout, the upcoming investigations will be mainly concerned with unravelling the question:
+
+> **"What is the long-term effectiveness and cost-effectiveness of various
+> policies to maintain mental resilience amidst adversities, especially
+> regarding their impact on depression, anxiety, and burnout and related
+> medication use?"**
+
+
+## Key Issues
+
+
+## Research Questions
+
+
+1. What is the role of resilience in the causality of stressors and the
+   anticipated psychological outcomes?
+1. Is there any seasonal pattern on the overtime trend of psychopharmaca uses?
+1. How does the health perception affected by the change of environmental stressors?
+1. What is the impact of institutional-based policy towards individual resilience?
+1. What is the functional state of resilience in a cross-sectional settings?
+
+## Objectives
+
+
+### General Objectives
+
+
+This research aims to delineate the influence of adaptive resilience as a buffer of general health stressors in eliciting depression, anxiety, and burnout.
+
+:::{.content-hidden}
+
+The general objectives of this research is as a proof of concept regarding the use of a general modelling framework using an agent-based model approach. The general modelling framework will take any input in a form of a graph object, which is rather flexible and extensible. Though the current analytic and simulation capacity is rather narrow, but it shall highlight the importance of model parameters in a dynamic system, represented as an evolving simulation.
+
+:::
+
+### Specific Objectives
+
+
+This research poses five specific objectives, each is focused as a separate
+investigation:
+
+1. Systematically find the required modelling parameter through a scoping
+   review
+1. Evaluate the seasonality of psychopharmaca uses
+1. Extract the temporal health parameter by examining the annual mental health
+   profiles
+1. Measure the cost effectiveness of policy interventions affecting individual
+   resilience
+1. Evaluate the output parameters through a large-scale survey
+
+## Appeals
+
+
+This research focuses on the data mining process, especially to generate new insight and knowledge (knowledge mining).  The tools used in this research shall be free to access under an open-source license, with some restriction to the source code of a more specific use cases, which will be protected under a closed-source license. The highlight of the proposed model is to use agent-based model as a general modelling framework using a graph object as its input. The following subsections shall further elaborate how the general framework and knowledge mining process can be beneficial for the institution, researchers, and general audiences.
+
+### Appeals to the Institution
+
+
+Firstly, this research aims to disentangle the general framework of agent-based modelling in a graph object. The general modelling framework will be useful in various cases representable as a graph object, especially a knowledge graph.  This framework is beneficial for the institution, since a patent for specific use cases would be applicable.
+
+### Appeals to the Researchers
+
+
+Secondly, for researchers, the use of general modelling framework will aid in the modelling workflow. The agent-based model can be treated as a singular building block of an analytic pipeline. This will aid the researchers in generating a more flexible model by incorporating the general modelling framework.
+
+### Appeals to the General Audiences
+
+
+Thirdly, the general audiences will gain benefits from the knowledge mining process. Generally, this research will highlight effective countermeasures against psychological stressors and psychological disorders. Furthermore, this research will yield an insight regarding improving the resilient state.
+
+:::{.content-hidden unless-profile="site"}
+
+# References {-}
+
+:::

@@ -1,0 +1,193 @@
+# METHODS
+
+This chapter briefly describes the general approach for each proposed investigation, starting from section [-@sec-scoping.rev] to [-@sec-survey].  Section [-@sec-scoping.rev] explains the methods on conducting a scoping review to understand how resilience is related to mental health. Section [-@sec-med] will describes the approach on understanding the trend of medication uses.  Section [-@sec-psych.method] elaborates the methods on exploring mental health profiles before and during the pandemic. Section [-@sec-cost] explains the methods on conducting cost-effectiveness analysis. Lastly, section [-@sec-survey] describes the plan on conducting a mental health survey.
+
+### Data Source {-}
+
+The data in secondary analyses is requested through Lifelines, IADB, BPJS, and Pharmlines. IADB and BPJS data are used in section [-@sec-med]. Lifelines data is used in section [-@sec-psych.method]. Parameters gained from all data is used in section [-@sec-cost] From the Lifelines data base, we are interested to query the questionnaire data from the baseline assessment 1A, follow-up questionnaire 1B, follow-up questionnaire 1C, second assessment 2A, and follow-up questionnaire 2B.
+
+## Article 1: Scoping Review on Resilience and Mental Health \label{scoping.rev} {#sec-scoping.rev}
+
+The scoping review aims to collect evidences of how resilience acts as a moderator between the causal relationship of stressors and psychological outcomes. To conduct the scoping review, we limited the scope of systematic search as follow:
+
+- **P:** General population aged >18 years old
+- **I:** Stressors as defined in section [-@sec-stressor] *AND* High resilience
+  *AND* Policy intervention
+- **C:** Stressors as defined in section [-@sec-stressor] *AND* Low resilience
+  *AND* Current practices
+- **O:** Depression *OR* Anxiety *OR* Burnout
+
+### Practical Interpretation {-}
+
+Evidence from the scoping review is used to narrate how stressors and resilience contributes to psychological disorders, namely depression, anxiety, and burnout. Parameters obtained from the scoping review will be used in constructing a mathematical model of cost effectiveness (section [-@sec-cost]).
+
+### Technical Approach {-}
+
+The systematic search is conducted through MEDLINE, Embase, PsychInfo, and CINAHL databases. Filtering is done to include only English-language articles and full paper availability. MeSH, Emtree, and thesaurus are used as applicable to include all relevant terminologies. Papers older than twenty years are excluded in favor of retaining the conceptual integrity of resilience. As explained by @davydov2010resilience, resilience studies in the past were too broad and inclusive as to not differentiating the trait and state of resilience.
+
+## Article 2: Exploring the Trend of Medication Uses \label{med} {#sec-med}
+
+To explore the trend of medication, we relied on the IADB and BPJS data repository. The main variable of interest is medication use over the years. In the exploratory analysis, medication use will be described based on its temporal trend then grouped by subjects' demographics. This approach will let us investigate which medications are prescribed during a specific time of the year.
+
+### Practical Interpretation {-}
+
+The main focus of this exploratory analysis is to find the trend and seasonality of medication uses to be further analyzed in section [-@sec-cost].
+
+### Technical Approach {-}
+
+Periodic medication use (medication name grouped in weekly, monthly, quarterly, or annual basis) can be represented as a sparse matrix, where both rows and columns represent medication entity. $N$ number of medications will then form a square matrix describing the concurrent use of enlisted drugs, therefore, the matrix diagonal represents the use of only one medication over the observation period.  Medication we would consider are psychiatric medication for `ICD-10` codes `F30`-`F39` (mood disorders) and `F40`-`F48` (anxiety, dissociative, stress-related, somatoform, and other non-psychotic mental disorders). The ATC codes for such medications are a part of `N05B` and `N06A`.
+
+The matrix follows a knowledge graph construct with a subject-predicate-object $(s, p, o)$ triples, i.e. `Medication1`-`PrescribedAlongside`-`Medication2`.  The graph object is constructed from recorded prescription claim on a daily epoch.  The edge (predicate) in this graph represents the number of concurrency, which will be different from one epoch to another depending on the number of patients claiming the prescription. To leverage this issue, it is essential to adjust the weight of the edge by dividing to the number of patients ($N$). Adjustment for matrices' elements will regularize all epochs to follow the same scale, as shown in equation [-@eq-adj-mtx1].
+
+$$
+\stackrel{\textrm{Unregularized}}{
+  \begin{bmatrix}
+  n_{1, 1} & \dots & n_{1, N} \\
+  \vdots & \ddots & \vdots \\
+  n_{N, 1} & \dots & n_{N, N} \\
+  \end{bmatrix}
+}
+\to
+\stackrel{\textrm{Regularized by } N}{
+  \begin{bmatrix}
+  \frac{n_{1, 1}}{N} & \dots & \frac{n_{1, N}}{N} \\
+  \vdots & \ddots & \vdots \\
+  \frac{n_{N, 1}}{N} & \dots & \frac{n_{N, N}}{N} \\
+  \end{bmatrix}
+}
+$$ {#eq-adj-mtx1}
+
+Other than the number of patients, we also need to consider regularization based on the defined daily dose [$DDD$, @world2017whocc]. Regularization in equation [-@eq-adj-mtx2] will allow direct comparison of one drug to another when calculating the graph metrics. Regularization based on $DDD$ essentially transforms the dosage into unit-free scale, which will be assigned as a weighted edge in the graph object.
+ 
+$$
+\stackrel{\textrm{Unregularized}}{
+  \begin{bmatrix}
+  n_{1, 1} & \dots & n_{1, N} \\
+  \vdots & \ddots & \vdots \\
+  n_{N, 1} & \dots & n_{N, N} \\
+  \end{bmatrix}
+}
+\to
+\stackrel{\textrm{Regularized by } DDD}{
+  \begin{bmatrix}
+  \frac{1}{2} \cdot \left(\frac{n_1}{DDD_1} + \frac{n_1}{DDD_1} \right) & \dots & \frac{1}{2} \cdot \left(\frac{n_1}{DDD_1} + \frac{n_N}{DDD_N} \right) \\
+  \vdots & \ddots & \vdots \\
+  \frac{1}{2} \cdot \left(\frac{n_N}{DDD_N} + \frac{n_1}{DDD_1} \right) & \dots & \frac{1}{2} \cdot \left(\frac{n_N}{DDD_N} + \frac{n_N}{DDD_N} \right) \\
+  \end{bmatrix}
+}
+$$ {#eq-adj-mtx2}
+
+After obtaining three matrices, we can find the sum of row from the unregularized matrix to calculate the number of individual drug uses in the population. Meanwhile, regularized matrices are useful when constructing graph objects with different weighting, i.e. one weighted by the number of patients and one weighted by the standard dosage recommendation. Graph metrics are individually calculated from both graph objects; per epoch graph metrics are treated as a time-series data, where an epoch equals to daily time point.
+
+Temporal changes of medication uses can be represented as a higher dimension array, creating a temporal embedding to the knowledge graph forming a $(s, p, o, t)$ quadruples [@xu2019temporal; @liu2020context]. As a knowledge graph, matrices in the temporal dimension is subjected to graph measures, which allow us to observe the time-serial change of medication uses. Afterwards, sequences of graph measures are fitted as a time-series data to model the seasonality by performing a time-series decomposition. This investigation will commence using the data of medication uses in the Northern Netherlands as provided by IADB, then, similar approach will be conducted using the data of medication uses in Indonesia as provided by BPJS.
+
+::: {.content-hidden}
+
+ # Inclusion - Exclusion
+
+Inclusion criteria:
+
+- Adult aged 18-65 years old
+- Prescribed for anxiolytics (N05B) or antidepressant (N06A)
+
+Exclusion criteria:
+
+ # Data variables
+
+Required data:
+
+- Patient table:
+  - `anopat`
+  - `mv`
+  - `gebdat`
+- Prescription table
+  - `anopat`
+  - `afldat`
+  - `atc`
+  - `dagdos`
+  - `nddd`
+  - `zkzv`
+  - `bybet`
+- Additional data (if available)
+  - Socioecnomic status (monthly income/expenditure)
+  - Education
+
+ # Analysis
+
+The choice of graph metrics to use would be node centrality, which can be interpreted as node importance in a graph object. From various selection of centrality measures, we will focus on using eigenvector centrality, i.e. a prestige score. By calculating eigenvector centrality, each node will have a relative score. A high-scoring node implies that the node is highly connected with other high-scoring nodes. In a way, this shall reflect the score of importance when one drug is used alongside other drugs. Nodes with high eigenvector centrality can be further interpreted as strongly-connected nodes.
+
+Overtime, changes might occur in the daily medication claim matrices. Such changes are reflected as altering centrality measures in the graph. Changes in eigenvector centrality can imply differences in associated tendency for patients to receive particular medications. Several medications may lose its importance in a particular season, and regain its importance in other seasons. Therefore, it is paramount to investigate the trend and pattern of drug uses as reflected by eigenvector centrality.
+
+In anticipation of noisy data, it is essential to reduce noises by performing data smoothing with a 7-day and 14-day moving average. A period of 7 and 14 days are chosen arbitrarily considering that some drugs may only be prescribed 3 days while some others might be prescribed for two months.
+
+To understand the trend and pattern, I intend to describe the data using a time-series decomposition approach.This will allow separating the components of a time-series data into its constituting trend, seasonality, and noises. The choice of using additive or multiplicative models will be a subject to discuss depends on our initial exploration of the dataset. Afterwards, we can assess the difference of time-series components within the subgroups of the population.
+
+:::
+
+## Article 3: Exploring the Mental Health Profile Before and During the Pandemic \label{psych.method} {#sec-psych.method}
+
+All data in this analysis procedure are queried from Lifelines or other suitable databases. Exploratory analysis on mental health profile takes mental health indicator as the independent variable, represented as mental health (stress), sleep, smoking, and social support. Individual traits, including personality and MMSE, are regarded as moderating variables. The dependent variable would be health perception.
+
+### Practical Interpretation {-}
+
+In this analysis, we are interested in profiling health perception as grouped by event-based sequences, i.e. before and during the pandemic. In each group, population characteristics are described descriptively by evaluating the association of mental health indicators and health perception.
+
+### Technical Approach {-}
+
+A contingency table is constructed to see the proportional difference of the dependent variable based on temporal contingency of before and during the pandemic. This contingency table is then broken down to evaluate the association of independent and dependent variables. The relative differences (represented as percentages) are extracted and then compared based on the temporal contingency. A generalized linear mixed effect regression is then fitted to measure the extent of each independent variable in affecting health perception by controlling for individual trait and grouped by the temporal contingency.
+
+## Article 4: Cost-Effectiveness Analysis of Policy Measures to Increase Resilience \label{cost} {#sec-cost}
+
+In the cost-effectiveness analysis, we are interested to see how effective the designated medication in improving overall well being, health status, and health perception. The general pre-processing step for independent and dependent variables is as described in the section [-@sec-med], where both resulting matrices will be further analyzed using a simulation conducted per agent-based modelling approach.
+
+### Practical Interpretation {-}
+
+Simulating an agent-based model will return the postulated outcome of event, action, and medication defined as a population aggregate from the individual (agent) level.  This simulation will help to determine which policies can have a desirable impact on improving mental resilience.
+
+### Technical Approach {-}
+
+Each individual, institutional, and governmental entity is defined as a different type of agent. All agents follow specific rules as indicated by its parameters and functions. Parameters used in the model is derived from Lifelines, IADB, and BPJS data as discussed in section [-@sec-med] and [-@sec-psych.method].  Functions in this approach is derived from the findings in section [-@sec-scoping.rev], section [-@sec-med], section [-@sec-psych.method], and unpublished work by the author in measuring burnout, depression, and anxiety in Indonesia. Agent interaction is defined in a pre-specified digital space and iterative period with different rate of innervation, e.g. interaction resulting from the governmental entity has the highest rate of innervation because it reach all the other entity. Iterations in this approach is defined as a cycle of 24 hours to represent a daily cycle, and will be set to 1,000 iterations (daily cycles) by default. Data from Pharmlines and BPJS is analyzed per section [-@sec-med] and used as a ground truth when tweaking the baseline parameters to provide a more contextual generalisable model.
+
+## Article 5: Survey on Mental Resilience, Burnout, and Depression \label{survey} {#sec-survey}
+
+This survey is a follow up of previous surveys in Indonesia, including @elvira2021psychological and @lamuri2023burnout. In this survey, we will employ a Maslach's Burnout Inventory [MBI, @Maslach1986] to measure burnout; Beck Depression Inventory (BDI) to measure depression; and Beck Anxiety Inventory (BAI) to measure anxiety; alongside collecting sociodemographic data and exposure to stressors as suggested in @sec-stressor.
+
+### Practical Interpretation {-}
+
+The results from this survey imply the state of being resilient as a moderator of stressor and psychological disorders. Conducting the survey will allow us to propose a streamlined and generalisable approach to measure the effectiveness of suggested policy.
+
+### Technical Approach {-}
+
+The required sample for a survey is estimable following various methods. As proposed by @cochran1977sampling, two factors play an important role in determining the sample size, namely the alpha level and the acceptable level or error. @kotrlik2001organizational summarized several ways of calculating the required sample size, where equation \ref{eq-sample1} and [-@eq-sample2] excerpted the calculation for continuous variable.
+
+\begin{align}
+n_0 &= \frac{t^2 \cdot s^2}{d^2} \label{eq-sample1} \\
+n   &= \frac{n_0}{1 + \frac{n_0}{N}} \label{eq-sample2}
+\end{align}
+
+Denoted in Equation [-@eq-sample1], $n$ is the estimated minimum number of samples; $t$ is the value acquired from T distribution, where $t$ = 1.96 when $\alpha$ = 0.05; $s$ is the estimated standard deviation of responses in the population; $d$ is the acceptable margin of error mean estimation. Computing $s$ requires dividing the number of inclusive scale in a questionnaire response by 6, the total number of deviation in a normal distribution. In case we are using a 7-point scale, the value of $s$ would be $\frac{7}{6}$ = 1.167. Lastly, the acceptable margin of error for mean estimation $d$ is the product of points on scale and the acceptable margin of error, conveniently set as 7 $\cdot$ 0.3 = 0.21.  Equation [-@eq-sample2] is rather straightforward, where the newly introduced variable is $N$ = 10,562,088, representing the total number of population in Jakarta. Plugging in all the numbers into equation resulted in Equation [-@eq-sample3], where the minimum number of samples should be 119.
+
+\begin{align}
+n_0 &= \frac{1.96^2 \cdot 1.167^2}{0.21^2} \label{eq-sample3} \\
+    &= 118.64 \notag \\
+    &\approx 119 \notag \\
+n   &= \frac{119}{1 + \frac{119}{10,562,088}} \notag \\
+    &= 118.99 \notag \\
+    &\approx 119 \notag
+\end{align}
+
+On the other hand, sample size calculation can also be done by inverting the power calculation of a binomial distribution, as presented in [-@eq-sample4]. In this equation, $p$ represents the proportion of event; $z$ is a Z distribution corresponding to the $\alpha$ value; $E$ is the expected maximum error, which is conveniently agreed as 3%. Following this formula, it is possible to integrate disease prevalence as a proportion $p$ when calculating the required sample size. According to @GBD2022, the global prevalence of depression and anxiety in 2019 was 3,440 and 3,779 per 100,000 people, respectively. Thus, the proportion for depression $p_D$ and anxiety $p_A$ are 0.034 and 0.038. By choosing the highest proportion, we can estimate the required sample size as indicated in Equation [-@eq-sample5].
+
+\begin{align}
+n &= \frac{p \cdot (1 - p) \cdot z^2}{E^2} \label{eq-sample4} \\
+  &= \frac{0.038 \cdot (1 - 0.038) \cdot 1.96^2}{0.03^2} \label{eq-sample5} \\
+  &\approx 156 \notag
+\end{align}
+
+Having two sample size estimations, i.e. 119 and 156, we tend to choose the higher number of minimum sample. The survey will use a stratified, clustered random sampling. Initially, a pilot study according to @Cohen2013 will be commenced to acquire 156 individuals representing the general population. Then, the required sample size is recalculated with Monte-Carlo simulation using the pilot data [@Green2016]. All stressors as indicated in section [-@sec-stressor] will be grouped based on its type (general and health-related), then a PCA will be fitted and the first principal component will be extracted. Similarly, the sum of items from each psychological outcomes will be fitted into a PCA model and its first principal component will be extracted. Then, a linear regression model will be fitted to measure the association between the first principal component from stressors and the first principal component from psychological outcomes.  Resilience is defined as the regularized inverted residuals from the linear regression. Further exploratory analysis is then conducted to profile the resilience in all participants. From this profile, we can further infer which variables promote a good resilience.
+
+:::{.content-visible unless-profile="proposal"}
+
+# References {-}
+
+:::

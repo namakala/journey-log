@@ -1,46 +1,42 @@
 project:
   type: book
+  output-dir: _render/site
+  preview:
+    port: 1810
 
 book:
-  title: >
-    Mental Resilience as a Determinant of Burnout, Depression, and Anxiety amidst
-    Adversity
-  author: "Aly Lamuri"
-  date: "7/16/2023"
-  chapters:
-    - index.md
-    - qmd/intro.qmd
-    - qmd/litrev.qmd
-    - qmd/research-framework.qmd
-    - qmd/methods.qmd
-    - qmd/summary.qmd
-    - qmd/references.qmd
+  title: Policy, Health Economics, and Psychological Resilience
+  author:
+    - name: "Aly Lamuri"
+      affiliation:
+        - Rijksuniversiteit Groningen
+        - Universitas Indonesia
+  sharing: [twitter, linkedin]
+  back-to-top-navigation: true
+  downloads: pdf
+  output-file: journey
+  date: last-modified
+  license: "CC BY"
+  comments:
+    hypothesis:
+      theme: clean
+      openSidebar: false
+      showHighlights: always
+      usernameUrl: https://hypothes.is/users/lamurian
 
-format:
-  html:
-    theme: darkly
-  pdf:
-    template: template/ui.tex
-    documentclass: scrreprt
-    include-in-header:
-      text: |
-        \usepackage{longtable}
-        \usepackage{amsmath}
-        \usepackage{amssymb}
-        \usepackage{multicol}
-        \usepackage{float}
-        \floatplacement{figure}{htbp}
-        \floatplacement{table}{htbp}
+website:
+  back-to-top-navigation: true
+  comments:
+    hypothesis:
+      theme: classic
+      openSidebar: false
+      showHighlights: always
+      usernameUrl: https://hypothes.is/users/lamurian
 
-supervisor:
-- "Prof. dr. Mondastri Korib Sudaaryo, MSc, DSc"
-- "Prof. Talitha Feenstra"
-version:
-  no: 3
-  date: 12-07-2023
+profile:
+  default: site
 
 bibliography: ref.bib
-logo: fig/logo-ui.png
 knitr:
   opts_chunk:
     echo: false
@@ -52,3 +48,6 @@ knitr:
     fig.height: 8
     out.width: "\\textwidth"
     comment: "|"
+
+execute:
+  freeze: auto

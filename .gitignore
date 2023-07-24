@@ -1,3 +1,9 @@
 # Untrack the rendered content
-_book/*
 .quarto/*
+_render/*
+**/.quarto/*
+
+# Untrack local env files
+*local
+
+/.quarto/
