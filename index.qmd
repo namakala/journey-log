@@ -13,6 +13,7 @@ format:
       body-width: 950px
 citation:
   doi: 10.53962/jn77-mprt
+comments: false
 ---
 
 :::{.content-hidden unless-profile="proposal"}

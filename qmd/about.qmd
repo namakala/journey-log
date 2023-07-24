@@ -1,5 +1,6 @@
 ---
 title: "AL"
+comments: false
 author:
   - name: "Aly Lamuri"
     email: a.l.m.lamuri.murdani@gmail.com
