@@ -25,17 +25,6 @@ book:
       href: qmd/proposal/references.qmd
 
 format:
-  html:
-    theme:
-      dark: darkly
-      light: flatly
-    toc-title: Contents
-    page-layout: article
-    grid:
-      sidebar-width: 300px
-      body-width: 1200px
-      margin-width: 600px
-    toc: true
   pdf:
     template: style/ui.tex
     documentclass: scrreprt
