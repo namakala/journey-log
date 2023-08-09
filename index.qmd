@@ -16,7 +16,7 @@ citation:
 comments: false
 ---
 
-:::{.content-hidden unless-profile="proposal"}
+:::{.content-hidden unless-format="pdf"}
 
 # Preface {.unnumbered}
 
@@ -24,7 +24,7 @@ I thank God
 
 :::
 
-:::{.content-visible unless-profile="proposal"}
+:::{.content-visible unless-format="pdf"}
 
 ## What am I doing here? {-}
 
