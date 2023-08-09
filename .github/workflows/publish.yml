@@ -45,7 +45,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload quarto render output directory
-          path: "_render/site"
+          path: "_render/proposal"
           
       - name: Deploy to GitHub Pages
         id: deployment
