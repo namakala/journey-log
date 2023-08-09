@@ -2,6 +2,7 @@
 
 \multicols{2}
 \footnotesize
+\pagenumbering{gobble}
 
 ::: {#refs}
 :::

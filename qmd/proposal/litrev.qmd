@@ -1,6 +1,10 @@
 # LITERATURE REVIEW
 
-This chapter shall focus on elaborating theories and findings pertaining to resilience and psychological outcomes. @sec-resilience explains the scope and context of mental resilience in this research. @sec-stressor defines a set of stressors investigated in this research, which will be the generic precipitator of maladaptive behavior. @sec-psych justifies the psychological outcomes. @sec-concept illustrates the conceptual framework of the current proposal.
+This chapter shall focus on elaborating theories and findings pertaining to resilience and psychological outcomes. @sec-resilience explains the scope and context of mental resilience in this research. @sec-stressor defines a set of stressors investigated in this research, which will be the generic precipitator of maladaptive behavior. @sec-psych justifies the psychological outcomes.
+
+## Attachment Theory
+
+@bowlby1973attachment, @hinde1996attachment, @bretherton2013origins
 
 ## Resilience as an Indicator of Mental Immunity \label{resilience} {#sec-resilience}
 
@@ -31,26 +35,20 @@ sides of resilience, This research is concerned with the latter aspect, where
 maintaining an adaptive behavior is of essence to abate the development of
 mental disorder.
 
+## The Neurobiology of Resilience
+
+@vella2019theoretical, @rutten2013resilience
+
+@vella2019theoretical & @liu2018biological
+
+- Resilience as a dynamic process regulating homeostatic plasticity
+
+
 ## Stressors Precipitating the Development of Mental Issues \label{stressor} {#sec-stressor}
 
-Resilience is the moderator between risk factors and psychological disorders,
-therefore, a clear definition of included stressors will aid in developing an
-explainable and generalizable study design [@ungar2020resilience]. Defining the
-stressors also allow us to measure resilience using a reactivity approach,
-where resilience is evaluated as growing tolerance to regular stress
-[@davydov2010resilience]. This way we can partly assess the dynamic process in
-developing an adaptive behavior.
+Resilience is the moderator between risk factors and psychological disorders, therefore, a clear definition of included stressors will aid in developing an explainable and generalizable study design [@ungar2020resilience]. Defining the stressors also allow us to measure resilience using a reactivity approach, where resilience is evaluated as growing tolerance to regular stress [@davydov2010resilience]. This way we can partly assess the dynamic process in developing an adaptive behavior.
 
-The presence of stressors disrupts physiological function to a lower utility
-state [@oken2015systems]. Following the methods proposed by @veer2021psycho,
-our research evaluates two distinct groups of stressor, namely the general
-daily stressor and health-related stressor. The general stressor is an
-instrument comprising ten items of daily hassles and life events, while the
-health-related stressor consists of items reflecting adversity related to
-general health concern in self, families, and close relatives. Any item rated
-as `"TRUE"` is then weighted for the severity, ranging from *not burdensome* (0) to
-*substantially burdensome* (5). Below is the excerpt of the general stressor
-items:
+The presence of stressors disrupts physiological function to a lower utility state [@oken2015systems]. Following the methods proposed by @veer2021psycho, our research evaluates two distinct groups of stressor, namely the general daily stressor and health-related stressor. The general stressor is an instrument comprising ten items of daily hassles and life events, while the health-related stressor consists of items reflecting adversity related to general health concern in self, families, and close relatives. Any item rated as `"TRUE"` is then weighted for the severity, ranging from *not burdensome* (0) to *substantially burdensome* (5). Below is the excerpt of the general stressor items:
 
 - Negative political events
 - Conflicts with relatives or colleagues
@@ -64,10 +62,7 @@ items:
   loneliness
 - Death of a loved one
 
-The health-related stressor in @veer2021psycho was particularly narrating
-distress caused by the COVID-19 pandemic. In brief, these items are comprised
-of trepidation or perceived burden due to a disease, thus adaptable for a more
-general research context.
+The health-related stressor in @veer2021psycho was particularly narrating distress caused by the COVID-19 pandemic. In brief, these items are comprised of trepidation or perceived burden due to a disease, thus adaptable for a more general research context.
 
 ## Psychological Outcomes \label{psych} {#sec-psych}
 

@@ -9,6 +9,7 @@ book:
     title: Policy and Resilience
     style: docked
   output-file: proposal
+  doi: 10.53962/jn77-mprt
   chapters:
     - index.qmd
     - text: Introduction

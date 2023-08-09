@@ -64,7 +64,7 @@ knitr:
     warning: false
     fig.width: 10
     fig.height: 8
-    out.width: "\\textwidth"
+    out.width: "60%"
     comment: "|"
 
 execute:
