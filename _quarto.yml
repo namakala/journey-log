@@ -52,7 +52,7 @@ format:
     toc: true
 
 profile:
-  default: proposal
+  default: site
 
 bibliography: ref.bib
 knitr:

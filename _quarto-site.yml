@@ -1,34 +1,32 @@
 project:
-  type: website
   output-dir: _render/site
-  preview:
-    port: 1810
 
-website:
-  search:
-    type: textbox
-    copy-button: true
-    location: sidebar
+book:
+  title: >
+    Mental Resilience as a Determinant of Burnout, Depression, and Anxiety amidst
+    Adversity
   sidebar:
-    title: "Policy and Resilience"
+    title: Policy and Resilience
     style: docked
-    alignment: right
-    contents:
-      - section: qmd/proposal/index.qmd
-        contents:
-          - text: Introduction
-            href: qmd/proposal/intro.qmd
-          - text: Literature Review
-            href: qmd/proposal/litrev.qmd
-          - text: Research Framework
-            href: qmd/proposal/research-framework.qmd
-          - text: Methods
-            href: qmd/proposal/methods.qmd
-          - text: Summary
-            href: qmd/proposal/summary.qmd
-      - section: qmd/learning-space/index.qmd
-        contents:
-          - text: Graph Theory
-            href: qmd/learning-space/graph-theory.qmd
-      - text: "About"
-        href: qmd/about.qmd
+  output-file: proposal
+  doi: 10.53962/jn77-mprt
+  chapters:
+    - index.qmd
+    - part: qmd/proposal/index.qmd
+      chapters:
+        - text: Introduction
+          href: qmd/proposal/intro.qmd
+        - text: Literature Review
+          href: qmd/proposal/litrev.qmd
+        - text: Research Framework
+          href: qmd/proposal/research-framework.qmd
+        - text: Methods
+          href: qmd/proposal/methods.qmd
+        - text: Summary
+          href: qmd/proposal/summary.qmd
+    - part: qmd/learning-space/index.qmd
+      chapters:
+        - text: Graph Theory
+          href: qmd/learning-space/graph-theory.qmd
+    - text: Bibliography
+      href: qmd/proposal/references.qmd
