@@ -1,8 +1,34 @@
 # LITERATURE REVIEW
 
-This chapter shall focus on elaborating theories and findings pertaining to resilience and psychological outcomes. @sec-resilience explains the scope and context of mental resilience in this research. @sec-stressor defines a set of stressors investigated in this research, which will be the generic precipitator of maladaptive behavior. @sec-psych justifies the psychological outcomes.
+This chapter shall focus on elaborating theories and findings pertaining to resilience and psychological outcomes. @sec-motivation elaborates the motivation behind this research. @sec-attachment summarizes child-parent attachments as proposed by @bowlby1973attachment and @ainsworth1979infant. @sec-resilience explains the scope and context of mental resilience in this research. @sec-stressor defines a set of stressors investigated in this research, which will be the generic precipitator of maladaptive behavior. @sec-psych justifies the psychological outcomes.
 
-## Attachment Theory
+## Why Does Mental Health Matter? {#sec-motivation}
+
+### The Epidemiology of Depressive Disorder
+
+- Clinical definition
+- Symptoms
+- Differential diagnosis
+- Prevalence
+- Cost: Medication, productivity loss
+
+### The Epidemiology of Anxiety Disorder
+
+- Clinical definition
+- Symptoms
+- Differential diagnosis
+- Prevalence
+- Cost: Medication, productivity loss
+
+### The Epidemiology of Burnout
+
+- Clinical definition
+- Symptoms
+- Differential diagnosis
+- Prevalence
+- Cost: Medication, productivity loss
+
+## Attachment Theory {#sec-attachment}
 
 @bowlby1973attachment, @hinde1996attachment, @bretherton2013origins
 
