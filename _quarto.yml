@@ -23,7 +23,7 @@ book:
       showHighlights: always
       usernameUrl: https://hypothes.is/users/lamurian
     giscus:
-      repo: diographer/diographer.github.io
+      repo: namakala/namakala.github.io
       theme: noborder_light
       input-position: top
 
@@ -36,7 +36,7 @@ website:
       showHighlights: always
       usernameUrl: https://hypothes.is/users/lamurian
     giscus:
-      repo: diographer/diographer.github.io
+      repo: namakala/namakala.github.io
       theme: noborder_light
       input-position: top
 
