@@ -4,6 +4,47 @@ This chapter shall focus on elaborating theories and findings pertaining to resi
 
 ## Why Does Mental Health Matter? {#sec-motivation}
 
+```{r}
+#| label: tbl-summary
+#| tbl-cap: Descriptive statistics of mental health indicators from GBD dataset, adapted from @owidmentalhealth
+
+readRDS("../RData/gbd-mental-illness/gbd_report")
+
+```
+
+```{r}
+#| label: tbl-cor-gbd-1
+#| tbl-cap: Pairwise correlation of mental illnesses metrics in high-income countries
+gbd_cor <- readRDS("../RData/gbd-mental-illness/gbd_cor")
+knitr::kable(gbd_cor$high_income)
+
+```
+
+```{r}
+#| label: tbl-cor-gbd-2
+#| tbl-cap: Pairwise correlation of mental illnesses metrics in middle-income countries
+
+knitr::kable(gbd_cor$middle_income)
+
+```
+
+```{r}
+#| label: tbl-cor-gbd-3
+#| tbl-cap: Pairwise correlation of mental illnesses metrics in lower middle-income countries
+
+knitr::kable(gbd_cor$lower_middle_income)
+
+```
+
+```{r}
+#| label: tbl-cor-gbd-4
+#| tbl-cap: Pairwise correlation of mental illnesses metrics in low-income countries
+
+knitr::kable(gbd_cor$low_income)
+
+```
+
+
 ### The Epidemiology of Depressive Disorder
 
 - Clinical definition
