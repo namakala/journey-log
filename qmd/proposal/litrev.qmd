@@ -5,6 +5,15 @@ This chapter shall focus on elaborating theories and findings pertaining to resi
 ## Why Does Mental Health Matter? {#sec-motivation}
 
 ```{r}
+
+gbd    <- readRDS("../RData/gbd-mental-illness/gbd_describe")
+groups <- gbd[[1]]$group
+
+```
+
+Using Global Burden of Diseases (GBD) data from 1990 to 2019, @owidmentalhealth described the scope of problem with mental illnesses, reported as prevalence and disability-adjusted life years (DALY). The GBD dataset enlists 206 countries and 22 country groups according to the World Health Organization, United Nation, and World Bank classification. The clinical diagnoses included in the GBD dataset is depressive disorder, anxiety disorder, bipolar disorder, eating disorder, and schizophrenia. The author replicated this approach in @tbl-summary - [-@tbl-cor-gbd-4] as an attempt to elucidate the pattern of issues by grouping the countries based on their income level, following the World Bank classification. Surprisingly
+
+```{r}
 #| label: tbl-summary
 #| tbl-cap: Descriptive statistics of mental health indicators from GBD dataset, adapted from @owidmentalhealth
 
