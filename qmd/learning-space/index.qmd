@@ -1,5 +1,5 @@
 ---
-comments: false
+listing: grid
 ---
 
 # Learning Space {#sec-learning-space}

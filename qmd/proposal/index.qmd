@@ -1,5 +1,5 @@
 ---
-comments: false
+listing: default
 ---
 
 :::{.content-hidden when-profile="proposal"}
