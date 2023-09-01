@@ -1,0 +1,6 @@
+[submodule "research/gbd-mental-health"]
+	path = research/gbd-mental-health
+	url = git@github.com:namakala/gbd-mental-health
+[submodule "research/medication-trend"]
+	path = research/medication-trend
+	url = git@github.com:namakala/medication-trend
