@@ -2,16 +2,52 @@
 
 This chapter shall focus on elaborating theories and findings pertaining to resilience and psychological outcomes. @sec-motivation elaborates the motivation behind this research. @sec-attachment summarizes child-parent attachments as proposed by @bowlby1973attachment and @ainsworth1979infant. @sec-resilience explains the scope and context of mental resilience in this research. @sec-stressor defines a set of stressors investigated in this research, which will be the generic precipitator of maladaptive behavior. @sec-psych justifies the psychological outcomes.
 
-## Why Does Mental Health Matter? {#sec-motivation}
+```{r init}
 
-```{r}
+pkgs <- c("magrittr")
+pkgs_load <- sapply(pkgs, library, character.only = TRUE)
 
 gbd    <- readRDS("../RData/gbd-mental-illness/gbd_describe")
-groups <- gbd[[1]]$group
+groups <- gbd[[1]]$group %>% set_names(gsub(x = ., "\\W", "_"))
+
+gbd_stats <- lapply(groups, function(grp) {
+  lapply(gbd, \(tbl) tbl %>% subset(.$group == grp, select = -group)) %>%
+    {do.call(rbind, .)} %>%
+    inset2("stat", value = rownames(.)) %>%
+    tidyr::pivot_longer(daly_depress:prev_eat_disorder) %>%
+    inset(c("metrics", "psych"), value = list(
+      "metrics" = gsub(x = .$name, "_.*", ""),
+      "psych"   = gsub(x = .$name, ".*_", "")
+    ))
+})
+
+reportGBD <- function(gbd_stat, m, p) {
+  arr <- gbd_stat %>%
+    subset(
+      subset = {
+        .$stat %in% c("mean", "sd") & .$metrics == m & .$psych == p
+      },
+      select = value
+    ) %>%
+    extract2(1) %>%
+    round(2)
+
+  msg <- "%s%s [%s]"
+
+  if (m == "prev") {
+    msg <- sprintf(msg, arr[[1]], "%", arr[[2]])
+  } else {
+    msg <- sprintf(msg, arr[[1]], "", arr[[2]])
+  }
+
+  return(msg)
+}
 
 ```
 
-Using Global Burden of Diseases (GBD) data from 1990 to 2019, @owidmentalhealth described the scope of problem with mental illnesses, reported as prevalence and disability-adjusted life years (DALY). The GBD dataset enlists 206 countries and 22 country groups according to the World Health Organization, United Nation, and World Bank classification. The clinical diagnoses included in the GBD dataset is depressive disorder, anxiety disorder, bipolar disorder, eating disorder, and schizophrenia. The author replicated this approach in @tbl-summary - [-@tbl-cor-gbd-4] as an attempt to elucidate the pattern of issues by grouping the countries based on their income level, following the World Bank classification. Surprisingly
+## Why Does Mental Health Matter? {#sec-motivation}
+
+Using Global Burden of Diseases (GBD) data from 1990 to 2019, @owidmentalhealth described the scope of problem with mental illnesses, reported as prevalence and disability-adjusted life years (DALY). The GBD dataset enlists 206 countries and 22 country groups according to the World Health Organization, United Nation, and World Bank classification. The clinical diagnoses included in the GBD dataset is depressive disorder, anxiety disorder, bipolar disorder, eating disorder, and schizophrenia. The author replicated this approach in table [-@tbl-summary] - [-@tbl-cor-gbd-4] as an attempt to elucidate the regional issues based on country-level income grouping. Interestingly, depression is the most prevalent in low-income countries ($\bar{x}$^[$\bar{x}$: Sample mean] [$\sigma$^[$\sigma$: Sample standard deviation]] = `r reportGBD(gbd_stats$Low_Income, "prev", "depress")`) and the least prevalent in middle-income country (`r reportGBD(gbd_stats$Middle_Income, "prev", "depress")`). Meanwhile, anxiety is the most prevalent in high-income countries (`r reportGBD(gbd_stats$High_Income, "prev", "anxiety")`) and the least prevalent in lower-middle-income countries (`r reportGBD(gbd_stats$Lower_Middle_Income, "prev", "anxiety")`). The strong and positive association between DALY and prevalence implies the more occurring cases is closely related with increasing burden of diseases. @tbl-cor-gbd-1 - [-@tbl-cor-gbd-4] show that all mental illnesses present with cross association, though with a different pattern occurring in high-level income countries compared to the others. Specifically looking at depression and anxiety, high-income countries presented with a positive association while other countries presented with negative associations.
 
 ```{r}
 #| label: tbl-summary
