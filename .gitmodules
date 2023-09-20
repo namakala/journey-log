@@ -4,3 +4,6 @@
 [submodule "research/medication-trend"]
 	path = research/medication-trend
 	url = git@github.com:namakala/medication-trend
+[submodule "research/resilience-scoping-review"]
+	path = research/resilience-scoping-review
+	url = git@github.com:namakala/resilience-scoping-review
