@@ -3,6 +3,12 @@
 _render/*
 /.quarto/
 
+# Untrack the freeze components
+_freeze/*
+
+# Untrack specific file types
+*pdf
+
 # Untrack local env files
 *local
 
