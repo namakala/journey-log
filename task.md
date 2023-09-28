@@ -32,6 +32,32 @@ For the analysis of the observed proportions, I think it is mostly the heterogen
 
 If you take more than one outcome per study, how could you take account of the dependence these will have? Multilevel analysis an option? Or using clustered standard errors??
 
+# 2023-09-23
+
+- Umbrella review:
+  - Might need to redo the analysis
+  - To discuss with Katja and Nora:
+    - Pros and cons of the current approach
+    - Discuss about multiple entries
+  - Discuss with Xinyu regarding meta-regression done by the mathematician in RUG:
+    - Comparison of methods and packages to conduct metaregression
+    - How to handle logit transformation
+- IADB data:
+  - Recheck the use of persistence toolbox $\to$ Combine parts of the code to my query
+  - Change the overlap query into weekly basis
+  - Check what we know about concurrent medication uses before and during the pandemic
+- Scoping review:
+  - Use multiple search to address:
+    - Stressors, self perception, and resilience
+    - Medication/policy and resilience
+    - Resilience and psychological outcomes
+  - Check PRISMA guideline on selecting articles for a scoping review
+  - Perform bibliometrics analysis to narrow down the search
+  - Need to create a clear selection criteria
+  - Have a discussion with Frederike Jorg/librarian about the search strategy
+  - Check on published articles using scoping review to investigate psychological disorders:
+    - https://doi.org/10.1017/S0033291721004177
+    - https://doi.org/10.1016/j.pnpbp.2020.110111
 
 # 2023-09-19
 

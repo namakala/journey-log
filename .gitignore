@@ -6,6 +6,12 @@ _render/*
 # Untrack local env files
 *local
 
+# Untrack frozen contents
+_freeze/*
+
+# Untrack specific filetypes
+*pdf
+
 # Only track specific renv artifact
 renv/*
 !renv/activate.R
