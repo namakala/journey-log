@@ -2,35 +2,45 @@
 output: pdf_documents
 ---
 
-# TBD
+# 2023-09-29
 
-Some questions regarding the pooling of the proportions. We can discuss tomorrow.
-
-* Do we really want to pool over all studies? That is, do we think we can find a single estimate of the prevalence of MDD in T2DM that would be relevant worldwide and irrespective of outcome or time.
-
-* Maybe here the proportion as a measure of prevalence differs from an effect measure, where you may reasonably assume it to be independent of setting in principle.
-
-* Maybe when we combine all the 634 studies, this gives us the global average, which of course reflects a lot of heterogeneity (as we may expres by presenting a histogram). We should then ensure not to take more than one proportion from each study. (so it will be less than 634).
-* Maybe that is more relevant than taking only the studies that are closest together (to avoid heterogeneity). Since we do expect and understand heterogeneity.
-
-
-Next, for the subgroups. There we focus at one characteristic at a time.
-Do we indeed expect that once we concentrate on country, we can expect to pool? I would be inclined to think so, but as you show, also time, outcome measure and maybe more do matter.
-So question: Once you stratify by country: can we combine studies into a setting specific average? Is homogeneity sufficient? If not, does it make sense to select studies based on being no outlier? Or would it be more appropriate to further stratify for factors that will explain heterogeneity, like time of study and outcome measure?
-
-Regarding time of study: I would prefer to use time of measurement when available. Time of individual study then is a proxy. Time of review is a very crude (maybe too crude) proxy.
-
-About the pooling. Another factor that could explain heterogeneity is underlying prevalence of MDD and of T2DM.
-Next to outcome measure, that may also be a matter of risk profile of the population (e.g. obesitas).
-So could you and Nora also find the expected prevalence (by country/by time), based on published prevalence estimates of MDD and of T2DM (using GBD, WHO, OECD or IHME published numbers, whatever is most clear and consistent); calculate the expected proportion of MDD in T2DM based on such prevalences and then start doing the meta-regression on the remainder (So the additional prevalence of MDD over what you may expect) or maybe on the RR (the crude proportion divided by the expected proportion) or Odds Ratio.
-
-Possibly this latter measure is one that you may expect to be the same irrespective of time or setting more reasonably, since it is more of an effect measure (the effect of T2DM on MDD risk). So then it becomes more reasonable to use established methods of meta-regression packages, which were initially developed for pooling effect measures.
-
-What do you think?
-
-For the analysis of the observed proportions, I think it is mostly the heterogeneity that you need to show in the results: SO how this varies indeed by country (a map would be great), by outcome measure etc.
-
-If you take more than one outcome per study, how could you take account of the dependence these will have? Multilevel analysis an option? Or using clustered standard errors??
+- Meeting with Prof. Mako should be rescheduled to 20 or 27 October
+- Umbrella review:
+  - Anomaly detection:
+    - Instead of removing the outliers based on 95% CI, it's better to apply outlier detection algorithm
+    - Use IQR as a criteria
+    - Span the results based on year, do a five-year rolling window
+  - Metaregression:
+    - Standardize the covariance, they should have the same range
+    - Year: Set the smallest value of year as an index year
+    - Experimental model: Fit a model without $\beta_0$
+    - Addressed concerns:
+      - Pooling of proportion from all entries:
+        - Do we really want to pool over all studies? That is, do we think we can find a single estimate of the prevalence of MDD in T2DM that would be relevant worldwide and irrespective of outcome or time.
+        - Maybe here the proportion as a measure of prevalence differs from an effect measure, where you may reasonably assume it to be independent of setting in principle.
+        - Maybe when we combine all the 634 studies, this gives us the global average, which of course reflects a lot of heterogeneity (as we may expres by presenting a histogram). We should then ensure not to take more than one proportion from each study. (so it will be less than 634).
+        - Maybe that is more relevant than taking only the studies that are closest together (to avoid heterogeneity). Since we do expect and understand heterogeneity.
+      - Subgroup analysis:
+        - Do we indeed expect that once we concentrate on country, we can expect to pool? I would be inclined to think so, but as you show, also time, outcome measure and maybe more do matter.
+        - So question: Once you stratify by country: can we combine studies into a setting specific average? Is homogeneity sufficient? If not, does it make sense to select studies based on being no outlier? Or would it be more appropriate to further stratify for factors that will explain heterogeneity, like time of study and outcome measure?
+      - Next approach to explore:
+        - About the pooling. Another factor that could explain heterogeneity is underlying prevalence of MDD and of T2DM.
+        - Next to outcome measure, that may also be a matter of risk profile of the population (e.g. obesitas).
+        - So could you and Nora also find the expected prevalence (by country/by time), based on published prevalence estimates of MDD and of T2DM (using GBD, WHO, OECD or IHME published numbers, whatever is most clear and consistent); calculate the expected proportion of MDD in T2DM based on such prevalences and then start doing the meta-regression on the remainder (So the additional prevalence of MDD over what you may expect) or maybe on the RR (the crude proportion divided by the expected proportion) or Odds Ratio.
+        - Possibly this latter measure is one that you may expect to be the same irrespective of time or setting more reasonably, since it is more of an effect measure (the effect of T2DM on MDD risk). So then it becomes more reasonable to use established methods of meta-regression packages, which were initially developed for pooling effect measures.
+        - For the analysis of the observed proportions, I think it is mostly the heterogeneity that you need to show in the results: SO how this varies indeed by country (a map would be great), by outcome measure etc.
+        - If you take more than one outcome per study, how could you take account of the dependence these will have? Multilevel analysis an option? Or using clustered standard errors??
+  - Analyzing RR:
+    - Get the prevalence of MDD in the general population based on year and/or country $\to$ Check GBD or IHME
+    - RR = Prevalence of MDD in T2DM, as reported, divided by the prevalence of MDD in the general population
+    - Compare the RR for each subgroup
+  - Bayesian meta-analysis:
+    - Use half-cauchy distribution as a prior for SE
+    - Use beta distribution as a prior for the proportion
+- IADB:
+  - Breakdown the toolbox, check what each lines do
+  - Formulate questions to discuss with Jens
+- Check courses for meta-regression
 
 # 2023-09-23
 
