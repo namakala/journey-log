@@ -2,6 +2,24 @@
 output: pdf_documents
 ---
 
+# 2023-10-05
+
+- Umbrella review:
+  - Do not remove outliers
+  - Use GBD data to calculate the relative risk of having depression in T2DM
+  - Complete the data analysis sub-section in the manuscript
+  - Storytelling:
+    - Do umbrella review on 23 studies $\to$ Fetch all the primary studies
+    - Redo meta-analysis, see that the variance is too high
+    - We attempted to explain the variance $\to$ Subgroup meta-analysis and meta-regression
+    - The heterogeneity is 2% explained by year, meaning that overtime the prevalence of depression is increasing among T2DM patients
+    - Interestingly, the GBD data shows that MDD prevalence stays the same while T2DM is increasing overtime
+    - The increasing MDD prevalence in T2DM might be explained by T2DM
+    - Data from GBD also shows increasing risk of depression in T2DM patients
+- IADB:
+  - Continue breaking down the source codes
+  - Plan a meeting with Talitha and Jens
+
 # 2023-09-29
 
 - Meeting with Prof. Mako should be rescheduled to 20 or 27 October
