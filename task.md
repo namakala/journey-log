@@ -5,14 +5,14 @@ output: pdf_documents
 # 2023-10-12
 
 - Meeting with Prof. Mako: 27 Oct 2023, 16.00 GMT+7 (09.00 GMT+2)
+- Create a time table for the discussion with Prof. Mako and Dr. Frederike $\to$ Plan the minutes of meeting
 - Propose:
   - Prioritize bibliometrics analysis $\to$ Target: journal submission by December, this will also help my introductory essay
   - Expect delays on analysis of IADB data $\to$ Still need one more week to breakdown the toolbox query, will contact Jens to schedule a meeting tomorrow EOD
   - Scoping review following bibliometrics analysis
 - Slide:
   - Speech is ok, but slide is too fast
-  - Keep the point you'd like to discuss
-- Create a time table for the discussion with Prof. Mako and Frederike $\to$ Planned minutes of meeting
+  - Keep the point you'd like to discuss as the main focus of the slide
 - Hanneke from RIVM creates a scoping review on system dynamic model in healthcare $\to$ In the later phase of my scoping review, I should consider having an FGD with RIVM team
 - Umbrella review:
   - Preserve the outliers when analyzing the data
