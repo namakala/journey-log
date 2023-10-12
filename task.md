@@ -2,6 +2,27 @@
 output: pdf_documents
 ---
 
+# 2023-10-12
+
+- Meeting with Prof. Mako: 27 Oct 2023, 16.00 GMT+7 (09.00 GMT+2)
+- Propose:
+  - Prioritize bibliometrics analysis $\to$ Target: journal submission by December, this will also help my introductory essay
+  - Expect delays on analysis of IADB data $\to$ Still need one more week to breakdown the toolbox query, will contact Jens to schedule a meeting tomorrow EOD
+  - Scoping review following bibliometrics analysis
+- Slide:
+  - Speech is ok, but slide is too fast
+  - Keep the point you'd like to discuss
+- Create a time table for the discussion with Prof. Mako and Frederike $\to$ Planned minutes of meeting
+- Hanneke from RIVM creates a scoping review on system dynamic model in healthcare $\to$ In the later phase of my scoping review, I should consider having an FGD with RIVM team
+- Umbrella review:
+  - Preserve the outliers when analyzing the data
+  - Create a pairplot and do descriptive analysis from data with preserved outliers:
+    - Variables:
+      - IV: Prevalence
+      - DV: Year of publication, region, and psychometric instrument
+  - When fitting metaregression: Set region, year of publication, and psychometric instrument as covariates
+  - Consider extracting the dataset and perform clustering analysis
+
 # 2023-10-05
 
 - Umbrella review:
