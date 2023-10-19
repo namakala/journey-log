@@ -2,6 +2,16 @@
 output: pdf_documents
 ---
 
+# 2023-10-19
+
+- Umbrella review:
+  - Discuss about what figures to include in the main manuscript and supplementary
+  - Discuss which journal to submit
+- Scoping review:
+  - Database to use: PsychLit, PsychInfo, PubMed, Scopus, Embase, Web of Science
+- Need to converge the methods for all planned studies
+- Prepare for 6-month interview, talk about it in the first meeting with Prof. Mako
+
 # 2023-10-12
 
 - Meeting with Prof. Mako: 27 Oct 2023, 16.00 GMT+7 (09.00 GMT+2)
