@@ -5,8 +5,20 @@ output: pdf_documents
 # 2023-10-19
 
 - Umbrella review:
+  - Intended message: Raising awareness of depression in T2DM patients
   - Discuss about what figures to include in the main manuscript and supplementary
+    - World Health Bulletin
+    - Lancet Global Health
+  - Should focus more on the diabetes rather than the depression
   - Discuss which journal to submit
+  - Results:
+    - Create a footnote on the first table: Difference in reanalysis may be due to difference in selection
+    - Explaining the meta-regression:
+      - Change the reference into Americas (region) and others (instrument)
+      - Add the reference to the table
+      - Narratively explain how to read the table, give an example
+  - Discussion:
+    - Potentially need to discuss why the results are different
 - Scoping review:
   - Database to use: PsychLit, PsychInfo, PubMed, Scopus, Embase, Web of Science
 - Need to converge the methods for all planned studies
