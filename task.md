@@ -2,6 +2,24 @@
 output: pdf_documents
 ---
 
+# 2023-10-26
+
+- Ask: Access to World Mental Health survey data and CIDI results
+  - CIDI: https://medicine.yale.edu/intmed/vacs/instruments/cidi_lifetime_paper_version_who-1_3299_284_639_v1.pdf
+  - Netherlands participation via ESEMeD (https://www.hcp.med.harvard.edu/wmh/participating_collaborators.php):
+    - Peter de Jonge, PhD - Principal Investigator, University Medical Center Groningen, Netherlands
+    - Margreet ten Have, PhD - Principal Investigator, Netherlands Institute of Mental Health and Addiction (Trimbos Institute)
+    - Pim Cuijpers, PhD, Vrije Universiteit Amsterdam, Netherlands
+    - Johan Ormel, PhD, University of Groningen, Netherlands
+    - Ron de Graaf, PhD, Netherlands Institute of Mental Health and Addiction (Trimbos Institute)
+  - Advantages of conducting WMH survey: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3E80691DB1C878C85779756486267C56/S1121189X00004395a.pdf/the-world-health-organization-world-mental-health-survey-initiative.pdf
+  - Further contact:
+    - South East Asia Regional Office (SEARO)
+      - William G. Axinn, PhD - Principal Investigator, University of Michigan
+      - Dirgha Ghimire, PhD - Principal Investigator, University of Michigan
+    - Western Pacific Regional Office (WPRO) $\to$ Regional coordinator: Kate Scott, PhD, University of Otago, Dunedin, New Zealand
+  - US National Comorbidity Survey (NCS) data access: https://www.hcp.med.harvard.edu/ncs/ncs_data.php
+
 # 2023-10-19
 
 - Umbrella review:
@@ -150,7 +168,7 @@ output: pdf_documents
 - Course to take: https://cursus1.webhosting.rug.nl/gsms/course-information/?tx_seminars_pi1%5BshowUid%5D=1675
 - IADB data:
   - Need to perform descriptive statistics
-  - Tinker the SQL code from IADB toolbox for 
+  - Tinker the SQL code from IADB toolbox for
 - Research proposal:
   - Align the research questions with IADB data request protocol:
     - 1: Add the phrase: "In relation with drug's use"
