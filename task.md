@@ -4,6 +4,9 @@ output: pdf_documents
 
 # 2023-10-26
 
+- Double-doctorate programme:
+  - Confirm to dr. Indri when the MOU between RUG and UI will end
+  - Send full contact information to Prof. Talitha
 - Ask: Access to World Mental Health survey data and CIDI results
   - CIDI: https://medicine.yale.edu/intmed/vacs/instruments/cidi_lifetime_paper_version_who-1_3299_284_639_v1.pdf
   - Netherlands participation via ESEMeD (https://www.hcp.med.harvard.edu/wmh/participating_collaborators.php):
@@ -19,6 +22,8 @@ output: pdf_documents
       - Dirgha Ghimire, PhD - Principal Investigator, University of Michigan
     - Western Pacific Regional Office (WPRO) $\to$ Regional coordinator: Kate Scott, PhD, University of Otago, Dunedin, New Zealand
   - US National Comorbidity Survey (NCS) data access: https://www.hcp.med.harvard.edu/ncs/ncs_data.php
+- Meeting preparation:
+  - Contact dr. Frederike about the plan of joining WHO WMH survey
 
 # 2023-10-19
 
