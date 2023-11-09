@@ -2,6 +2,16 @@
 output: pdf_documents
 ---
 
+# 2023-11-09
+
+- Bibliometrics analysis and scoping review:
+  - Continue on reading about the Bradford's law and Lotka's coefficient
+  - Determine how bibliometrics analysis can help the scoping review
+  - Communicate with the librarian on how to perform search for scoping review
+- Discuss with Prof. Mako:
+  - How to get it touch with dr. Firmansyah, or potentially with the MoH
+  - What to report during the bimonthly meeting
+
 # 2023-10-26
 
 - Double-doctorate programme:
