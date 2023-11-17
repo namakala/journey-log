@@ -2,6 +2,15 @@
 output: pdf_documents
 ---
 
+# 2023-11-16
+
+- Will have a meeting with Prof. Mako on Sunday: Discuss the possibility of connecting with dr. Irmansyah
+- Business generator team in RUG: https://www.businessgeneratorgroningen.com/
+- ISPOR student chapter $\to$ It's possible to do it in RUG
+- Prepare for next week:
+  - Data management plan $\to$ Check the template in RUG's website: https://www.rug.nl/research/grip/research/griprdmp
+  - Checklist for 6-month meeting
+
 # 2023-11-09
 
 - Bibliometrics analysis and scoping review:
