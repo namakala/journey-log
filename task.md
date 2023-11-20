@@ -2,6 +2,21 @@
 output: pdf_documents
 ---
 
+# 2023-11-20
+
+- Survey $\to$ Involve dr. Fidiansyah
+- Proposal should be submitted before December
+- Proposal defense:
+  - Prof. Mako
+  - Prof. Talitha
+  - dr. Irmansyah
+  - dr. Nugroho Harry Santoso
+  - Pak Yahya Umar
+  - Prof. Besral
+- Add a qualitative approach in methods:
+  - FGD: 8-12 people per group $\to$ Number of groups depends on the demography
+  - Semi-structured in-depth interview with community leaders
+
 # 2023-11-16
 
 - Will have a meeting with Prof. Mako on Sunday: Discuss the possibility of connecting with dr. Irmansyah
