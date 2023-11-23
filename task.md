@@ -2,6 +2,12 @@
 output: pdf_documents
 ---
 
+# 2023-11-23
+
+- See the decomposition per claim and per patient as well
+- For time-series analysis, we will need other people knowledgeable in this field to check on our data $\to$ Check with Sumayra
+- Contact Hao to plan a meeting on discussing ISPOR student chapter RUG
+
 # 2023-11-20
 
 - Survey $\to$ Involve dr. Fidiansyah
