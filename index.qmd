@@ -19,8 +19,6 @@ citation:
 
 # Preface {.unnumbered}
 
-I thank God
-
 :::
 
 :::{.content-visible unless-format="pdf"}
