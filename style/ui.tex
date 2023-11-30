@@ -216,9 +216,9 @@ $if(natbib)$
 $if(bibliography)$
 $if(biblio-title)$
 $if(has-chapters)$
-$biblio-title$}
+\renewcommand\bibname{$biblio-title$}
 $else$
-$biblio-title$}
+\renewcommand\refname{$biblio-title$}
 $endif$
 $endif$
 \bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
