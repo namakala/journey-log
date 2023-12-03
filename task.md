@@ -2,6 +2,21 @@
 output: pdf_documents
 ---
 
+# 2023-12-01
+
+- IADB medication claim time-series analysis:
+  - Hypothesis: High eigenvector centrality in medication with low claim
+  - Need people familiar with time-series analysis as a co-author
+  - Create a circular histogram
+  - Email Guiling to confirm her findings
+  - Use causal inference method to get counterfactual trend
+  - Find diagnostic measures
+  - Network analysis:
+    - Find methods to evaluate network evolution
+    - Do a subset analysis on psychopharmaca
+- Contact the principal investigator from SEARO WMH Consortium
+- Complete the six-month interview document and send it to Prof. Talitha
+
 # 2023-11-23
 
 - See the decomposition per claim and per patient as well
