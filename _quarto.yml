@@ -14,7 +14,7 @@ book:
   back-to-top-navigation: true
   downloads: pdf
   output-file: journey
-  date: last-modified
+  date: ""
   license: "CC BY"
   comments:
     hypothesis:

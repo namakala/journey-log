@@ -27,9 +27,13 @@ book:
 
 format:
   pdf:
+    toc: true
+    lot: true
+    lof: true
+    linestretch: 1.5
     pdf-engine: xelatex
     template: style/ui.tex
-    documentclass: scrreprt
+    documentclass: book
     include-in-header:
       text: |
         \usepackage{longtable}
@@ -45,5 +49,5 @@ supervisor:
 - "Prof. dr. Mondastri Korib Sudaryo, MSc, DSc"
 - "Prof. Talitha Feenstra"
 version:
-  no: 3
-  date: 12-07-2023
+  no: 4
+  date: 30-11-2023

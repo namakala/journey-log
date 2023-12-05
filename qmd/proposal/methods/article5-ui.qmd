@@ -1,0 +1,60 @@
+## Study Design
+
+{{< include methods/article5/study-design.qmd >}}
+
+## Location and Time
+
+{{< include methods/article5/location-time.qmd >}}
+
+## Population and Sample
+
+### Research Population
+
+{{< include methods/article5/research-population.qmd >}}
+
+### Research Sample
+
+{{< include methods/article5/research-sample.qmd >}}
+
+### Inclusion and Exclusion Criteria {-}
+
+#### Inclusion Criteria {-}
+
+{{< include methods/article5/inclusion.qmd >}}
+
+#### Exclusion Criteria {-}
+
+{{< include methods/article5/exclusion.qmd >}}
+
+## Sample Size
+
+{{< include methods/article5/sample-size.qmd >}}
+
+## Data Collection
+
+{{< include methods/article5/data-collection.qmd >}}
+
+## Data Processing
+
+{{< include methods/article5/data-processing.qmd >}}
+
+## Data Analysis
+
+{{< include methods/article5/data-analysis.qmd >}}
+
+### Univariate Data Analysis
+
+{{< include methods/article5/univariate.qmd >}}
+
+### Bivariate Data Analysis
+
+{{< include methods/article5/bivariate.qmd >}}
+
+### Multivariable Data Analysis
+
+{{< include methods/article5/multivariable.qmd >}}
+
+### Dummy Table {-}
+
+{{< include methods/article5/dummy-table.qmd >}}
+

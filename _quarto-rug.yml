@@ -16,11 +16,21 @@ book:
       href: qmd/proposal/intro.qmd
     - text: Literature Review
       href: qmd/proposal/litrev.qmd
+    - text: Research Framework
+      href: qmd/proposal/research-framework.qmd
+    - text: Methods
+      href: qmd/proposal/methods.qmd
+    - text: Summary
+      href: qmd/proposal/summary.qmd
     - text: Bibliography
       href: qmd/proposal/references.qmd
 
 format:
   pdf:
+    documentclass: scrbook
+    toc: true
+    lof: true
+    lot: true
     include-in-header:
       text: |
         \usepackage{longtable}
