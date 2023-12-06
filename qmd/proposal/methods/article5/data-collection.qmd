@@ -1,6 +1,38 @@
-The data collected through a large-scale survey are as follow:
-- Screening: https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Screener.pdf
-- Depression: https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Depression.pdf
-- Anxiety: https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20GAD.pdf
+The questionnaire used in the survey is adapted from the WMH study, which employ CIDI to diagnose mental heath issues [@Kessler2012]. Correspondingly, this survey takes some parts of CIDI and items used in the National Comorbidity Survey to ensure that depression and anxiety closely resemble the diagnostic criteria. The data collected through a large-scale survey are as follow:
 
-A large-scale survey will be conducted online following the convenience sampling procedure. Convenience sampling, a part of non-probability sampling, is favored due to its simplicity and applicability. Although convenience sampling does not directly support generalizability to the general population, it is possible to match respondents' demography, which will allow generalizing specific sub-populations to a certain degree. On the other hand, using a probability sampling method is naturally desirable; however, without an institutionally accessible internet panel for research purposes in Indonesia, probability sampling is impractical. By adopting convenience sampling, we can establish a pseudo-panel comprised of multiple groups of heterogeneous sub-populations. A list of pseudo-panelists is selected through clustered random sampling by adjusting representativeness using the demography data. The disadvantage of this approach is the inability to pre-allocate respondents into clusters, which is only made possible during interim analysis after data collection.
+- Screening data:^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Screener.pdf]
+  1. Age
+  1. Sex
+  1. Domicile
+  1. Marital status
+  1. Height
+  1. Weight
+  1. Smoking status
+  1. Sleeping issue frequency
+  1. Nervousness frequency
+  1. Headache frequency
+  1. Loss of appetite frequency
+  1. Upset stomach frequency
+  1. Number of days affected by health condition
+- Employment and financial status:^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Employment.pdf]
+  1. Current employment status
+  1. Years spent working
+  1. Industrial sector
+  1. Job levels in the workplace
+  1. Range of monthly income
+  1. Range of monthly expenses
+- Cause of worries:^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Worries%20and%20Unhappiness.pdf]
+  1. Economic and material
+  1. Children
+  1. Marriage
+  1. Other interpersonal issues
+  1. Job
+  1. Personal health
+  1. Family's health
+  1. Independence
+  1. Personal characteristics
+  1. Community, national, or world problems
+- Depression diagnostic criteria^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Depression.pdf]
+- Anxiety diagnostic criteria^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20GAD.pdf]
+
+A large-scale survey will be conducted online following the convenience sampling procedure. As a part of non-probability sampling, convenience sampling is favored due to its simplicity and applicability. Although convenience sampling does not directly support generalizability to the general population, it is possible to match respondents' demography data, which will allow generalizing specific sub-populations to a certain degree. On the other hand, using a probability sampling method is naturally desirable; however, without an institutionally accessible internet panel for research purposes in Indonesia, probability sampling in an online survey is impractical. By adopting convenience sampling, we can establish a pseudo-panel comprised of multiple groups of heterogeneous sub-populations. A list of pseudo-panelists is selected through clustered random sampling by adjusting representativeness using the demography data. The disadvantage of this approach is the inability to pre-allocate respondents into clusters, which is only made possible during interim analysis during data collection.
