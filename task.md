@@ -9,6 +9,13 @@ output: pdf_documents
   - Mean Error, Mean Absolute Error, Root Mean Squared Error
   - Mean Percentage Error, Mean Absolute Percentage Error, Mean Absolute Scaled Error
   - Autocorrelation of errors at lag 1
+- Check literatures on time-series analysis for medication claim/prescription data
+- Ask Stijn about temporal network analysis
+- Make a different descriptive plot:
+  - Y axis: Metrics
+  - X axis: Jan - Dec
+  - Color: Year
+  - Circular histogram plot for each year
 
 # 2023-12-01
 
