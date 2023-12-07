@@ -2,6 +2,14 @@
 output: pdf_documents
 ---
 
+# 2023-12-07
+
+- Split dataset into training and testing
+- Evaluate metrics based on https://stats.stackexchange.com/a/418386
+  - Mean Error, Mean Absolute Error, Root Mean Squared Error
+  - Mean Percentage Error, Mean Absolute Percentage Error, Mean Absolute Scaled Error
+  - Autocorrelation of errors at lag 1
+
 # 2023-12-01
 
 - IADB medication claim time-series analysis:
