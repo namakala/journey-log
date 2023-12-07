@@ -1,4 +1,4 @@
-The questionnaire used in the survey is adapted from the WMH study, which employ CIDI to diagnose mental heath issues [@Kessler2012]. Correspondingly, this survey takes some parts of CIDI and items used in the National Comorbidity Survey to ensure that depression and anxiety closely resemble the diagnostic criteria. The data collected through a large-scale survey are as follow:
+The questionnaire used in the survey is adapted from the WMH study, which employ CIDI to diagnose mental heath issues [@Kessler2012]. Correspondingly, this survey takes some parts of CIDI and items used in the National Comorbidity Survey to ensure that depression and anxiety closely resemble the clinical diagnostic criteria. The rationale behind collecting these data is to enable stratification based on age and sex, also calibration using depression prevalence; both are further detailed under section [-@sec-dt-process]. The data collected through a large-scale survey are as follow:
 
 - Screening data:^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Screener.pdf]
   1. Age
