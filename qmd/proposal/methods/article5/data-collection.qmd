@@ -1,12 +1,10 @@
-The questionnaire used in the survey is adapted from the WMH study, which employ CIDI to diagnose mental heath issues [@Kessler2012]. Correspondingly, this survey takes some parts of CIDI and items used in the National Comorbidity Survey to ensure that depression and anxiety closely resemble the clinical diagnostic criteria. The rationale behind collecting these data is to enable stratification based on age and sex, also calibration using depression prevalence; both are further detailed under section [-@sec-dt-process]. The data collected through a large-scale survey are as follow:
+The questionnaire used in the survey is adapted from the WMH study, which employs CIDI to diagnose mental heath issues [@Kessler2012]. Correspondingly, this survey takes some parts of CIDI and items used in the National Comorbidity Survey to ensure that depression and anxiety closely resemble the clinical diagnostic criteria. The rationale behind collecting these data is to enable stratification based on age and sex, also calibration using depression prevalence; both are further detailed under section [-@sec-dt-process]. The data collected through a large-scale survey are as follow:
 
 - Screening data:^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Screener.pdf]
   1. Age
   1. Sex
   1. Domicile
   1. Marital status
-  1. Height
-  1. Weight
   1. Smoking status
   1. Sleeping issue frequency
   1. Nervousness frequency
@@ -34,5 +32,6 @@ The questionnaire used in the survey is adapted from the WMH study, which employ
   1. Community, national, or world problems
 - Depression diagnostic criteria^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Depression.pdf]
 - Anxiety diagnostic criteria^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20GAD.pdf]
+- Maslach's burnout inventory
 
-A large-scale survey will be conducted online following the convenience sampling procedure. As a part of non-probability sampling, convenience sampling is favored due to its simplicity and applicability. Although convenience sampling does not directly support generalizability to the general population, it is possible to match respondents' demography data, which will allow generalizing specific sub-populations to a certain degree. On the other hand, using a probability sampling method is naturally desirable; however, without an institutionally accessible internet panel for research purposes in Indonesia, probability sampling in an online survey is impractical. By adopting convenience sampling, we can establish a pseudo-panel comprised of multiple groups of heterogeneous sub-populations. A list of pseudo-panelists is selected through clustered random sampling by adjusting representativeness using the demography data. The disadvantage of this approach is the inability to pre-allocate respondents into clusters, which is only made possible during interim analysis during data collection.
+A large-scale survey will be conducted online following the convenience sampling procedure. As a part of non-probability sampling, convenience sampling is favored due to its simplicity and applicability. Although using a probability sampling method is naturally desirable, the absence of an institutionally accessible internet panel for research purposes in Indonesia renders probability sampling in an online survey impractical. For a practical purpose, we can establish a pseudo-panel comprised of multiple groups of heterogeneous sub-populations by adopting convenience sampling. Although convenience sampling does not directly support generalizability to the general population, it is possible to match respondents' demography data to the basic health research (*riset kesehatan dasar*/Riskesdas), which will allow generalizing specific sub-populations to a certain degree. A list of pseudo-panelists is selected through clustered random sampling by adjusting representativeness using demography data. The disadvantage of this approach is the inability to pre-allocate respondents into clusters, which is only possible by conducting an interim analysis during data collection.
