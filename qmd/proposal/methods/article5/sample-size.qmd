@@ -24,5 +24,5 @@ n &= \frac{p \cdot (1 - p) \cdot z^2}{E^2} \label{eq-sample4} \\
   &\approx 156 \notag
 \end{align}
 
-Having two sample size estimations, i.e. 119 and 156, the higher number of minimum sample is preferred. The survey will use a stratified, clustered random sampling. Initially, a pilot study according to @Cohen2013 will be commenced to acquire 156 individuals representing the general population. Then, the required sample size is recalculated with Monte-Carlo simulation using the pilot data [@Green2016].
+Having two sample size estimations, i.e. 119 and 156, the higher number of minimum sample is preferred. Initially, a pilot study according to @Cohen2013 will be commenced to acquire 156 individuals from the general population. Then, the required sample size is recalculated with Monte-Carlo simulation using the pilot data [@Green2016].
 
