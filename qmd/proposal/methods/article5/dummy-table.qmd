@@ -49,7 +49,7 @@ tbl <- tibble::tibble(
 )
 
 knitr::kable(tbl, booktabs = TRUE, longtable = TRUE) %>%
-  kableExtra::add_header_above(c(" " = 1, "Psych. Disorder" = 2, " " = 1))
+  kableExtra::add_header_above(c(" " = 1, "Psych. Disorder" = 2, " " = 2))
 
 ```
 
