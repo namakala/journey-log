@@ -61,9 +61,21 @@ Resilience is the adaptability of an individual to adversities in a routine or o
 
 Individuals with resilient trait have an overall better mental health, indicated by higher life satisfaction and positive affect. Accordingly, the lack of resilient trait also contributes to heightening depression, anxiety, and negative affect [@hu2015meta]. Several studies have also replicated the extensive impact of resilience in lowering depression [@nakazawa2018resilience], anxiety [@ran2020psychological; @schiele2018epigenetics], and burnout [@west2020resilience; @luceno2020symptoms], which shall be the main psychological outcomes highlighted in this study. Intriguingly, burnout has been established as a common association between depression and anxiety [@meier2022meta; @koutsimani2019relationship], suggesting a generic yet distinctive process in relation to mental resilience [@luceno2020symptoms; @serrao2021burnout]. In a situation-specific distress, e.g. the COVID-19 pandemic, individuals with higher resilience can adapt better to the abrupt changes, reflected by lower trepidation, reduced anxiety, and attenuated depression [@barzilay2020resilience]. In Indonesia, the COVID-19 pandemic has caused multitude of mental health issues, especially during the large-scale containment which halted the economic activities, mostly impacting those in mid-low socioeconomic stratum, and hindered social activities, resulting in loneliness and in some cases social dejection [@tampubolon2021covid]. The pandemic aggravates the mental health situation in Indonesia, where previously among older adults, 46.28% experienced stress and 31.72% felt depressed [@hanum2022indonesian]. Although the government of Indonesia has implemented The Mental Health act in 2014, the resources and facilities are not widely available [@tampubolon2021covid; @hanum2022indonesian]. Several online mental health services have spurred during the pandemic, but further regulation and mitigation from the government is necessary to abate the spread of mental health problem [@ifdil2020online], i.e. by establishing a government-verified digital counselling platform, multi-stakeholder mental health support program, and improving the accessibility of mental health services in the primary health care[@tampubolon2021covid]. Considering the intricacies between policy-driven action, resilience, situational changes, depression, anxiety, and burnout, the upcoming investigations will be mainly concerned with unravelling the question:
 
+::: {.content-visible when-profile="proposal"}
+
+> **"What is the role of resilience in the emergence of psychological disorder in the presence of stressors?"**
+
+:::
+
+::: {.content-hidden when-profile="proposal"}
+
 > **"What is the long-term effectiveness and cost-effectiveness of various policies to maintain mental resilience amidst adversities, especially regarding their impact on depression, anxiety, and burnout and related medication use?"**
 
+:::
+
 ## Research Questions
+
+::: {.content-visible when-profile="rug"}
 
 1. What is the role of resilience in the causality of stressors and the anticipated psychological outcomes in relation with medication uses?
 1. Is there any seasonal pattern on the overtime trend of psychopharmaca uses?
@@ -71,13 +83,22 @@ Individuals with resilient trait have an overall better mental health, indicated
 1. What is the impact of institutional-based policy towards individual resilience?
 1. What is the functional state of resilience in a cross-sectional setting?
 
+:::
+
+::: {.content-visible when-profile="proposal"}
+
+1. What is the role of resilience in the emergence of psychological outcomes?
+1. What is the functional state of resilience in a cross-sectional setting?
+
+:::
+
 ## Objectives
 
 ### General Objectives
 
-This research aims to delineate the influence of adaptive resilience as a buffer of general health stressors in eliciting depression, anxiety, and burnout.
+This research aims to delineate the influence of state resilience as a buffer of general health stressors in eliciting depression, anxiety, and burnout.
 
-:::{.content-hidden}
+::: {.content-hidden}
 
 The general objectives of this research is as a proof of concept regarding the use of a general modelling framework using an agent-based model approach. The general modelling framework will take any input in a form of a graph object, which is rather flexible and extensible. Though the current analytic and simulation capacity is rather narrow, but it shall highlight the importance of model parameters in a dynamic system, represented as an evolving simulation.
 

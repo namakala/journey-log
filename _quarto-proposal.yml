@@ -43,6 +43,9 @@ format:
         \usepackage{float}
         \floatplacement{figure}{htbp}
         \floatplacement{table}{htbp}
+        \usepackage{lscape}
+        \newcommand{\blandscape}{\begin{landscape}}
+        \newcommand{\elandscape}{\end{landscape}}
 
 logo: fig/logo-ui.png
 supervisor:
@@ -50,4 +53,4 @@ supervisor:
 - "Prof. Talitha Feenstra"
 version:
   no: 4
-  date: 30-11-2023
+  date: 13-12-2023

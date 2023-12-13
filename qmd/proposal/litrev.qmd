@@ -249,6 +249,18 @@ In a recent finding, burnout is partially explainable by depression and anxiety.
 
 Several policies have been implemented to alleviate the mental health burden in Indonesia, mainly highlighted in the Mental Health Act in 2014 [@tampubolon2021covid], and further defined in the Indonesian Minister of Health Regulation Number 77 of 2015 and Indonesian Minister of Health Regulation Number 54 of 2017 [@hartono2018tracking]. During the pandemic, the government of Indonesia has stipulated a Presidential Decree R1 No. 7 of 2020 to promptly respond the pandemic; however, the practical implementation has not addressed mental health issues. Though, several ongoing initiatives led by the government has been realized as a regulation on managing a digital counselling platform [@tampubolon2021covid]. The digital platform, conducted through various chat-based and video call-based application, helps the general population to get in touch with therapists, psychologists, counselors, and educational practitioners [@ifdil2020online]. Tele-consulting, either through chat or video call, enables practitioners to provide psychological first aid to address elevated distress during the pandemic, depression, and anxiety [@ifdil2020online].
 
+::: {.content-hidden unless-profile="proposal"}
+
+\blandscape
+
+## Theoretical Framework
+
+![Theoretical framework of adversity, resilience, and psychological outcomes](../../fig/resilience-theoretical-framework.drawio.png){width=95%}
+
+\elandscape
+
+:::
+
 :::{.content-hidden unless-profile="site"}
 
 # References {-}

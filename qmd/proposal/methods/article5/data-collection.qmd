@@ -5,12 +5,9 @@ The questionnaire used in the survey is adapted from the WMH study, which employ
   1. Sex
   1. Domicile
   1. Marital status
-  1. Smoking status
   1. Sleeping issue frequency
   1. Nervousness frequency
   1. Headache frequency
-  1. Loss of appetite frequency
-  1. Upset stomach frequency
   1. Number of days affected by health condition
 - Employment and financial status:^[https://www.hcp.med.harvard.edu/ncs/ftpdir/replication/US%20Employment.pdf]
   1. Current employment status

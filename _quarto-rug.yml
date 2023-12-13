@@ -33,6 +33,7 @@ format:
     lot: true
     include-in-header:
       text: |
+        \usepackage{typearea}
         \usepackage{longtable}
         \usepackage{amsmath}
         \usepackage{amssymb}
