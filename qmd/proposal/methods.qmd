@@ -1,3 +1,17 @@
+---
+execute:
+  freeze: false
+---
+
+```{r init}
+
+pkgs <- c("magrittr")
+pkgs_load <- sapply(pkgs, library, character.only = TRUE)
+
+options(knitr.kable.NA = "")
+
+```
+
 # METHODS
 
 ::: {.content-hidden unless-profile=rug}

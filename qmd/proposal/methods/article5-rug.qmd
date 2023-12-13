@@ -62,7 +62,3 @@ The results from this survey imply the state of being resilient as a moderator o
 
 {{< include methods/article5/multivariable.qmd >}}
 
-#### Dummy Table {-}
-
-{{< include methods/article5/dummy-table.qmd >}}
-

@@ -135,62 +135,89 @@ Each covariate from the substantive factors contribute to explaining the heterog
 
 Naturally, the heterogeneity of predicted global prevalence is also affected by methodological factors, but only to a lesser degree. The identified contributing covariates to the heterogeneity are the use of past-year prevalence and the presence of multiple disorders. Contributing factors of the heterogeneity is, of course, not to be taken at its face value. These factors do not necessarily define the causality or direct inferential association. Despite uncertain estimates of the global prevalence, the predicted prevalence of 7.3% by @Baxter2012 is highly in line with and confirming findings obtained by @who2004prevalence.
 
-Elaborate:
-
-- Patophysiology
-- Cost: Medication, productivity loss
-
 ### Burnout
 
-Elaborate:
+Clinicians face challenges in identifying clinical burnout as it's not officially recognized in DSM-5 or ICD-10. Diverse labels such as work-related neuroasthenia, somatoform or adjustment disorders, severe stress reactions, and even depression are employed to define burnout, resulting in inconsistent evaluation. Solely relying on questionnaires poses a challenge in distinguishing between mild stress and clinical burnout, as short-term stress can raise burnout indicators similarly to major depression or anxiety. The distinction between short-term work-related stress and clinical burnout lies in their respective coping mechanisms and the evolution of symptoms over time. Short-term stress often emerges in response to immediate stressors like conflicts at work, increased workload, or organizational changes, prompting individuals to seek help within a few months—an indication of healthy coping strategies [@vanDam2021].
 
-- Clinical definition
-- Symptoms
-- Differential diagnosis
-- Prevalence
-- Cost: Medication, productivity loss
+In contrast, clinical burnout patients tend to overlook stress symptoms for extended periods, sometimes years, as living with chronic stress becomes their norm. The final collapse often stems from seemingly minor stressors, acting as the tipping point after prolonged exposure to chronic stress. Unlike those with short-term stress, individuals experiencing burnout don't readily seek assistance during stress but persist stoically without vocalizing their distress. This perseverance characterizes their coping style, coupled with an aversion to seeking social support. While perseverance might be protective in certain situations where an individual maintains control, it becomes maladaptive without control, contributing to chronic stress maintenance. Surprisingly, burnout patients, despite experiencing fatigue, don't tend to adjust their performance strategies by adopting less demanding approaches, contrary to what's observed in fatigued yet healthy individuals. Instead, they exhibit a persistent drive to sustain high task performance standards [@vanDam2021].
+
+The transition from short-term stress to clinical burnout is marked by how individuals respond to stress, the duration of symptom neglect, and their coping strategies. While short-term stress prompts immediate seeking of help, burnout evolves silently over time, propelled by chronic stress and perseverance. The development of clinical burnout is first marked by the lack of recovery, where affected subjects tend to express aversion to spending effort in recognizing their problems. Second, physiological changes of stress-response system take place, manifesting as sleep difficulties, inability to relax, and restlessness. Third, chronic stress symptoms emerge, leading to physical, mental, emotional, and behavioral issues. During this phase, affected subjects may complain of intestinal problem, musculoskeletal pain, or fatigue. Fourth, pseudopsychopathology begins to get noticeable, signified by applying more rigid problem solving and simplified cognitive process. Fifth, the clinical burnout becomes apparent with reduced motivation, emotional breakdown, severe fatigue, and passivity [@vanDam2021]. As outlined by @Kaschka2011 in figure [-@fig-burnout-type], the phases of burnout may continuously happen as an active and passive processes. The active process of burnout strongly associates with personality and internal factors, while the active process of burnout relates with external factors.
+
+Internal factors of ongoing burnout:
+
+- Elevated personal expectations driven by idealism
+- Intense desire for recognition and validation
+- Consistent inclination to please other people over personal needs
+- Reluctance to assign tasks to others
+- Excessive dedication leading to self-overestimation
+- Considering work as the sole meaningful pursuit, replacing social interactions
+
+External factors of ongoing burnout:
+
+- High work demands
+- Leadership and collaboration issues
+- Conflicting instructions
+- Time constraints and urgency
+- Hostile work environment, including bullying
+- Limited decision-making freedom
+- Inadequate influence on work organization
+- Limited participation opportunities
+- Restricted autonomy in expressing opinions
+- Hierarchy-related challenges
+- Ineffective internal communication between employers and employees
+- Administrative limitations
+- Pressure exerted by superiors
+- Escalating responsibilities
+- Inefficient work organization
+- Scarcity of resources (staff, funding)
+- Dysfunctional institutional regulations
+- Perceived absence of promotion at work
+- Unclear job roles
+- Deficient positive reinforcement
+- Inadequate team synergy
+- Lack of social support
+
+```{r fig-burnout-type}
+#| fig-cap: The type of burnout, as outlined by @Kaschka2011
+
+knitr::include_graphics("../../fig/type-burnout.png")
+
+```
+
+Suggested by @moss2019burnout in the Harvard Business Review, burnout is a workplace-related issue, not merely individual problems. Annually, the United States spend approximately USD 190 billion due to workplace stress, nearly 8% of their national healthcare expenditure. Beyond economic cost, workplace stress also poses an imminent danger, contributing to 120,000 deaths each year [@Goh2016]. A study involving 375 stressed employees from the Australian mining sector revealed that 23.4% had missed work due to health issues, and 6.7% struggled to focus at work because of health problems in the past month. On average, stressed employees' work efficiency decreased by 33.6%, resulting in an average cost of USD 45,000 per employee. Notably, persistent work-related stress significantly escalated costs, far surpassing those with occasional or moderate stress, emphasizing the substantial impact of stress on productivity [@Street2018]. Insufficient social support leads to heightened stress, while higher job performance correlates with reduced stress levels. Work-life conflict significantly contributes to workplace stress, which may increase the perceived stress level. This underscores the challenge organizations face in balancing flexible work setups and optimal performance, where prolonged exposure to work-related stress negatively affects performance and well-being. Conversely, fostering a supportive work environment and promoting social interaction and organizational support can alleviate stress. Leaders focusing on the work environment and encouraging social support play a crucial role in diminishing employee stress levels [@Foy2019].
 
 ## Attachment Theory {#sec-attachment}
 
-@bowlby1973attachment, @hinde1996attachment, @bretherton2013origins
+Attachment Theory, as proposed by @bowlby1973attachment, revolves around the importance of attachment-based strategies in managing emotions. It explores how various interactions with important individuals mold these strategies. Bowlby suggested that infants possess inherent attachment behaviors geared toward seeking closeness to supportive figures, serving as a primary strategy to alleviate distress and foster a feeling of security.  The theory highlights the evolutionary significance of this attachment system, aiding the survival of infants reliant on caregivers due to their limitations. Bowlby stressed that this system operates across an individual's lifespan, shaping behaviors related to seeking support. He outlined three key roles for an attachment figure: maintaining proximity, offering a secure haven for comfort during distress, and providing a secure base for exploration and growth.
+
+Bowlby also emphasized individual differences in attachment functioning, noting that responsive and available interactions foster a sense of security, while unavailability leads to negative self-perceptions and alternative strategies for managing emotions beyond seeking closeness. These variations give rise to attachment styles, initially categorized as secure, anxious, and avoidant in infancy, which later evolve into a two-dimensional space based on attachment anxiety and avoidance in adult relationships. The secure style reflects low levels of anxiety and avoidance, indicating comfort with intimacy and assurance in relationships. Anxious attachment indicates high anxiety and low avoidance, displaying a strong need for closeness coupled with fear of rejection. Conversely, the avoidant style represents high avoidance, signaling a preference for independence and emotional distance.
+
+Both anxious and avoidant styles signify the failure of seeking closeness to ease distress, leading to secondary strategies for managing emotions.  Bowlby's theory suggests that seeking closeness serves as the primary strategy for regulating emotions, with attachment experiences shaping additional strategies. This comprehension illuminates the complexities of emotional regulation and its influence on relationships, stemming from early interactions and impacting behavior throughout an individual's life [@mikulincer2003attachment]. Activation of the attachment style in adult corresponds to the imminent threat and perceived danger, as shown by figure [-@fig-attach-activ]
+
+```{r fig-attach-activ}
+#| fig-cap: Activation and dynamics of the attachment system proposed by @mikulincer2002activation
+
+knitr::include_graphics("../../fig/attachment-activation-mikulincer.png")
+
+```
+
+In a general context, eliciting negative affect will produce different behaviors among people with secure and insecure attachment styles, specifically for sociotropic and autonomous stressors. Sociotropic stressors are those related to interpersonal loss and social rejection, while autonomous stressors are those emerging from the violation of one's internal standards. Though no strong justification in drawing a clear boundary between sociotropic and autonomous stressors, especially due to their interrelatedness, different patterns emerge when the stressors are perceived by subjects with different attachment styles. People exhibiting insecure attachment styles, whether dismissive or anxious, showed greater susceptibility to sociotropic events. Dismissive individuals, owing to their detached and emotionally distant behavior, faced increased vulnerability to future sociotropic events, resulting in interpersonal difficulties. Conversely, anxious individuals might undergo heightened distress levels because they interpret conflicts as signs of emotional connection, leading to strain in their interpersonal relationships [@Bottonari2007].
 
 ## Resilience as an Indicator of Mental Immunity \label{resilience} {#sec-resilience}
 
-Resilience can be seen as a trait or a state of a human psyche, where
-resilience as a trait covers contributing internal factors that help the
-individual to overcome adversities. As a state, resilience is best defined as a
-dynamic adaptive behaviour that emerges due to circumstantial changes. Several
-constituents of resilience as a trait includes habitual effective coping
-mechanism and positive emotions, both act as a buffer against negative life
-events [@davydov2010resilience]. Meanwhile, as a state, resilience is a dynamic
-capacity to adapt supported by the interaction of internal and external
-factors, including biological, psychological, social, and ecological systems
-[@ungar2020resilience]. Resilience as a trait is observable as a non-adaptive
-countermeasures, where the individual will act against the stressful events,
-i.e. being resistant to adversities. On the other hand, resilience as state is
-an adaptive transformation to prevent persistent dysfunction or
-psychopathology [@davydov2010resilience], thus, will be better suited for any
-modelling and policy-directed research.
+Resilience can be seen as a trait or a state of a human psyche, where resilience as a trait covers contributing internal factors that help the individual to overcome adversities. As a state, resilience is best defined as a dynamic adaptive behavior that emerges due to circumstantial changes. Several constituents of resilience as a trait includes habitual effective coping mechanism and positive emotions, both act as a buffer against negative life events [@davydov2010resilience]. Meanwhile, as a state, resilience is a dynamic capacity to adapt supported by the interaction of internal and external factors, including biological, psychological, social, and ecological systems [@ungar2020resilience]. Resilience as a trait is observable as a non-adaptive countermeasures, where the individual will act against the stressful events, i.e. being resistant to adversities. On the other hand, resilience as state is an adaptive transformation to prevent persistent dysfunction or psychopathology [@davydov2010resilience], thus, will be better suited for any modelling and policy-directed research.
 
-The intertwining facade of the trait and state of resilience is explainable as
-an inherent activities of neurocircuitries [@rutten2013resilience], where
-gene-environmental interactions play a role in determining individual
-susceptibility to psychiatric illness (resilience as a trait)
-[@amstadter2014psychiatric]. Also, there exists biological mechanism that allow
-experience-dependant plasticity and fuel up adaptability (resilience as a
-state) [@derakhshan2020attentional; @rutten2013resilience]. By considering both
-sides of resilience, This research is concerned with the latter aspect, where
-maintaining an adaptive behavior is of essence to abate the development of
-mental disorder.
+The intertwining facade of the trait and state of resilience is explainable as an inherent activities of neurocircuitries [@rutten2013resilience], where gene-environmental interactions play a role in determining individual susceptibility to psychiatric illness (resilience as a trait) [@amstadter2014psychiatric]. Also, there exists biological mechanism that allow experience-dependant plasticity and fuel up adaptability (resilience as a state) [@derakhshan2020attentional; @rutten2013resilience]. By considering both sides of resilience, This research is concerned with the latter aspect, where maintaining an adaptive behavior is of essence to abate the development of mental disorder.
 
 ## The Neurobiology of Resilience {#sec-neurobio-resilience}
 
-@vella2019theoretical, @rutten2013resilience
+The mechanisms underlying the neurobiology of resilience involve intricate neural circuits governing stress response and reward experiences. Feedback mechanisms within the brain and body regulate stress reactions, pivotal for sustained health and reducing mental health disturbances post-severe adversities. Major neural systems controlling stress response include the hypothalamus–pituitary–adrenal (HPA) axis, sympathetic nervous system, and dopaminergic and serotonergic pathways. Activation of the HPA axis triggers the release of hormones like corticotrophin releasing hormone and adrenocorticotropic hormone, leading to the production of glucocorticoids. While short-term elevation of cortisol aids adaptive behavior, prolonged high cortisol levels can impede neurogenesis. The neurocircuitry governing reward experiences centers on mesolimbic dopaminergic pathways from the Ventral Tegmental Area (VTA) to the nucleus accumbens (NAc). This system integrates sensory input and cognitive control, regulating dopamine release in the VTA. Connections with other brain regions contribute to the activity of this circuitry [@rutten2013resilience].
 
-@vella2019theoretical & @liu2018biological
+Together with HPA axis, the medial prefrontal cortex (mPFC) plays a key role in stress response, where hyperactive mPFC generate depression-like behavior.  The hippocampus, crucial for regulating the stress response, demonstrates vulnerability to stress; its dysfunction is associated with depression, and circuits from the hippocampus to other brain areas influence resilience to stress. GABAergic receptors in the hippocampus and dopaminergic pathways from the VTA to the NAc impact stress resilience, where impaired GABAergic neurons in the NAc elicits depression-like behaviors. Stress during early life can have lasting effects on mental health, yet mild stress exposure early on might enhance resilience. As such, adverse childhood experiences correlate with increased risk for psychological and physical diseases later in life, while stress inoculation during childhood may improve resilience [@liu2018biological].
 
-- Resilience as a dynamic process regulating homeostatic plasticity
+Furthermore, an aberrant regulation within cellular and molecular levels can influence resilience or stress response, emphasizing the role of genetic and environmental factors. Genetic moderation of environmental sensitivity explains individual responses to similar environments, revealing interactions between genes and environment as critical for outcomes. Stressful events can heighten psychiatric risk in individuals carrying specific gene variants like 5HTT, FKBP5, and CRH1. Epigenetics, regulating gene transcription independent of DNA sequence, profoundly influences adaptation to external stimuli. Mechanisms like DNA methylation and chromatin structure changes impact brain development, neurogenesis, and cognitive functions like memory and learning, implying its role in individual stress responses. Epigenetic mechanisms underpin individual variation in response to environmental exposures, influencing neurobiological processes during development and aging [@rutten2013resilience].
 
+A healthy response to stress is crucial for long-term well-being and reduced mental health issues following exposure to severe adversity. Critical neural systems governing stress responses, including the HPA axis, the sympathetic nervous system, and neurotransmitter systems like dopamine and serotonin, play pivotal roles. Genetic factors contribute significantly to how individuals respond to stress in the same environment, illustrating the interplay between genetics and the environment. Mechanisms influenced by experiences at cellular, subcellular, and molecular levels shape the way experiences are imprinted, impacting neural adaptability and sensitivity. While human studies emphasize the importance of social networks and positive experiences in resilience, replicating these in animal models remains a challenge. Resilience isn't just an absence of risk; it comprises distinct biological and psychological traits that aid successful adaptation or swift recovery from adversity-induced mental health issues. Exposure to multiple adverse events during development can sensitize an individual's behavior and central nervous system, potentially leading to susceptibility to psychiatric disorders [@vella2019theoretical].
 
 ## Stressors Precipitating the Development of Mental Issues \label{stressor} {#sec-stressor}
 
@@ -214,53 +241,13 @@ The health-related stressor in @veer2021psycho was particularly narrating distre
 
 ## Psychological Outcomes \label{psych} {#sec-psych}
 
-Depression, anxiety, and burnout are selected as outcomes of interest due to
-the relatedness between burnout $\rightleftharpoons$ depression and burnout
-$\rightleftharpoons$ anxiety [@koutsimani2019relationship]. The partial
-correlations have a moderate effect size, signifying the boundary between
-burnout and depression also burnout and anxiety. Therefore, statistically,
-each of depression, anxiety, and burnout does not share similar latent
-construct even though they have closely-related manifests. This is
-interpretable as distinctive remarks to differentiate three of such outcomes
-and the clinical importance of examining the others when one is present.
+Depression, anxiety, and burnout are selected as outcomes of interest due to the relatedness between burnout $\rightleftharpoons$ depression and burnout $\rightleftharpoons$ anxiety [@koutsimani2019relationship]. The partial correlations have a moderate effect size, signifying the boundary between burnout and depression also burnout and anxiety. Therefore, statistically, each of depression, anxiety, and burnout does not share similar latent construct even though they have closely-related manifests. This is interpretable as distinctive remarks to differentiate three of such outcomes and the clinical importance of examining the others when one is present.
 
-Burnout is a condition of increasing depersonalization and emotional
-exhaustion, leading to reduced personal accomplishment in the workplace (sense
-of inefficacy). Burnout often happens due to a long-term ongoing stressor,
-where the inability to cope with external issues decreases work engagement
-[@Schaufeli2017]. The incidence of burnout overlaps with psychological
-distress, marked by depressive symptoms or anxiety.
+Burnout is a condition of increasing depersonalization and emotional exhaustion, leading to reduced personal accomplishment in the workplace (sense of inefficacy). Burnout often happens due to a long-term ongoing stressor, where the inability to cope with external issues decreases work engagement [@Schaufeli2017]. The incidence of burnout overlaps with psychological distress, marked by depressive symptoms or anxiety.
 
-In a recent finding, burnout is partially explainable by depression and
-anxiety. Depression symptoms pose similar characteristics to exhaustion and
-depersonalization, while anxiety is related to the sense of personal inefficacy
-[@golonka2019occupational]. In theory, depression is marked by the loss of
-energy (fatigue) and anxiety is marked by being excessively worried; but a
-study suggested the presence of anxious depression [@gaspersz2018patients],
-which in turn also implies a pathophysiological overlap between depression and
-anxiety.  Moreover, lower brain connectivity in the default mode network is a
-curious co-occurrence between depression [@jacob2020neural], anxiety
-[@imperatori2019default], and burnout [@shang2022aberrant]. Neurobiological,
-clinical, and contextual overlaps between depression, anxiety, and burnout
-necessitate the inclusion of these outcomes to infer a more general impact of
-associated stressors.
+In a recent finding, burnout is partially explainable by depression and anxiety. Depression symptoms pose similar characteristics to exhaustion and depersonalization, while anxiety is related to the sense of personal inefficacy [@golonka2019occupational]. In theory, depression is marked by the loss of energy (fatigue) and anxiety is marked by being excessively worried; but a study suggested the presence of anxious depression [@gaspersz2018patients], which in turn also implies a pathophysiological overlap between depression and anxiety.  Moreover, lower brain connectivity in the default mode network is a curious co-occurrence between depression [@jacob2020neural], anxiety [@imperatori2019default], and burnout [@shang2022aberrant]. Neurobiological, clinical, and contextual overlaps between depression, anxiety, and burnout necessitate the inclusion of these outcomes to infer a more general impact of associated stressors.
 
-Several policies have been implemented to alleviate the mental health burden in
-Indonesia, mainly highlighted in the Mental Health Act in 2014
-[@tampubolon2021covid], and further defined in the Indonesian Minister of
-Health Regulation Number 77 of 2015 and Indonesian Minister of Health
-Regulation Number 54 of 2017 [@hartono2018tracking]. During the pandemic, the
-government of Indonesia has stipulated a Presidential Decree R1 No. 7 of 2020
-to promptly respond the pandemic; however, the practical implementation has not
-addressed mental health issues. Though, several ongoing initiatives led by the
-government has been realized as a regulation on managing a digital counselling
-platform [@tampubolon2021covid]. The digital platform, conducted through
-various chat-based and video call-based application, helps the general
-population to get in touch with therapists, psychologists, counselors, and
-educational practitioners [@ifdil2020online]. Tele-consulting, either through
-chat or video call, enables practitioners to provide psychological first aid to
-address elevated distress during the pandemic, depression, and anxiety
-[@ifdil2020online].
+Several policies have been implemented to alleviate the mental health burden in Indonesia, mainly highlighted in the Mental Health Act in 2014 [@tampubolon2021covid], and further defined in the Indonesian Minister of Health Regulation Number 77 of 2015 and Indonesian Minister of Health Regulation Number 54 of 2017 [@hartono2018tracking]. During the pandemic, the government of Indonesia has stipulated a Presidential Decree R1 No. 7 of 2020 to promptly respond the pandemic; however, the practical implementation has not addressed mental health issues. Though, several ongoing initiatives led by the government has been realized as a regulation on managing a digital counselling platform [@tampubolon2021covid]. The digital platform, conducted through various chat-based and video call-based application, helps the general population to get in touch with therapists, psychologists, counselors, and educational practitioners [@ifdil2020online]. Tele-consulting, either through chat or video call, enables practitioners to provide psychological first aid to address elevated distress during the pandemic, depression, and anxiety [@ifdil2020online].
 
 :::{.content-hidden unless-profile="site"}
 
