@@ -2,6 +2,16 @@
 output: pdf_documents
 ---
 
+# 2023-12-14
+
+- Prof. Talitha will join the pre-proposal defense on the 20th of December 2023
+- Input for proposal:
+  - Will be commented on Saturday
+  - Figures: Clarify how medication affect resilience
+- IADB TS:
+  - Use monthly data to evaluate periodicity
+  - Explore periodicity in first-order differenced data
+
 # 2023-12-07
 
 - Split dataset into training and testing
