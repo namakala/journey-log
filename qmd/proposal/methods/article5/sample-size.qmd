@@ -20,9 +20,9 @@ On the other hand, sample size is also estimable by following equation \ref{eq-s
 
 \begin{align}
 n &= \frac{p \cdot (1 - p) \cdot z^2}{E^2} \label{eq-sample4} \\
-  &= \frac{0.038 \cdot (1 - 0.038) \cdot 1.96^2}{0.03^2} \label{eq-sample5} \\
-  &\approx 156 \notag
+  &= \frac{0.062 \cdot (1 - 0.062) \cdot 1.96^2}{0.03^2} \label{eq-sample5} \\
+  &\approx 250 \notag
 \end{align}
 
-Having two sample size estimations, i.e. 119 and 156, the higher number of minimum sample is preferred. Initially, a pilot study according to @Cohen2013 will be commenced to acquire 156 individuals from the general population. Then, the required sample size is recalculated with Monte-Carlo simulation using the pilot data [@Green2016].
+Having two sample size estimations, i.e. 119 and 250, the higher number of minimum sample is preferred. Initially, a pilot study according to @Cohen2013 will be commenced to acquire 250 individuals from the general population. Then, the required sample size is recalculated with Monte-Carlo simulation using the pilot data [@Green2016].
 

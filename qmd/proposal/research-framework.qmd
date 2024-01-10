@@ -72,7 +72,7 @@ alternative hypotheses for each topic of interest.
 1. What is the role of resilience in the emergence of psychological outcomes?  
    *H~1~*: Resilience acts as a moderator of stressors and psychological outcomes
 1. What is the functional state of resilience in a cross-sectional setting?  
-   *H~1~*: The state resilience moderates the impact of stressors on psychological outcomes
+   *H~1~*: The state resilience is a buffer reflected as a reactivity against stressors
 
 :::
 
