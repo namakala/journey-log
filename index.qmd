@@ -15,7 +15,7 @@ citation:
   doi: 10.53962/jn77-mprt
 ---
 
-:::{.content-hidden unless-format="pdf"}
+:::{.content-hidden}
 
 # Preface {.unnumbered}
 
