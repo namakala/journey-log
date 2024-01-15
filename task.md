@@ -2,6 +2,31 @@
 output: pdf_documents
 ---
 
+# 2024-01-15
+
+- Preparation for 6-mo interview
+- Suggestions from the presentation:
+  - Definition on resilience is important, keep it that way
+  - Use only conceptual framework for RUG intro essay, no need for theoretical framework
+  - Describe a bit about medication use in mental health issue, e.g. how it impacts resilience
+- When planning the survey:
+  - Consult to Prof. Mirra and Prof. Frederike
+  - Need: Face validity, pilot study, dissemination
+  - Plan for the proposal defense by the EOY
+  - Include more variables relevant to ABM
+  - Set the deadline when the ethical clearance should be submitted
+- Scoping review:
+  - Expedite the bibliometrix analysis
+  - Start searching and reading
+- IADB analyis: Should be finished by the EOM in April
+- Conferences to check:
+  - IHEA: https://healtheconomics.org/events
+  - InaHTA
+  - EuroHEA
+  - ISPOR
+  - HTEA
+  - SMDM
+
 # 2023-12-14
 
 - Prof. Talitha will join the pre-proposal defense on the 20th of December 2023
