@@ -2,6 +2,14 @@
 output: pdf_documents
 ---
 
+# 2024-01-19
+
+- Ask the secretary (Vicky) for the UMCG card
+- Reschedule the 6-mo interview with Prof. Frederike and Prof. Talitha
+- Share link about Git course to Prof. Talitha
+- Discuss about time-series analysis with other PhD students/Post-docs
+- Dutch's PhD conference in mental health
+
 # 2024-01-15
 
 - Preparation for 6-mo interview
