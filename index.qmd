@@ -21,7 +21,7 @@ citation:
 
 :::
 
-:::{.content-visible unless-format="pdf"}
+:::{.content-hidden unless-format="html"}
 
 ## What am I doing here? {-}
 
