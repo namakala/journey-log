@@ -2,6 +2,12 @@
 output: pdf_documents
 ---
 
+# 2024-01-26
+
+- Consider using policies/events during COVID-19 pandemic as exogenous regressors
+- Contact people from Econometrics and Operations Research group
+- Have a discussion with Irene
+
 # 2024-01-19
 
 - Ask the secretary (Vicky) for the UMCG card
