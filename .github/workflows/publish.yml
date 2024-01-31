@@ -42,7 +42,7 @@ jobs:
         uses: actions/configure-pages@v4
         
       - name: Upload rendered site
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           # Upload quarto render output directory
           path: "_render/site"
