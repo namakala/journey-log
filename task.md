@@ -2,6 +2,15 @@
 output: pdf_documents
 ---
 
+# 2024-01-31
+
+- Plan a regular meeting with Prof. Frederike, preferably biweekly $\to$ Joint meeting with Prof. Talitha
+- Communicate results in a general context, avoid technical jargon if possible
+- Keep the main objectives in check
+- Consult to experts before submitting a paper
+- Ask Taichi about pint of science
+- Find about science communication at https://europa.eu/
+
 # 2024-01-26
 
 - Consider using policies/events during COVID-19 pandemic as exogenous regressors
