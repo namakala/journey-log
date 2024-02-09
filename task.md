@@ -2,6 +2,18 @@
 output: pdf_documents
 ---
 
+# 2024-02-09
+
+- Umbrella review:
+  - Need to add explanation on the methods
+  - Add a section on data analysis
+  - Elaborate how to explain the data
+  - Check out on the risk of bias (Egger's test) $\to$ Consider to remove it
+  - Add line of expected prevalence to the figure
+- Medication trend:
+  - Add the method section and elaborate in full extend what I did
+  - Sent the report summary to Jens and Frederike
+
 # 2024-01-31
 
 - Plan a regular meeting with Prof. Frederike, preferably biweekly $\to$ Joint meeting with Prof. Talitha
