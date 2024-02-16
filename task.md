@@ -2,6 +2,18 @@
 output: pdf_documents
 ---
 
+# 2024-02-16
+
+- Add weekly aggregate of sociodemographic data as a covariate when performing further modelling, discuss it with Jens:
+  - Age
+  - Sex (ratio of male:female)
+- Draft a analytic plan for modelling:
+  - Model selection phase
+  - Interrupted time series analysis
+  - Vector autoregression between eigenvector centrality and number of claims
+- Allocate at least one day to revisit the draft on umbrella review
+- Plan a meeting with Jens and Prof. Frederike
+
 # 2024-02-09
 
 - Umbrella review:
