@@ -2,6 +2,17 @@
 output: pdf_documents
 ---
 
+# 2024-02-29
+
+- Produce diagnostic plot of eigentriple plot from SSA
+- Schedule a meeting with Prof. Frederike
+- Prepare a short slide containing:
+  - Updated research questions
+  - Brief on methods
+  - Diagnostic plots
+  - Preliminary results
+- Check out TRIMBOS NEMESIS $\to$ They use CIDI in Netherlands
+
 # 2024-02-16
 
 - Add weekly aggregate of sociodemographic data as a covariate when performing further modelling, discuss it with Jens:
