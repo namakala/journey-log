@@ -2,6 +2,31 @@
 output: pdf_documents
 ---
 
+# 2024-03-07
+
+- Discussion with Prof. Frederike:
+  - Prepare a slide outlining my plan
+  - Use some parts from proposal presentation
+  - Emphasize how these projects will go inline
+  - Main goal: Implementing ABM to measure the cost-effectiveness of public health policy related to mental resilience
+- Survey:
+  - Further correspondence
+- ISPOR: Think more about what to achieve in two years
+- ABM:
+  - Check out courses on health economics $\to$ Usually starts in Autumn
+  - Mastricht/Rotterdam might have a course on modelling with R $\to$ Contact Jinjing Fu
+
+# 2024-03-05
+
+- Visit https://brightspace.rug.nl/ to access learning materials
+- Questions to ask to students:
+  - How do you calculate the cost?
+  - What does the histogram imply?
+- Scoring:
+  - Prof. Talitha will send an example of well-written report
+  - Score the essay using a rubrik/standardized grading form
+- Every group will handle two excel files for QALY and pain score
+
 # 2024-02-29
 
 - Produce diagnostic plot of eigentriple plot from SSA
