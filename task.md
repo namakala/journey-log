@@ -2,6 +2,14 @@
 output: pdf_documents
 ---
 
+# 2024-03-13
+
+- Discussion with Prof. Eelko:
+  - Ensure that the query is well controlled $\to$ No growing/shrinking population
+  - The data should reflect a static cohort from 2018 to 2022
+  - Subset the patient to only include DDD = 1
+- Need to think more about why regularize against DDD
+
 # 2024-03-07
 
 - Discussion with Prof. Frederike:
