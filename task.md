@@ -2,6 +2,22 @@
 output: pdf_documents
 ---
 
+# 2024-03-15
+
+- IADB analysis:
+  - Make a simulation to assess which weighting method suits the dataset $\to$ Per discussion with Spyros:
+    - Baseline: Unregularized matrix of number of claims
+    - Weight 1: $\frac{1}{k} \left( \frac{n_i}{DDD_i} + \frac{n_j}{DDD_j} \right); k \in \{1, ..., 9\}$
+    - Weight 2: $\frac{1}{k} \left( \frac{n_i + n_j}{DDD_i + DDD_j} \right); k \in \{1, ..., 9\}$
+  - Continue the analysis plan:
+    - Find the best-fitting model for each series
+    - Conduct an interrupted time-series analysis
+    - Fit a VAR model for eigenvector centrality and the number of claim
+  - Consider fitting an exponential random graph model to temporal graphs of co-medication
+- Prepare the document for the 9-month interview
+- Recheck the TSP and review the thesis component
+- Determine how to outline the thesis
+
 # 2024-03-13
 
 - Discussion with Prof. Eelko:
