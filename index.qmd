@@ -1,7 +1,7 @@
 ---
 author:
   - name: "Aly Lamuri"
-    email: a.l.m.lamuri.murdani@gmail.com
+    email: a.l.m.lamuri.murdani@rug.nl
     orcid: 0000-0002-3410-3767
     affiliation:
       - Rijksuniversiteit Groningen

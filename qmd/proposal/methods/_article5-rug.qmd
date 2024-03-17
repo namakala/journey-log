@@ -8,57 +8,57 @@ The results from this survey imply the state of being resilient as a moderator o
 
 ### Study Design
 
-{{< include methods/article5/study-design.qmd >}}
+{{< include methods/article5/_study-design.qmd >}}
 
 ### Location and Time
 
-{{< include methods/article5/location-time.qmd >}}
+{{< include methods/article5/_location-time.qmd >}}
 
 ### Population and Sample
 
 #### Research Population
 
-{{< include methods/article5/research-population.qmd >}}
+{{< include methods/article5/_research-population.qmd >}}
 
 #### Research Sample
 
-{{< include methods/article5/research-sample.qmd >}}
+{{< include methods/article5/_research-sample.qmd >}}
 
 #### Inclusion and Exclusion Criteria {-}
 
 ##### Inclusion Criteria {-}
 
-{{< include methods/article5/inclusion.qmd >}}
+{{< include methods/article5/_inclusion.qmd >}}
 
 ##### Exclusion Criteria {-}
 
-{{< include methods/article5/exclusion.qmd >}}
+{{< include methods/article5/_exclusion.qmd >}}
 
 ### Sample Size
 
-{{< include methods/article5/sample-size.qmd >}}
+{{< include methods/article5/_sample-size.qmd >}}
 
 ### Data Collection
 
-{{< include methods/article5/data-collection.qmd >}}
+{{< include methods/article5/_data-collection.qmd >}}
 
 ### Data Processing {#sec-dt-process}
 
-{{< include methods/article5/data-processing.qmd >}}
+{{< include methods/article5/_data-processing.qmd >}}
 
 ### Data Analysis
 
-{{< include methods/article5/data-analysis.qmd >}}
+{{< include methods/article5/_data-analysis.qmd >}}
 
 #### Univariate Data Analysis
 
-{{< include methods/article5/univariate.qmd >}}
+{{< include methods/article5/_univariate.qmd >}}
 
 #### Bivariate Data Analysis
 
-{{< include methods/article5/bivariate.qmd >}}
+{{< include methods/article5/_bivariate.qmd >}}
 
 #### Multivariable Data Analysis
 
-{{< include methods/article5/multivariable.qmd >}}
+{{< include methods/article5/_multivariable.qmd >}}
 

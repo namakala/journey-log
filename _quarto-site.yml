@@ -8,7 +8,7 @@ book:
   sidebar:
     title: Policy and Resilience
     style: docked
-  output-file: proposal
+  output-file: site
   doi: 10.53962/jn77-mprt
   chapters:
     - index.qmd
@@ -28,5 +28,9 @@ book:
       chapters:
         - text: Graph Theory
           href: qmd/learning-space/graph-theory.qmd
+    - part: qmd/presentation/index.qmd
+      chapters:
+        - text: Introduction to Git
+          href: qmd/presentation/intro-git/index.qmd
     - text: Bibliography
       href: qmd/proposal/references.qmd

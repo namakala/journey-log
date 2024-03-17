@@ -22,19 +22,19 @@ This chapter briefly describes the general approach for each proposed investigat
 
 The data in secondary analyses is requested through Lifelines, IADB, BPJS, and Pharmlines. IADB and BPJS data are used in section [-@sec-med]. Lifelines data is used in section [-@sec-psych.method]. Parameters gained from all data is used in section [-@sec-cost] From the Lifelines data base, we are interested to query the questionnaire data from the baseline assessment 1A, follow-up questionnaire 1B, follow-up questionnaire 1C, second assessment 2A, and follow-up questionnaire 2B.
 
-{{< include methods/article1.qmd >}}
+{{< include methods/_article1.qmd >}}
 
-{{< include methods/article2.qmd >}}
+{{< include methods/_article2.qmd >}}
 
-{{< include methods/article3.qmd >}}
+{{< include methods/_article3.qmd >}}
 
-{{< include methods/article4.qmd >}}
+{{< include methods/_article4.qmd >}}
 
-{{< include methods/article5-rug.qmd >}}
+{{< include methods/_article5-rug.qmd >}}
 
 :::
 
-{{< include methods/article5-ui.qmd >}}
+{{< include methods/_article5-ui.qmd >}}
 
 :::{.content-visible unless-profile="proposal"}
 
