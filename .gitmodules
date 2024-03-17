@@ -7,3 +7,6 @@
 [submodule "research/resilience-scoping-review"]
 	path = research/resilience-scoping-review
 	url = git@github.com:namakala/resilience-scoping-review
+[submodule "research/namakala.github.io"]
+	path = research/namakala.github.io
+	url = git@github.com:namakala/namakala.github.io.git
