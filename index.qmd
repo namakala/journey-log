@@ -1,5 +1,7 @@
 ---
 format:
+  gfm:
+    output-file: README.md
   revealjs:
     smaller: true
     scrollable: true
