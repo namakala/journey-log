@@ -7,6 +7,22 @@ format:
     scrollable: true
 ---
 
+## 2024-03-21
+
+- Having a discussion with Hanneke from RIVM $\to$ PI for youth model on mental health
+- Research group in Rotterdam using a group-based model
+- Conceptual framework:
+  - Simplify the outcome to only include depression
+  - Give a rationale why medication can influence resilience
+- IADB analysis:
+  - Create a summary descriptive analysis for the original IADB dataset
+  - Measure time of follow up for each person
+  - Eigenvector centrality: Sort out pattern of co-prescription systematically
+  - For discussion section: Compare with other papers evaluating co-prescriptions
+- Explain and discuss the plan for the chapter outlines $\to$ Then explain how they are connected
+- Think about the author team
+- It takes about 8 month to prepare a data request for Lifelines $\to$ Consult Taichi on this
+
 ## 2024-03-15
 
 - IADB analysis:
