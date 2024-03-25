@@ -7,6 +7,16 @@ format:
     scrollable: true
 ---
 
+## 2024-03-25
+
+- Three courses of action upon the 9-mo interview:
+  - Plan A: Re-align the research purpose, go with the current supervisory team
+  - Plan B: Find another suitable supervisor
+  - Plan C: Terminate studentship
+- Course on science communication
+- Start the introductory essay by explaining ABM, limit to 3,000 words
+- Write with less jargon 
+
 ## 2024-03-22
 
 - Scoping review:
