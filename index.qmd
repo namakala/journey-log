@@ -7,6 +7,13 @@ format:
     scrollable: true
 ---
 
+## 2024-03-29
+
+- Send the initial draft before the 3^rd^ of April
+- Send the ABM papers to Prof. Talitha
+- Read more about the international guideline on polypharmacy
+- To learn in project management course $\to$ Delegating task and collaborating with others
+
 ## 2024-03-25
 
 - Three courses of action upon the 9-mo interview:
