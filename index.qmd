@@ -7,6 +7,26 @@ format:
     scrollable: true
 ---
 
+## 2024-04-15
+
+- Chapter 1:
+  - The topic is too broad
+  - Need to include someone with an expertise on resilience
+  - Reformulate the research question to be more narrow: "How does resilience work as a moderator in relation with stressors and mental disorders?"
+  - In project scope, explain that neurobiological/physiological mechanistic explanation is not a part of the review  
+  - In activity plan: Contact collaborators sooner
+  - Action point: Make the question simpler, contact the librarian, create an inclusion based on model for chapter 5
+- Chapter 2: Involve Spyros for this chapter
+- Chapter 3: Narrow down the objective to evaluate psychopharmaca uses of anxiolytics and antidepressants
+- Chapter 4:
+  - We need someone with an expertise in psychological resilience
+  - Signifies how this chapter is required for modelling
+- Chapter 5:
+  - Limit the scenario to universal intervention
+  - Focus the intervention to workplace-based
+  - Send the paper on about resilience
+  - State that we only focus on depression and anxiety part of MINI using Lifelines data
+
 ## 2024-03-29
 
 - Send the initial draft before the 3^rd^ of April
