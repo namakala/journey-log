@@ -7,6 +7,19 @@ format:
     scrollable: true
 ---
 
+## 2024-04-24
+
+- Contact Prof. Mako for a bimonthly meeting
+- Fill in and send the 9-mo interview form $\to$ Send it by EOW 
+- Submit the IADB abstract to EUPHA and ISPOR
+- RIVM research group will attend EUHEA as well $\to$ Networking with Hanneke to talk about resilience
+- Weighting method when creating a DPN:
+  - Dividing and normalizing (what I did)
+  - Multiply by dose
+  - Multiply by dose then log
+- Lunch meeting with Prof. Frederike's group on Tuesday $\to$ Many talks about dynamic model in psychiatry
+- Ask Steef about who might be involved in dynamic model in psychiatry
+
 ## 2024-04-15
 
 - Chapter 1:
