@@ -7,6 +7,33 @@ format:
     scrollable: true
 ---
 
+## 2024-04-29
+
+- Remove action points from the revised TSP $\to$ Include the project definition into TSP
+  - Chapter 1: Still some rooms for revision, need to work on comments in the document later
+  - Chapter 2: Revise the draft
+  - Chapter 3: Make sure that this is connected with chapter 2
+  - Chapter 4: Outside of Prof. Talitha's expertise, need a co-author who knows a bit more on this concept (especially LDI, and MINI)
+    - Check Lifelines Wiki
+    - Check literatures using LDI and MINI
+  - Chapter 5: Narrow down the scope to universal mental health promotion program in workplace
+    - Check the literatures on Dutch and international
+    - Make sure how to make the model transferrable
+- Revise the TSP and include the project definition as an appendix:
+  - Edit the timeline: include preparation, execution, and reporting phases
+    - Y1 and Y2: detailed per quarter
+    - Y3 and Y4: detailed per semester
+  - Remove plan on survey
+  - Add chapter plans
+- Work on the interpretation of findings
+  - Less jargon, more verbose concept
+  - Always include an introduction
+  - Focus on the research question and answer it
+- Decide the journal for IADB manuscript $\to$ Involve Spyros for this manuscript
+- For each chapter, decide who to involve and when to involve them
+- Involve Prof. Mako from the start for the 1st and 4th chapters
+- Involve Prof. Frederike more in the scoping review
+
 ## 2024-04-24
 
 - Contact Prof. Mako for a bimonthly meeting
