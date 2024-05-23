@@ -7,6 +7,26 @@ format:
     scrollable: true
 ---
 
+## 2024-05-23
+
+- 9-mo interview form is in Prof. Frederike, I will receive it after she signed it
+- Prof. Talitha will email Prof. Ralph about the DD program
+- Prof. Frederike will follow up on the lunch meeting ICPE
+- IADB data analysis:
+  - Talk with Jens on how to remove the data with DDD outliers
+  - One option is to remove based on the period of use
+  - Change the table header: It's not weighted DDD, it's a weight to generate edges
+  - As a follow up: Prof. Talitha will contact a pharmacist to further discuss our finding on eigenvector centrality
+
+## 2024-05-14
+
+- Descriptive findings of IADB:
+  - Distribution of DDD for each medication
+  - Tabular description of the data 
+- Inform Fang so that I can present my work on the 5th of June
+- Move the biweekly meeting to 13th of June
+- Prepare a slide for PEGET meeting $\to$ 20 minutes per presenter
+
 ## 2024-04-29
 
 - Remove action points from the revised TSP $\to$ Include the project definition into TSP
@@ -18,7 +38,7 @@ format:
     - Check literatures using LDI and MINI
   - Chapter 5: Narrow down the scope to universal mental health promotion program in workplace
     - Check the literatures on Dutch and international
-    - Make sure how to make the model transferrable
+    - Make sure that the model is transferrable
 - Revise the TSP and include the project definition as an appendix:
   - Edit the timeline: include preparation, execution, and reporting phases
     - Y1 and Y2: detailed per quarter
