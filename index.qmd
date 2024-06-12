@@ -7,6 +7,17 @@ format:
     scrollable: true
 ---
 
+## 2024-06-04
+
+- Email collaborators for IADB work later on this week to update about abstract that will be submitted to ISPOR
+- Presentation prep:
+  - Present slower $\to$ Adjust your breathing, plant the feet to the floor
+  - In example: Explain the drug, not the ATC code
+  - Add the limitation: 
+  - Add a flow diagram of medication cleaning
+  - Explain at first that this is a network analysis on polypharmacy
+  - Skip the explanation of network measures, focus more on eigenvector centrality
+
 ## 2024-05-23
 
 - 9-mo interview form is in Prof. Frederike, I will receive it after she signed it

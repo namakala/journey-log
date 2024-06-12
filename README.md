@@ -1,4 +1,181 @@
 
+
+## 2024-06-04
+
+- Email collaborators for IADB work later on this week to update about
+  abstract that will be submitted to ISPOR
+- Presentation prep:
+  - Present slower $\to$ Adjust your breathing, plant the feet to the
+    floor
+  - In example: Explain the drug, not the ATC code
+  - Add the limitation:
+  - Add a flow diagram of medication cleaning
+  - Explain at first that this is a network analysis on polypharmacy
+  - Skip the explanation of network measures, focus more on eigenvector
+    centrality
+
+## 2024-05-23
+
+- 9-mo interview form is in Prof. Frederike, I will receive it after she
+  signed it
+- Prof. Talitha will email Prof. Ralph about the DD program
+- Prof. Frederike will follow up on the lunch meeting ICPE
+- IADB data analysis:
+  - Talk with Jens on how to remove the data with DDD outliers
+  - One option is to remove based on the period of use
+  - Change the table header: It’s not weighted DDD, it’s a weight to
+    generate edges
+  - As a follow up: Prof. Talitha will contact a pharmacist to further
+    discuss our finding on eigenvector centrality
+
+## 2024-05-14
+
+- Descriptive findings of IADB:
+  - Distribution of DDD for each medication
+  - Tabular description of the data
+- Inform Fang so that I can present my work on the 5th of June
+- Move the biweekly meeting to 13th of June
+- Prepare a slide for PEGET meeting $\to$ 20 minutes per presenter
+
+## 2024-04-29
+
+- Remove action points from the revised TSP $\to$ Include the project
+  definition into TSP
+  - Chapter 1: Still some rooms for revision, need to work on comments
+    in the document later
+  - Chapter 2: Revise the draft
+  - Chapter 3: Make sure that this is connected with chapter 2
+  - Chapter 4: Outside of Prof. Talitha’s expertise, need a co-author
+    who knows a bit more on this concept (especially LDI, and MINI)
+    - Check Lifelines Wiki
+    - Check literatures using LDI and MINI
+  - Chapter 5: Narrow down the scope to universal mental health
+    promotion program in workplace
+    - Check the literatures on Dutch and international
+    - Make sure that the model is transferrable
+- Revise the TSP and include the project definition as an appendix:
+  - Edit the timeline: include preparation, execution, and reporting
+    phases
+    - Y1 and Y2: detailed per quarter
+    - Y3 and Y4: detailed per semester
+  - Remove plan on survey
+  - Add chapter plans
+- Work on the interpretation of findings
+  - Less jargon, more verbose concept
+  - Always include an introduction
+  - Focus on the research question and answer it
+- Decide the journal for IADB manuscript $\to$ Involve Spyros for this
+  manuscript
+- For each chapter, decide who to involve and when to involve them
+- Involve Prof. Mako from the start for the 1st and 4th chapters
+- Involve Prof. Frederike more in the scoping review
+
+## 2024-04-24
+
+- Contact Prof. Mako for a bimonthly meeting
+- Fill in and send the 9-mo interview form $\to$ Send it by EOW
+- Submit the IADB abstract to EUPHA and ISPOR
+- RIVM research group will attend EUHEA as well $\to$ Networking with
+  Hanneke to talk about resilience
+- Weighting method when creating a DPN:
+  - Dividing and normalizing (what I did)
+  - Multiply by dose
+  - Multiply by dose then log
+- Lunch meeting with Prof. Frederike’s group on Tuesday $\to$ Many talks
+  about dynamic model in psychiatry
+- Ask Steef about who might be involved in dynamic model in psychiatry
+
+## 2024-04-15
+
+- Chapter 1:
+  - The topic is too broad
+  - Need to include someone with an expertise on resilience
+  - Reformulate the research question to be more narrow: “How does
+    resilience work as a moderator in relation with stressors and mental
+    disorders?”
+  - In project scope, explain that neurobiological/physiological
+    mechanistic explanation is not a part of the review  
+  - In activity plan: Contact collaborators sooner
+  - Action point: Make the question simpler, contact the librarian,
+    create an inclusion based on model for chapter 5
+- Chapter 2: Involve Spyros for this chapter
+- Chapter 3: Narrow down the objective to evaluate psychopharmaca uses
+  of anxiolytics and antidepressants
+- Chapter 4:
+  - We need someone with an expertise in psychological resilience
+  - Signifies how this chapter is required for modelling
+- Chapter 5:
+  - Limit the scenario to universal intervention
+  - Focus the intervention to workplace-based
+  - Send the paper on about resilience
+  - State that we only focus on depression and anxiety part of MINI
+    using Lifelines data
+
+## 2024-03-29
+
+- Send the initial draft before the 3<sup>rd</sup> of April
+- Send the ABM papers to Prof. Talitha
+- Read more about the international guideline on polypharmacy
+- To learn in project management course $\to$ Delegating task and
+  collaborating with others
+
+## 2024-03-25
+
+- Three courses of action upon the 9-mo interview:
+  - Plan A: Re-align the research purpose, go with the current
+    supervisory team
+  - Plan B: Find another suitable supervisor
+  - Plan C: Terminate studentship
+- Course on science communication
+- Start the introductory essay by explaining ABM, limit to 3,000 words
+- Write with less jargon
+
+## 2024-03-22
+
+- Scoping review:
+  - Look a little bit into resilience, find some general review on
+    resilience and formulate a question on this
+    - Make a clear inclusion and exclusion criteria
+    - Create a working definition of resilience → Done, write it
+      explicitly
+    - Check if the body of evidence is sufficient → Do it for plan B as
+      well
+    - Find a co-author with expertise on state resilience
+- Plan B: Scoping review on the measurement of resilience
+- Concurrent psychopharmaca uses: Send a draft of introduction +
+  methods, deadline on the 19<sup>th</sup> of April  
+- Trend of psychopharmaca uses:
+  - Formulate the questions better → Why do we need to monitor it this
+    way?
+  - What is the societal problem to solve here?
+  - Example: The danger of polypharmacy
+  - **Other idea:** Look at the duration of use → Read more literature
+    on this
+- Lifelines study: Research question $\to$ How applicable is the
+  residual method of measuring resilience?
+- ABM: Publish the model-building procedure
+
+## 2024-03-21
+
+- Having a discussion with Hanneke from RIVM $\to$ PI for youth model on
+  mental health
+- Research group in Rotterdam using a group-based model
+- Conceptual framework:
+  - Simplify the outcome to only include depression
+  - Give a rationale why medication can influence resilience
+- IADB analysis:
+  - Create a summary descriptive analysis for the original IADB dataset
+  - Measure time of follow up for each person
+  - Eigenvector centrality: Sort out pattern of co-prescription
+    systematically
+  - For discussion section: Compare with other papers evaluating
+    co-prescriptions
+- Explain and discuss the plan for the chapter outlines $\to$ Then
+  explain how they are connected
+- Think about the author team
+- It takes about 8 month to prepare a data request for Lifelines $\to$
+  Consult Taichi on this
+
 ## 2024-03-15
 
 - IADB analysis:
