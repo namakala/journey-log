@@ -16,3 +16,6 @@
 [submodule "research/weighted-drug-prescription-network"]
 	path = research/weighted-drug-prescription-network
 	url = git@github.com:namakala/weighted-drug-prescription-network.git
+[submodule "research/resilience-scoping-review"]
+	path = research/resilience-scoping-review
+	url = git@github.com:namakala/resilience-scoping-review.git
