@@ -10,3 +10,9 @@
 [submodule "research/namakala.github.io"]
 	path = research/namakala.github.io
 	url = git@github.com:namakala/namakala.github.io.git
+[submodule "research/method-discrepancy-riskesdas"]
+	path = research/method-discrepancy-riskesdas
+	url = git@github.com:namakala/method-discrepancy-riskesdas.git
+[submodule "research/weighted-drug-prescription-network"]
+	path = research/weighted-drug-prescription-network
+	url = git@github.com:namakala/weighted-drug-prescription-network.git
