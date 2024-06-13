@@ -7,6 +7,23 @@ format:
     scrollable: true
 ---
 
+## 2024-06-13
+
+- Network analysis manuscript:
+  - Substitute the author position between Prof. Frederike and Spyros
+  - Use common terminology: dynamic network analysis
+  - Change title: "Eigenvector centrality as a metric of polypharmacy: a dynamic network analysis to quantify co-prescription around antidepressants and anxiolytics"
+  - Look at the definition of polypharmacy 
+  - In the background: clarify about comorbidity $\to$ comorbid to chronic diseases
+  - In the discussion: find the link between diagnoses using high eigenvector centrality medications
+  - Clarify the background and objectives, state why network analysis is relevant in this case
+  - In the introduction: explain why we need to make a surveillance system for polypharmacy
+  - Discuss the method section with Spyros before finalizing the results
+  - We need prevalence of co-morbidity in people with depression or anxiety $\to$ Put it in the discussion section
+- Scoping review:
+  - If we get too many screened articles, limit to the recent 20 years
+  - Indicate the type of population in the included articles
+
 ## 2024-06-04
 
 - Email collaborators for IADB work later on this week to update about abstract that will be submitted to ISPOR
