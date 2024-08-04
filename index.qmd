@@ -7,6 +7,22 @@ format:
     scrollable: true
 ---
 
+## 2024-07-25
+
+- Scoping review:
+  - Add resilience as mediator
+  - Exclude coping behavior
+  - Consider defining the psychological outcomes to make it a bit more specific
+- Psychological outcomes are defined as ICD-10 from F20-F59 and its related signs/symptoms
+
+## 2024-07-11
+
+- For DD: Needs an MoU between FSE and UI
+- Discuss with Prof. Mako about the DD and administration challenge
+- Draft an email to FSE regarding the MoU between FSE and UI $\to$ Send this to Prof. Talitha first
+- Prof. Talitha and Prof. Frederike will be on holiday by the end of June
+- Reschedule next week's meeting to the week after $\to$ This will only be with Prof. Frederike
+
 ## 2024-06-13
 
 - Network analysis manuscript:
