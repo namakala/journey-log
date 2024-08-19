@@ -7,6 +7,24 @@ format:
     scrollable: true
 ---
 
+## 2024-08-15
+
+- Discuss IADB draft by next week (2024-08-22)
+- Remind Prof. Mako for a meeting between supervisors
+- Ask around other people in the department about qualitative research
+  - Prof. von Dijke
+  - Sieta
+  - Kaying Kan (now a postdoc)
+- Check Equator website, find quality scoring for real-world evidence paper, e.g. GRADE for study design
+- GetReal EU study
+- Publishing the IADB work:
+  - Journal of pharmacoepidemiology $\to$ Discuss with Prof. Eelko Hak
+  - American/European epidemiological journal
+  - Social science in medicine
+  - Check other DPN publication
+  - Check also psychiatry journals
+- Submit the abstract to IHEA (Bali): IADB work, SKI preprint, or scoping review $\to$ Check the deadline
+
 ## 2024-07-25
 
 - Scoping review:
