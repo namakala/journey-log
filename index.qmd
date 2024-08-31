@@ -7,6 +7,19 @@ format:
     scrollable: true
 ---
 
+## 2024-08-30
+
+- Scoping review:
+  - Coordinate with Nora to finalize full-text screening
+  - Start data extraction
+  - Do qualitative analysis
+- IADB analysis:
+  - Create a descriptive table for polypharmacy
+  - Include also the basic statistics: mean, median, SD, IQR
+- Ask [Arnout Smit](https://research.rug.nl/en/persons/arnout-smit) about psychiatry epidemiology course
+- Check schedule for advanced LLM in ISPOR 2024
+- Contact people from Global Health to confirm who will attend ISPOR 2024
+
 ## 2024-08-22
 
 - Check pharmacoepidemiology journal
