@@ -1,5 +1,97 @@
 
 
+## 2024-08-30
+
+- Scoping review:
+  - Coordinate with Nora to finalize full-text screening
+  - Start data extraction
+  - Do qualitative analysis
+- IADB analysis:
+  - Create a descriptive table for polypharmacy
+  - Include also the basic statistics: mean, median, SD, IQR
+- Ask [Arnout Smit](https://research.rug.nl/en/persons/arnout-smit)
+  about psychiatry epidemiology course
+- Check schedule for advanced LLM in ISPOR 2024
+- Contact people from Global Health to confirm who will attend ISPOR
+  2024
+
+## 2024-08-22
+
+- Check pharmacoepidemiology journal
+  - https://onlinelibrary.wiley.com/journal/10991557 $\to$ [The first
+    DPN paper is published
+    here](https://onlinelibrary.wiley.com/doi/full/10.1002/pds.3384?casa_token=nX2kKlsq1nMAAAAA%3A2Zd6gih45iyUyH6JF1l_xzLecC-aL0RoFbVnZ4XDT5x7wGqBr40Gy0IOhmW7C0HRWi7BzlxP4USeewefYQ)
+  - https://munin.uit.no/ $\to$ [Askar et
+    al. publication](https://munin.uit.no/handle/10037/21405)
+- Introduction:
+  - Reword the introduction, don’t use indispensable, use important
+  - Put less emphasis on the eigenvector centrality, need to rephrase
+    the last sentence of the last paragraph
+  - Reword the hypothesis because we are using eigenvector centrality;
+    align it with the objective in abstract
+- Methods:
+  - Describe IADB and the access date to the database
+  - Don’t duplicate explanation on technical parts, compare it to the
+    introduction, check the explanation on eigenvector centrality
+  - Omit the terminology on knowledge graph
+- Results:
+  - In the descriptive results, we need to categorize the type of
+    polypharmacy
+  - Move the daily-variation figure to the supplementary file
+  - Make the scientific annotation more consistent, e.g. when reporting
+    the eigenvector centrality we can limit to two digits after decimal
+    mark and use $c_e x 10^{-n}$
+- Discussion:
+  - First paragraph: Discuss about polypharmacy
+  - Second paragraph: Explain the concordance with other literatures
+  - Third paragraph: Explain about the DPN
+  - Fourth paragraph: Strength
+  - Fifth paragraph: Limitation
+    - Lost of individual values
+    - Add limitation about weighting the DDD $\to$ How does it reflect
+      augmented polypharmacy?
+
+## 2024-08-15
+
+- Discuss IADB draft by next week (2024-08-22)
+- Remind Prof. Mako for a meeting among supervisors
+- Ask around other people in the department about qualitative research
+  - Prof. von Dijke
+  - Sieta
+  - Kaying Kan (now a postdoc)
+- Check Equator website, find quality scoring for real-world evidence
+  paper, e.g. GRADE for study design
+- GetReal EU study
+- Publishing the IADB work:
+  - Journal of pharmacoepidemiology $\to$ Discuss with Prof. Eelko Hak
+  - American/European epidemiological journal
+  - Social science in medicine
+  - Check other DPN publication
+  - Check also psychiatry journals
+- Submit the abstract to IHEA (Bali): IADB work, SKI preprint, or
+  scoping review $\to$ Check the deadline
+
+## 2024-07-25
+
+- Scoping review:
+  - Add resilience as mediator
+  - Exclude coping behavior
+  - Consider defining the psychological outcomes to make it a bit more
+    specific
+- Psychological outcomes are defined as ICD-10 from F20-F59 and its
+  related signs/symptoms
+
+## 2024-07-11
+
+- For DD: Needs an MoU between FSE and UI
+- Discuss with Prof. Mako about the DD and administration challenge
+- Draft an email to FSE regarding the MoU between FSE and UI $\to$ Send
+  this to Prof. Talitha first
+- Prof. Talitha and Prof. Frederike will be on holiday by the end of
+  June
+- Reschedule next week’s meeting to the week after $\to$ This will only
+  be with Prof. Frederike
+
 ## 2024-06-13
 
 - Network analysis manuscript:
