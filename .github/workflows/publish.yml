@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@latest
+        uses: quarto-dev/quarto-actions/setup@v2
 
       # Render and publish only index.qmd
       - name: Render and publish index.qmd
