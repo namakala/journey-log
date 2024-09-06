@@ -18,6 +18,12 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      # Configure Git user identity
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
       # Render and publish only index.qmd
       - name: Render and publish index.qmd
         run: quarto publish gh-pages index.qmd --no-prompt --no-browser
