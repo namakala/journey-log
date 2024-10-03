@@ -1,5 +1,90 @@
 
 
+## 2024-10-03
+
+- Send a reminder for Prof. Eelko, Jens, and Spyros about IADB article
+- Prof. Talitha will inquire Ralph about the dual doctorate programme
+- Postpone the meeting with Prof. Mako in two weeks
+- Scoping review:
+  - Discuss a more effective way of coding the data
+  - Reading the whole article might take too much time and introduce too
+    much bias
+  - Better start coding from the extracted data and focus on the scoped
+    key insight
+  - Check on the use of LLM in qualitative analysis
+  - Start drafting the protocol, soft deadline will be next week
+  - Share the articles about LLM to Prof. Talitha and Prof. Frederike
+  - At some point, we need to discuss the protocol with 2 PhD students
+    from RIVM
+  - Check the guideline on qualitative study reporting:
+    - [Standards for reporting qualitative research: a synthesis of
+      recommendations](https://www.equator-network.org/reporting-guidelines/srqr/)
+    - [Enhancing transparency in reporting the synthesis of qualitative
+      research:
+      ENTREQ](https://www.equator-network.org/reporting-guidelines/entreq/)
+    - [Consolidated criteria for reporting qualitative research (COREQ)
+      : a 32-item checklist for interviews and focus
+      groups](https://www.equator-network.org/reporting-guidelines/coreq/)
+- Ask Vicky about reimbursement for conference using the project code
+- Contact Hao, Rachma, Jinjing, and Lisa de Jong about who will join
+  ISPOR conference
+- Think about a topic that would be of interest to Master’s student
+  $\to$ Discuss with Prof. Frederike next week
+- Consider joining a course on teaching, any teaching activity is
+  convertible to ECs
+
+## 2024-09-26
+
+- Continue the qualitative data analysis $\to$ Hard deadline on the next
+  weekly meeting
+- Contact colleagues:
+  - Paul Ulrich $\to$ Patient representative
+  - Katerina
+- Present it during PhD lunch after we complete the study
+- Consider finding physiological parameters of stress for modelling
+  study:
+  - Cortisol level
+  - Heart-rate variability
+  - Temporo-medial EEG activity
+- Check consistency for the qualitative data analysis:
+  - Take five articles randomly
+  - Assign it to Nora
+  - Explain what themes to extract
+  - Assess similarity to what we found
+
+## 2024-09-19
+
+- News from Ralph: They will send a form and the updated version of
+  RUG-UI MoU to GSE
+  - Confirm who the contact person in UI
+  - To be discussed with Prof. Mako in October
+  - Discuss also with Prof. Mako how to combine both theses
+- Scoping review:
+- Check out resources on microsimulation $\to$
+  [Hesim](https://hesim-dev.github.io/hesim/)
+- Ask Stef
+- Read publications by Karin Stronks (Amsterdam), it’s about system
+  modelling of interventions against burnout in working population
+- To prepare ABM, we need to discuss with other researchers, ask:
+  - How to make the model more conceptually accurate
+  - We need to think about the balance between complexity and reality
+  - Simplify the model and think about how to quantify the parameters
+  - Big question: How do you plan to quantify the model?
+
+## 2024-09-12
+
+- In scoping review:
+  - Aim: To formulate an agent-based model of resilience
+  - Contact people from patient organization: Paul and others from
+    Evanement
+- IADB work:
+  - Contact collaborators:
+    - Ask Jens whether he would like to comment on the current draft
+    - Remind Spyros about the manuscript
+  - The abstract is wordy, I need to simplify it
+- In two weeks we will revisit the scoping review $\to$ Hard deadline
+- In three weeks we will revisit the IADB work $\to$ Soft deadline
+
 ## 2024-08-30
 
 - Scoping review:
