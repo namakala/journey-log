@@ -1,5 +1,12 @@
 
 
+## 2024-10-10
+
+- Explain what kind of resilience is extracted in the protocol
+- Explain why use ICD-10 not DSM-V
+- In the introduction section, explain the rationale of using scoping
+  review to develop the modelling framework of an agent-based simulation
+
 ## 2024-10-03
 
 - Send a reminder for Prof. Eelko, Jens, and Spyros about IADB article
