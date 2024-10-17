@@ -1,5 +1,20 @@
 
 
+## 2024-10-17
+
+- Contact Prof. Evi and invite her as a part of supervisory team
+- Scoping review:
+  - There’s a local LLM in RIVM
+  - Ask AI group in RUG about LLM
+  - Waiting for Nora to calculate agreement
+  - Draft an email to Prof. Talitha about the current issue with ChatGPT
+    and what the desirable solution is
+  - Submit the abstract to IHEA
+  - Start drafting the manuscript, expect to finish by early November
+- Ask colleagues in psychiatry and psychology about researchers whose
+  topic is depression simulatiion modelling
+- IADB analysis: Send reminder to collaborators on Monday
+
 ## 2024-10-10
 
 - Explain what kind of resilience is extracted in the protocol
