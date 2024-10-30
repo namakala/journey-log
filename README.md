@@ -1,5 +1,39 @@
 
 
+## 2024-10-30
+
+- To complete PhD, a candidate needs to publish at least 1 article as
+  the first author
+  - Beware of predatory journals, check [Beall’s
+    list](https://beallslist.net/)
+  - Should be at least a Q2
+  - In the Netherlands, there’s a shift on the criteria of PhD
+    completion (usually: 3 published articles + 2 finished chapters +
+    introduction and discussion)
+- Qualification of authorship is different in each field
+- Use [JCR ranking](https://jcr.clarivate.com/jcr/home) to determine
+  journal quality
+- Some publishers provide a fast track system, for example
+  [BMJ](https://www.bmj.com/content/318/7184/620)
+
+## 2024-10-24
+
+- Scoping review:
+  - Write it clearly that the figure is at least based on positive
+    finding from one paper
+  - Use the thematic analysis to argue the most important explanation on
+    resilience
+  - Choose one mechanism to use in the model
+  - Conclude whether resilience mediates or moderates
+  - Simplify the conceptual model
+    - Create a sub-figure focus more on link to depression, anxiety, and
+      burnout
+    - Discuss with expert in mental health (psychologist and
+      psychiatrist)
+  - Complete the thematic analysis by next week
+- IADB work: Already received suggestions from Spyros
+- ABM work: When the main module is completed, discuss it with experts
+
 ## 2024-10-17
 
 - Contact Prof. Evi and invite her as a part of supervisory team
