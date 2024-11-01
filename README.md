@@ -1,5 +1,27 @@
 
 
+## 2024-11-01
+
+- Tell Bert that this is still a WIP and we plan to conduct the next
+  study with the same data
+- ISPOR poster presentation:
+  - Ask Lisa who else joined ISPOR
+  - Check whether ISPOR use digital/printed poster
+  - Copy center in Groningen for printing the poster
+- Oral presentation:
+  - It should be a small conference
+  - Consider joining EUHEA, European conference at SMDM, ENMESH, EUPHA
+  - Consider making a workshop $\to$ Invite other collaborators
+  - Draft of an agent-based model fits nicely with SMDM
+  - ENMESH for scoping review, it’s a biannual conference
+  - Submit the abstract to LOLA in January and full paper in April, it’s
+    every May $\to$ It’s in the Netherlands
+  - Health economic conference for mental health in Venice $\to$ No
+    website, only in email, held annually in spring
+- Contact the contact person in UI about double doctorate
+- Reschedule the meeting on the 21st of November to 28th of November
+- Think more about remote working in January and February
+
 ## 2024-10-30
 
 - To complete PhD, a candidate needs to publish at least 1 article as
