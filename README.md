@@ -1,5 +1,46 @@
 
 
+## 2024-11-28
+
+- IADB work, suggestions from Spyros:
+  - In the methods section, add explanation about graph as a
+    mathematical concept: What characterized a graph? When is a graph
+    undirected? $\to$ Think about the intended audience, better to
+    explain it in the layman term to capture a more general audiences.
+  - Explain what adjacency matrix is in a section about graph as a
+    concept.
+  - In the measuring importance subsection, discuss about centrality
+    measures in social network analysis. Explain what it offers in
+    analyzing polypharmacy networks. Cite “The Structure of Complex
+    Network: Theory and Applications” by Estrada.
+  - In the SSA decomposition subsection, explain what a lag operator
+    does $\to$ Can be technical in the supplement. Avoid technical
+    jargon in the main manuscript, focus on the general concept and its
+    intended interpretation.
+  - Elaborate table 1 in the results section
+- Scoping review:
+  - Still waiting for Nora to complete coding quality scoring $\to$
+    Expected to finish by next Wednesday
+  - Ask Nora to stop the scoring $\to$ Reread the article on LLM-in-loop
+    for thematic analysis, find out how to best score the agreement.
+  - Prof. Evi, Prof. Mako, and dr. Damar will join as co-authors $\to$
+    We need an initial meeting with all involved authors:
+    - Prof. Evi and Prof. Mako may give insight from epidemiology and
+      public health perspective $\to$ We will discuss this with
+      Prof. Mako
+    - dr. Damar may give insight from the stakeholder perspective: What
+      does the policymaker need to know about the mechanism of
+      psychological resilience?
+- Dual doctorate:
+  - Propose a meeting with Prof. Nurhayati, dr. Indri, dr. Baiduri, and
+    Bu Tami to further discuss this issue $\to$ Focus on an individual
+    agreement, then we can plan a more overarching agreement
+    - Prof. Talitha is assigned as a co-promotor in UI, Prof. Mako is
+      assigned as a co-promotor in RUG
+    - The AOI should clearly delineate the structure of joint thesis
+  - Ask dr. Indri if RUG should invite other parties
+  - Contact Bu Dian to plan for the follow-up meeting
+
 ## 2024-11-01
 
 - Tell Bert that this is still a WIP and we plan to conduct the next
