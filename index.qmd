@@ -28,6 +28,46 @@ format:
   - Ask dr. Indri if RUG should invite other parties
   - Contact Bu Dian to plan for the follow-up meeting
 
+## 2024-11-15
+
+- Dual doctorate:
+  - UI needs a framework agreement, RUG doesn't have the template
+  - RUG has taken up contact with UI, there's no reply yet since the 16th of October
+  - Need to ask UI how to proceed
+  - Needs a detailed description of the agreement, needs to be described in the TSP
+  - Figure out the requirements, discuss it on the 28th of November
+  - Keep Prof. Talitha in the loop when communicating with dr. Indri and Mba Tami
+- Future work between UI and RUG:
+  - Check out potential candidates for dual doctorate programme
+  - Find out about health economics research group in FKM UI
+- ABM:
+  - Review on the rationale why it is necessary to use ABM
+  - Compare ABM with Multi-Agent Model, Discrete Event Simulation, and State Transition Model
+  - Create a short presentation comparing ABM, MAM, DES, and STM
+- IADB:
+  - Complete the revision
+  - Use journal finder, and share with collaborators which journals we can submit to
+- Scoping review: Ongoing scoring for thematic analysis
+
+## 2024-11-07
+
+- ISPOR poster:
+  - Make the introduction more concise
+  - Comply with the RUG template
+- Scoping review:
+  - Objective: To understand the mechanism of resilience
+  - The line of reasoning is missing between resilience and ABM, need to restructure the introduction:
+    - Start with policymaking to improve resilience $\to$ Combatting depression, anxiety, burnout
+    - we need ABM to simulate the efficacy,
+    - then explain resilience,
+    - ends it with the objective to understand resilience
+  - Resilience as mediator
+  - Define resilience in the introduction
+  - Make a simple figure about resilience and stress (moderation and mediator)
+  - Create a figure containing mediation, moderation, or other mechanism of resilience for state, trait, and outcome-oriented definition
+  - Add a footnote on figure 1 explaining: moderation can be observed by following the closed arrow from stress to resilience to mental health outcomes
+  - Make the results more structured to help the readers understand the logic
+
 ## 2024-11-01
 
 - Tell Bert that this is still a WIP and we plan to conduct the next study with the same data
