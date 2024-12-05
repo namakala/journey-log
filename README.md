@@ -1,5 +1,24 @@
 
 
+## 2024-12-05
+
+- Dual doctorate:
+  - Ralph will send email to staffs from the graduate school
+  - If UI reply the email, forward it to Ralph
+  - We focus on TSP, pay more attention to the timeline and overlapping
+    projects
+  - For RUG, it’s sufficient to have an individual agreement $\to$ Focus
+    on AOI
+  - Requirement from Groningen:
+    - At least stay in RUG for 12 months and in UI for 6 months
+    - Needs an agreement of joint supervision between RUG and UI,
+      i.e. 50:50 or 60:40
+    - Potential solution:
+- TSP and courses:
+  - We can work on TSP with Prof. Mako and other supervisors from UI
+  - UI coursework can be uploaded to Hora Finita $\to$ Discuss with
+    Prof. Talitha and Prof. Frederike
+
 ## 2024-11-28
 
 - IADB work, suggestions from Spyros:
