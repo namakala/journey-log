@@ -7,6 +7,28 @@ format:
     scrollable: true
 ---
 
+## 2024-12-12
+
+- Dual doctorate administrative tasks:
+  - Prof. Talitha will check on the TSP by Friday
+  - Follow up the email to dr. Indri and Bu Tami
+  - Mention who the PIC from the RUG side
+- IADB work:
+  - Send the draft to all collaborators tomorrow
+  - Will need to revise the abstract $\to$ Limit it to 250-300 words  
+  - List out three relevant target journals, mention it to the team
+- Preference for meeting:
+  - January the 3rd
+  - The last week of January: Between the 26th and 31st
+- Work on ABM design:
+  - Starts from the review, it is informed by the results
+  - There's a guidance on how to use expert's opinion to give qualitative input on the ABM design
+  - Draft a protocol about how we validate the model
+  - We can report the model design's face validation with experts and patient representatives
+  - Send the publication on ABM packages in R and python
+  - Send the abstract about ABM design to ISPOR 2025 $\to$ Deadline in May
+- Prepare for LOLA HESG $\to$ Submit the scoping review
+
 ## 2024-12-05
 
 - Dual doctorate:
