@@ -1,5 +1,25 @@
 
 
+## 2024-12-19
+
+- TSP and double doctorate planning:
+  - Recap: The paperwork is in the office, but there seems to be
+    miscommunication with UI
+  - Issue: UI requested framework agreement, while RUG prefer individual
+    agreement $\to$ UI and RUG have done that before
+  - RUG and UI need to agree and clarification on the MOU, AOI, TSP, and
+    other documents
+  - Negotiation will be done by RUG international office
+  - We need more frequency of combined supervision with UI $\to$ Fix the
+    date or frequency of meeting
+  - Complete TSP before leaving Groningen
+- Preparing for the ABM model:
+  - Read about model development and validation process
+  - Join PharmacoEconomic course $\to$ Can’t find it on these sites,
+    need to ask who the PIC is:
+    - https://gsms.rug.nl/
+    - https://gsse.rug.nl/
+
 ## 2024-12-12
 
 - Dual doctorate administrative tasks:
