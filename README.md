@@ -1,5 +1,341 @@
 
 
+## 2024-12-19
+
+- TSP and double doctorate planning:
+  - Recap: The paperwork is in the office, but there seems to be
+    miscommunication with UI
+  - Issue: UI requested framework agreement, while RUG prefer individual
+    agreement $\to$ UI and RUG have done that before
+  - RUG and UI need to agree and clarification on the MOU, AOI, TSP, and
+    other documents
+  - Negotiation will be done by RUG international office
+  - We need more frequency of combined supervision with UI $\to$ Fix the
+    date or frequency of meeting
+  - Complete TSP before leaving Groningen
+- Preparing for the ABM model:
+  - Read about model development and validation process
+  - Join PharmacoEconomic course $\to$ Can’t find it on these sites,
+    need to ask who the PIC is:
+    - https://gsms.rug.nl/
+    - https://gsse.rug.nl/
+
+## 2024-12-12
+
+- Dual doctorate administrative tasks:
+  - Prof. Talitha will check on the TSP by Friday
+  - Follow up the email to dr. Indri and Bu Tami
+  - Mention who the PIC from the RUG side
+- IADB work:
+  - Send the draft to all collaborators tomorrow
+  - Will need to revise the abstract $\to$ Limit it to 250-300 words  
+  - List out three relevant target journals, mention it to the team
+- Preference for meeting:
+  - January the 3rd
+  - The last week of January: Between the 26th and 31st
+- Work on ABM design:
+  - Starts from the review, it is informed by the results
+  - There’s a guidance on how to use expert’s opinion to give
+    qualitative input on the ABM design
+  - Draft a protocol about how we validate the model
+  - We can report the model design’s face validation with experts and
+    patient representatives
+  - Send the publication on ABM packages in R and python
+  - Send the abstract about ABM design to ISPOR 2025 $\to$ Deadline in
+    May
+- Prepare for LOLA HESG $\to$ Submit the scoping review
+
+## 2024-12-05
+
+- Dual doctorate:
+  - Ralph will send email to staffs from the graduate school
+  - If UI reply the email, forward it to Ralph
+  - We focus on TSP, pay more attention to the timeline and overlapping
+    projects
+  - For RUG, it’s sufficient to have an individual agreement $\to$ Focus
+    on AOI
+  - Requirement from Groningen:
+    - At least stay in RUG for 12 months and in UI for 6 months
+    - Needs an agreement of joint supervision between RUG and UI,
+      i.e. 50:50 or 60:40
+    - Potential solution:
+- TSP and courses:
+  - We can work on TSP with Prof. Mako and other supervisors from UI
+  - UI coursework can be uploaded to Hora Finita $\to$ Discuss with
+    Prof. Talitha and Prof. Frederike
+
+## 2024-11-28
+
+- IADB work, suggestions from Spyros:
+  - In the methods section, add explanation about graph as a
+    mathematical concept: What characterized a graph? When is a graph
+    undirected? $\to$ Think about the intended audience, better to
+    explain it in the layman term to capture a more general audiences.
+  - Explain what adjacency matrix is in a section about graph as a
+    concept.
+  - In the measuring importance subsection, discuss about centrality
+    measures in social network analysis. Explain what it offers in
+    analyzing polypharmacy networks. Cite “The Structure of Complex
+    Network: Theory and Applications” by Estrada.
+  - In the SSA decomposition subsection, explain what a lag operator
+    does $\to$ Can be technical in the supplement. Avoid technical
+    jargon in the main manuscript, focus on the general concept and its
+    intended interpretation.
+  - Elaborate table 1 in the results section
+- Scoping review:
+  - Still waiting for Nora to complete coding quality scoring $\to$
+    Expected to finish by next Wednesday
+  - Ask Nora to stop the scoring $\to$ Reread the article on LLM-in-loop
+    for thematic analysis, find out how to best score the agreement.
+  - Prof. Evi, Prof. Mako, and dr. Damar will join as co-authors $\to$
+    We need an initial meeting with all involved authors:
+    - Prof. Evi and Prof. Mako may give insight from epidemiology and
+      public health perspective $\to$ We will discuss this with
+      Prof. Mako
+    - dr. Damar may give insight from the stakeholder perspective: What
+      does the policymaker need to know about the mechanism of
+      psychological resilience?
+- Dual doctorate:
+  - Propose a meeting with Prof. Nurhayati, dr. Indri, dr. Baiduri, and
+    Bu Tami to further discuss this issue $\to$ Focus on an individual
+    agreement, then we can plan a more overarching agreement
+    - Prof. Talitha is assigned as a co-promotor in UI, Prof. Mako is
+      assigned as a co-promotor in RUG
+    - The AOI should clearly delineate the structure of joint thesis
+  - Ask dr. Indri if RUG should invite other parties
+  - Contact Bu Dian to plan for the follow-up meeting
+- Adjusting TSP for dual doctorate program:
+  - Find course on agent-based model $\to$ Prefer on-site course, not
+    online
+  - Include the first and second chapter of UI proposal as intro essay
+    in RUG
+  - Recheck on the psychiatric epidemiology course
+  - Describe about ABM application $\to$ Whether to apply to
+    Indonesia/Netherlands population
+  - Chapter 3 is optional
+  - Skip chapter 4, focus more on the survey
+  - Chapter 5: ABM design and application, we can split it into two
+    chapters if we don’t do survey
+  - Indicate which works belong to UI and/or RUG
+- Have a chat with Cornelius Postma about digital health transformation
+- ABM design: Start drafting protocol by January 2025
+- Talk with Ralph about DD with UGM
+
+## 2024-11-15
+
+- Dual doctorate:
+  - UI needs a framework agreement, RUG doesn’t have the template
+  - RUG has taken up contact with UI, there’s no reply yet since the
+    16th of October
+  - Need to ask UI how to proceed
+  - Needs a detailed description of the agreement, needs to be described
+    in the TSP
+  - Figure out the requirements, discuss it on the 28th of November
+  - Keep Prof. Talitha in the loop when communicating with dr. Indri and
+    Mba Tami
+- Future work between UI and RUG:
+  - Check out potential candidates for dual doctorate programme
+  - Find out about health economics research group in FKM UI
+- ABM:
+  - Review on the rationale why it is necessary to use ABM
+  - Compare ABM with Multi-Agent Model, Discrete Event Simulation, and
+    State Transition Model
+  - Create a short presentation comparing ABM, MAM, DES, and STM
+- IADB:
+  - Complete the revision
+  - Use journal finder, and share with collaborators which journals we
+    can submit to
+- Scoping review: Ongoing scoring for thematic analysis
+
+## 2024-11-07
+
+- ISPOR poster:
+  - Make the introduction more concise
+  - Comply with the RUG template
+- Scoping review:
+  - Objective: To understand the mechanism of resilience
+  - The line of reasoning is missing between resilience and ABM, need to
+    restructure the introduction:
+    - Start with policymaking to improve resilience $\to$ Combatting
+      depression, anxiety, burnout
+    - we need ABM to simulate the efficacy,
+    - then explain resilience,
+    - ends it with the objective to understand resilience
+  - Resilience as mediator
+  - Define resilience in the introduction
+  - Make a simple figure about resilience and stress (moderation and
+    mediator)
+  - Create a figure containing mediation, moderation, or other mechanism
+    of resilience for state, trait, and outcome-oriented definition
+  - Add a footnote on figure 1 explaining: moderation can be observed by
+    following the closed arrow from stress to resilience to mental
+    health outcomes
+  - Make the results more structured to help the readers understand the
+    logic
+
+## 2024-11-01
+
+- Tell Bert that this is still a WIP and we plan to conduct the next
+  study with the same data
+- ISPOR poster presentation:
+  - Ask Lisa who else joined ISPOR
+  - Check whether ISPOR use digital/printed poster
+  - Copy center in Groningen for printing the poster
+- Oral presentation:
+  - It should be a small conference
+  - Consider joining EUHEA, European conference at SMDM, ENMESH, EUPHA
+  - Consider making a workshop $\to$ Invite other collaborators
+  - Draft of an agent-based model fits nicely with SMDM
+  - ENMESH for scoping review, it’s a biannual conference
+  - Submit the abstract to LOLA in January and full paper in April, it’s
+    every May $\to$ It’s in the Netherlands
+  - Health economic conference for mental health in Venice $\to$ No
+    website, only in email, held annually in spring
+- Contact the contact person in UI about double doctorate
+- Reschedule the meeting on the 21st of November to 28th of November
+- Think more about remote working in January and February
+
+## 2024-10-30
+
+- To complete PhD, a candidate needs to publish at least 1 article as
+  the first author
+  - Beware of predatory journals, check [Beall’s
+    list](https://beallslist.net/)
+  - Should be at least a Q2
+  - In the Netherlands, there’s a shift on the criteria of PhD
+    completion (usually: 3 published articles + 2 finished chapters +
+    introduction and discussion)
+- Qualification of authorship is different in each field
+- Use [JCR ranking](https://jcr.clarivate.com/jcr/home) to determine
+  journal quality
+- Some publishers provide a fast track system, for example
+  [BMJ](https://www.bmj.com/content/318/7184/620)
+
+## 2024-10-24
+
+- Scoping review:
+  - Write it clearly that the figure is at least based on positive
+    finding from one paper
+  - Use the thematic analysis to argue the most important explanation on
+    resilience
+  - Choose one mechanism to use in the model
+  - Conclude whether resilience mediates or moderates
+  - Simplify the conceptual model
+    - Create a sub-figure focus more on link to depression, anxiety, and
+      burnout
+    - Discuss with expert in mental health (psychologist and
+      psychiatrist)
+  - Complete the thematic analysis by next week
+- IADB work: Already received suggestions from Spyros
+- ABM work: When the main module is completed, discuss it with experts
+
+## 2024-10-17
+
+- Contact Prof. Evi and invite her as a part of supervisory team
+- Scoping review:
+  - There’s a local LLM in RIVM
+  - Ask AI group in RUG about LLM
+  - Waiting for Nora to calculate agreement
+  - Draft an email to Prof. Talitha about the current issue with ChatGPT
+    and what the desirable solution is
+  - Submit the abstract to IHEA
+  - Start drafting the manuscript, expect to finish by early November
+- Ask colleagues in psychiatry and psychology about researchers whose
+  topic is depression simulatiion modelling
+- IADB analysis: Send reminder to collaborators on Monday
+
+## 2024-10-10
+
+- Explain what kind of resilience is extracted in the protocol
+- Explain why use ICD-10 not DSM-V
+- In the introduction section, explain the rationale of using scoping
+  review to develop the modelling framework of an agent-based simulation
+
+## 2024-10-03
+
+- Send a reminder for Prof. Eelko, Jens, and Spyros about IADB article
+- Prof. Talitha will inquire Ralph about the dual doctorate programme
+- Postpone the meeting with Prof. Mako in two weeks
+- Scoping review:
+  - Discuss a more effective way of coding the data
+  - Reading the whole article might take too much time and introduce too
+    much bias
+  - Better start coding from the extracted data and focus on the scoped
+    key insight
+  - Check on the use of LLM in qualitative analysis
+  - Start drafting the protocol, soft deadline will be next week
+  - Share the articles about LLM to Prof. Talitha and Prof. Frederike
+  - At some point, we need to discuss the protocol with 2 PhD students
+    from RIVM
+  - Check the guideline on qualitative study reporting:
+    - [Standards for reporting qualitative research: a synthesis of
+      recommendations](https://www.equator-network.org/reporting-guidelines/srqr/)
+    - [Enhancing transparency in reporting the synthesis of qualitative
+      research:
+      ENTREQ](https://www.equator-network.org/reporting-guidelines/entreq/)
+    - [Consolidated criteria for reporting qualitative research (COREQ)
+      : a 32-item checklist for interviews and focus
+      groups](https://www.equator-network.org/reporting-guidelines/coreq/)
+- Ask Vicky about reimbursement for conference using the project code
+- Contact Hao, Rachma, Jinjing, and Lisa de Jong about who will join
+  ISPOR conference
+- Think about a topic that would be of interest to Master’s student
+  $\to$ Discuss with Prof. Frederike next week
+- Consider joining a course on teaching, any teaching activity is
+  convertible to ECs
+
+## 2024-09-26
+
+- Continue the qualitative data analysis $\to$ Hard deadline on the next
+  weekly meeting
+- Contact colleagues:
+  - Paul Ulrich $\to$ Patient representative
+  - Katerina
+- Present it during PhD lunch after we complete the study
+- Consider finding physiological parameters of stress for modelling
+  study:
+  - Cortisol level
+  - Heart-rate variability
+  - Temporo-medial EEG activity
+- Check consistency for the qualitative data analysis:
+  - Take five articles randomly
+  - Assign it to Nora
+  - Explain what themes to extract
+  - Assess similarity to what we found
+
+## 2024-09-19
+
+- News from Ralph: They will send a form and the updated version of
+  RUG-UI MoU to GSE
+  - Confirm who the contact person in UI
+  - To be discussed with Prof. Mako in October
+  - Discuss also with Prof. Mako how to combine both theses
+- Scoping review:
+- Check out resources on microsimulation $\to$
+  [Hesim](https://hesim-dev.github.io/hesim/)
+- Ask Stef
+- Read publications by Karin Stronks (Amsterdam), it’s about system
+  modelling of interventions against burnout in working population
+- To prepare ABM, we need to discuss with other researchers, ask:
+  - How to make the model more conceptually accurate
+  - We need to think about the balance between complexity and reality
+  - Simplify the model and think about how to quantify the parameters
+  - Big question: How do you plan to quantify the model?
+
+## 2024-09-12
+
+- In scoping review:
+  - Aim: To formulate an agent-based model of resilience
+  - Contact people from patient organization: Paul and others from
+    Evanement
+- IADB work:
+  - Contact collaborators:
+    - Ask Jens whether he would like to comment on the current draft
+    - Remind Spyros about the manuscript
+  - The abstract is wordy, I need to simplify it
+- In two weeks we will revisit the scoping review $\to$ Hard deadline
+- In three weeks we will revisit the IADB work $\to$ Soft deadline
+
 ## 2024-08-30
 
 - Scoping review:
