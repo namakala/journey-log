@@ -7,6 +7,17 @@ format:
     scrollable: true
 ---
 
+## 2025-01-30
+
+- TSP:
+  - Prof. Frederike as supervisor, not co-supervisor
+- Scoping review:
+  - Move the subsection in introduction to the method section
+  - Reword the research question, so it fits nicely as a part of the paragraph
+  - Provide supplementary file to explain AI in the loop for thematic analysis
+  - When reporting the thematic analysis results, state that this is the summary of what I read in the included articles
+  - Plan for a kick-off meeting with all co-authors $\to$ Brainstorm what will be included in the discussion sections
+
 ## 2024-12-19
 
 - TSP and double doctorate planning:
@@ -129,7 +140,7 @@ format:
   - Define resilience in the introduction
   - Make a simple figure about resilience and stress (moderation and mediator)
   - Create a figure containing mediation, moderation, or other mechanism of resilience for state, trait, and outcome-oriented definition
-  - Add a footnote on figure 1 explaining: moderation can be observed by following the closed arrow from stress to resilience to mental health outcomes
+  - Add a footnote on figure 1 explaining: mediation can be observed by following the closed arrow from stress to resilience to mental health outcomes
   - Make the results more structured to help the readers understand the logic
 
 ## 2024-11-01
