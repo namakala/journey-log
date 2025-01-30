@@ -4,6 +4,9 @@
 
 - TSP:
   - Prof. Frederike as supervisor, not co-supervisor
+  - Add notes on how each supervisor contribute and their expertise,
+    e.g., Prof. Mako as an expert in epidemiology will contribute in
+    guiding the interpretation from public health perspective
 - Scoping review:
   - Move the subsection in introduction to the method section
   - Reword the research question, so it fits nicely as a part of the
