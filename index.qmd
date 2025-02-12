@@ -7,6 +7,19 @@ format:
     scrollable: true
 ---
 
+## 2025-02-12
+
+- Change from dual doctorate to dual supervision
+- Take out the fourth chapter from RUG work $\to$ Dedicate this chapter for UI work
+- Research question: What is the level of psychological resilience in the general Indonesian population?
+- General approach: Quantitative survey + qualitative FGD
+- Supervisors from UI should be the main supervisors for this project:
+  - Prof. Mako will direct how the survey should be done to comply with best practice from epidemiological perspective
+  - Prof. Evi will direct how the FGD should take place to comply with best practice from qualitative approach
+- Supervisors from RUG will aid in the process:
+  - Prof. Talitha will direct how the survey questions can be used in a health economic model
+  - Prof. Frederike will direct how the survey and FGD should address public mental health issues from psychiatric perspective
+
 ## 2025-01-30
 
 - TSP:
