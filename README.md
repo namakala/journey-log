@@ -1,5 +1,33 @@
 
 
+## 2025-02-26
+
+- Model comparison, please refer to:
+  - ISPOR good model practice guideline
+  - Policy analysis textbook
+  - Decision science book
+  - Decision making in health and medicine
+- Assisting the introduction to health economics:
+  - Lead 7 groups of students for presentation
+  - 10 minutes presentation + 10 minutes Q&A per group
+  - 10 minutes break every 2-3 presentation
+  - Presentation schedule:
+    - 40 minutes: Group 13, group 7
+    - 10 minutes: Break
+    - 60 minutes: Group 11, group 5, group 1
+    - 10 minutes: Break
+    - 60 minutes: Group 9, group 3
+
+## 2025-02-14
+
+- Include RUG work in the time schedule:
+  - Ongoing research: IADB and scoping review
+  - Upcoming research: ABM design and validation
+- Send the time schedule to Prof. Mako and Prof. Evi
+- Alternative meeting schedule:
+  - Wednesday (26 Feb) morning at 10.00 CEST
+  - Friday (28 Feb) morning at 09.30 CEST
+
 ## 2025-02-12
 
 - Change from dual doctorate to dual supervision
