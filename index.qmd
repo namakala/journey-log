@@ -7,6 +7,134 @@ format:
     scrollable: true
 ---
 
+## 2025-02-27
+
+### Group 7
+
+- Not enough information on the therapeutic vaue of the drug
+- Incomplete reimbursement of Riprenitinib in NL
+- It is a tyrosine kinase receptor inhibitor
+- PICO:
+  - Patient with advance GI tumor
+  - Riprenitinib
+  - Control/care: Care as usual
+  - Outcome: Survival, overall survival, QoL, adverse event
+- Budget impact: EUR 2 mil/year, but the COE is unknown
+- Complete comparison can't be done because Riprenitinib is prescribed alongside other medications
+- Decision: Can only be reimbursed only in final stage of the cancer
+- Questions:
+  - What is the time period in PICO? $\to$ Because overall survival is mentioned
+  - The benefit is not statistically significant $\to$ Compared to what?
+
+### Group 13
+
+- Kaftrio: To treat cystic fibrosis
+- Decision problem: Kaftrio was copared to Symkevi and to symptomatic treatment
+- Decision: Not to reimburse Kaftrio
+- PICO:
+  - P: Patients over 12 years with mutation of CFTR gene
+  - I: Kaftrio tablet
+  - C: Homozygous mutation: symptomatic treatment; Heterozygous: Symkevi tablet
+  - O: Improved FEV1, decrease in exacerbations
+  - T: 6 months with 12 months follow-up
+- Cost of intervention:
+  - Heterozygous: EUR 194,949
+  - Homozygous: EUR 31,240
+- COE:
+  - Homozygous ICER EUR 210,695/QALY (threshold EUR 50K)
+  - Heterozygous ICER EUR 283,991/QALY (threshold EUR 80K)
+
+### Group 11
+
+- Codeine for cough or pain: Should it be reimbursed?
+- Decision: Not reimbursed because not proven effective for cough or pain
+- Stakeholders: Healthcare providers, patients, health insurance companies, regulators 
+- Medical intervention: Codeine tablet as a cough suppressant
+- PICO:
+  - P: Patient with chronic pain
+  - I: Codeine
+  - C: Non-opioid like dextrometrophan
+  - O: Cough intensity and frequency
+  - T: Three days
+- Cost: EUR 22/person/year
+- Budget impact: EUR 20 mil/year
+- No cost effectiveness study
+- Question:
+  - What about the adverse events?
+
+### Group 5
+
+- Semiglutide for obesity treatment
+- Case:
+  - Semaglutide work on GLP-1
+  - GLP-1 stimulates insulin and inhibits glucagon
+  - Prevalence of severe obesity is 14%
+- Semaglutide has a good short-term effect, but not long-term effect
+- Decision: Not to reimburse (Jul 2024)
+- Cost: EUR 1.3 bil/year
+- Reimbursing Semiglutide for treaing obesity might cause global shortage because Semiglutide is already used to treat diabetes mellitus
+- Semiglutide is given only if calorie-restricted diet does not work
+- Semiglutide is administered weekly via subcutaneous injection
+- PICO:
+  - P: Patients >12 years old with obesity
+  - I: Semiglutide subcutaneous injection in 16 weeks
+  - C: Pharmacological and non-pharmacological obesity treatments
+  - O: BMI reduction >= 5%, psychological well-being
+  - T: 16 weeks
+- Cost: EUR 2,800/person/year
+- Questions:
+  - What pharmacological treatments were being used as a control?
+  - How effective is it to reduce BMI >= 5% over 16 weeks?
+
+### Group 1
+
+- Omalizumab treats severe asthma
+- Omalizumab is an IgE-binding monoclonal antibody $\to$ Subcutaneous administration every 2-4 weeks
+- It is used in patients >= 6 yo, unsuccessful treatment with high-dose ICS & long-acting beta agonist
+- PICO:
+  - P: Severe persistent allergic asthma uncontrolled by standard therapies
+  - I: Omalizumab as add on
+  - C: Inhaled corticosteroids & long-acting beta-agonist
+  - O: Less asthma exacerbations and increased QoL
+  - T: 16 weeks of treatment, 3-6 months control, care up to 10 years
+- Cost: EUR 1,893 - 30,291/person/year
+- Budget impact: EUR 22.7 mil/year on average (threshold EUR 10 mil/year)
+- COE: EUR 38,371/QALY (threshold EUR 80K/QALY)
+- Question:
+  - How effective is it clinically compared to care as usual?
+
+### Group 9
+
+- Evolocumab for dyslipidemia
+- Decision problem: If we add this drug to the standard therapy, will it reduce cardiovascular problem?
+- Standard therapy is effective, but some patients can't control their lipid profile
+- Cardiovascular disease and stroke was reduced by 15% with the use of Evolocumab
+- Decision: Will be reimbursed for a very specific group
+- PICO:
+  - P: Patients with cardiovascular disease and dyslipidemia not responding to statin
+  - I: Evolocumab + statin
+  - C: Placebo + statin
+  - O: Reduction in major cardiovascular events
+- Cost: USD 11,134/patient/year, while the care as usual is USD 393/person/year
+- COE: USD 268,367/QALY
+- Question:
+  - What is the adverse effect we need to be aware of?
+  - Considering major cardiovascular events as the outcome, is there any survival analysis on this medication?
+
+### Group 3
+
+- Decision problem: Peanut allergy is the most prevalent food allergy in the UK
+- Palforzia is a peanut powder in a controlled dose
+- Palforzia costs GBP 10.12/person/day, amounted to GBP 3,694/person/year
+- Decision: The treatment is reimbursed by NHS
+- COE: GBP 23,745/QALY (threshold GBP 30,000/QALY)
+- PICO:
+  - P: Patients 4-17 yo with a diagnosed peanut allergy
+  - I: Palforzia + peanut avoidance
+  - C: Only peanut avoidance + antihistamines if needed
+  - O: Peanut allergyy desensitization
+  - T: Lifelong horizon for follow up
+
 ## 2025-02-26
 
 - Model comparison, please refer to:
