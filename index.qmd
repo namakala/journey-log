@@ -7,6 +7,12 @@ format:
     scrollable: true
 ---
 
+## 2025-03-04
+
+- Initialize the ABM model with something simple
+- Use small-world network to simulate social network $\to$ Give a clear justification for this approach
+- Explain the rationale of performing network-based simulation for policy analysis
+
 ## 2025-02-27
 
 ### Group 7
