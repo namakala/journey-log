@@ -7,6 +7,16 @@ format:
     scrollable: true
 ---
 
+## 2025-03-13
+
+- IADB network analysis revision:
+  - Resolve all the comments
+  - Send by Friday evening at the earliest or Monday afternoon at the latest
+  - Consider using collaboration platform such as Overleaf to make it easier to comment
+- Scoping review revision:
+  - Split the article into two $\to$ Ensure that both has enough contents to report and discuss
+  - Send the Google Docs link to Prof. Frederike and Prof. Talitha
+
 ## 2025-03-04
 
 - Initialize the ABM model with something simple
