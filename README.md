@@ -1,5 +1,30 @@
 
 
+## 2025-03-27
+
+- Plan the order of journal submission for IADB work
+  - Prepare at least three journals
+  - Organize the list in a document $\to$ Mention the requirement, aim,
+    topics, impact factor, etc.
+  - Draft a cover letter for journal submission
+- Scoping review work:
+  - It becomes too theoretical, needs someone from psychology background
+    to validate the findings
+  - Ensure that the second article still has enough content to deliver
+  - Focus on the second article: Thematic analysis to synthesize the
+    simulation framework of psychological resilience
+  - Look for conferences to disseminate current findings $\to$
+    Prof. Frederike recommended
+    [ENMESH](https://enmesh.eu/Conferences.html)
+- Designing the simulation:
+  - Determine what kind of mental health policy to evaluate $\to$ Find
+    prior evidence on this policy, evaluate its impact
+  - Starts from something small $\to$ Add layers of complexity later
+  - Look for articles implementing ABM in mental health landscape
+  - Potential co-authors on simulation papers: Spyros, Steef, or Sumaira
+    $\to$ Need a fresh pair of eyes to review the coding and thinking
+    process
+
 ## 2025-03-13
 
 - IADB network analysis revision:
