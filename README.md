@@ -1,5 +1,102 @@
 
 
+## 2025-04-10
+
+- Scoping review:
+  - Recheck and revise the abstract
+  - The review question is clear, but the paragraph above it is not very
+    clear $\to$ Need to tone it down, keep it more pragmatic and
+    concrete
+  - Consider explaining the rationale for conducting the scoping review
+    $\to$ Mention a bit about modelling somewhere in the middle of the
+    introduction
+    - We need conceptualize the model in a concrete way
+    - Therefore, we need to understand the concept for modelling purpose
+  - Target policy $\to$ Cite a paper about cost-effective policy:
+    - Improve resilience
+    - Reduce adverse event
+  - Data analysis section: Reword it as a methods, e.g., how we use the
+    figure for
+  - Include the flow diagram $\to$ Explain why we exclude the articles
+  - Explain the study design and sampling in a better way, currently
+    it’s confusing $\to$ Random sampling, NOT RCT
+  - Change the phrasing on these sections $\to$ We have to compare the
+    definition from included studies:
+    - Defining stress, e.g., stress is defined differently across
+      studies
+    - Defining resilience
+  - There’s an overlap between resilience definition and measurement
+    sections
+  - Explain the thought process when creating the figure on mediation or
+    moderation model $\to$ Include it in the methods section
+  - Target journal:
+    - Social science in medicine
+    - MHEc
+  - Contact Pak Bagus Takwin (dean of the faculty of psychology UI)
+  - PEGET meeting: Clarify that this is intended to build a model
+- IADB network analysis: I have removed the diagonal from the adjacency
+  matrices $\to$ The eigenvector centrality is more interpretable
+
+## 2025-04-03
+
+- Try to omit the diagonal, set it as 0, check if it changes the
+  Eigenvector centrality
+- In the methods sections, explain mathematcally how we constructed the
+  DPN
+- We should consider journals for applied statistics
+- Calculate the individual-level density $\to$ Plot as a time-series
+  data $\to$ Not the current priority, but it’s nice to have
+- Methods sections outline:
+  - Explain what a graph is
+  - Differentiate individual-level and population-level networks
+  - Explain thoroughly the penalty based on DDD
+
+## 2025-03-27
+
+- Plan the order of journal submission for IADB work
+  - Prepare at least three journals
+  - Organize the list in a document $\to$ Mention the requirement, aim,
+    topics, impact factor, etc.
+  - Draft a cover letter for journal submission
+- Scoping review work:
+  - It becomes too theoretical, needs someone from psychology background
+    to validate the findings
+  - Ensure that the second article still has enough content to deliver
+  - Focus on the second article: Thematic analysis to synthesize the
+    simulation framework of psychological resilience
+  - Look for conferences to disseminate current findings $\to$
+    Prof. Frederike recommended
+    [ENMESH](https://enmesh.eu/Conferences.html)
+- Designing the simulation:
+  - Determine what kind of mental health policy to evaluate $\to$ Find
+    prior evidence on this policy, evaluate its impact
+  - Starts from something small $\to$ Add layers of complexity later
+  - Look for articles implementing ABM in mental health landscape
+  - Potential co-authors on simulation papers: Spyros, Steef, or Sumaira
+    $\to$ Need a fresh pair of eyes to review the coding and thinking
+    process
+
+## 2025-03-13
+
+- IADB network analysis revision:
+  - Resolve all the comments
+  - Send by Friday evening at the earliest or Monday afternoon at the
+    latest
+  - Consider using collaboration platform such as Overleaf to make it
+    easier to comment
+- Scoping review revision:
+  - Split the article into two $\to$ Ensure that both has enough
+    contents to report and discuss
+  - Send the Google Docs link to Prof. Frederike and Prof. Talitha
+
+## 2025-03-04
+
+- Initialize the ABM model with something simple
+- Use small-world network to simulate social network $\to$ Give a clear
+  justification for this approach
+- Explain the rationale of performing network-based simulation for
+  policy analysis
+
 ## 2025-02-27
 
 ### Group 7
