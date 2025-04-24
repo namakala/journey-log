@@ -1,5 +1,26 @@
 
 
+## 2025-04-24
+
+- Scoping review:
+  - First figure: Needs to explain what the majority of the studies were
+    about.
+  - Elaborate figure 1B $\to$ Explain also the negative findings and
+    other insights from the table.
+  - From all the outcomes, explain how many studies investigate which
+    outcomes.
+  - Elaborate the rationale for ordering the table based on date of
+    publication $\to$ Want to explain the evolution of resilience study
+    over time.
+  - Explain ore about the model in scoped articles $\to$ What kind of
+    models being used; spend at least one paragraph to define this.
+- ABM:
+  - Recent paper from the open source modelling group
+  - Open Source Models Special Interest Group $\to$ Curate all the open
+    model.
+  - Look for papers and codes about modelling in non-communicable
+    disease as a starting point.
+
 ## 2025-04-10
 
 - Scoping review:
