@@ -1,5 +1,24 @@
 
 
+## 2025-05-08
+
+- Apply for courses in Ocasys using student number:
+  https://ocasys.rug.nl/2024-2025 $\to$ Use the budget from FSE
+- Thematic analysis:
+  - General overview of how we derive the theme and topic
+  - A figure describing all topics and themes
+  - Explain how I synthesize the findings $\to$ Methods sections
+  - Mention that we synthesize it to build a modelling framework $\to$
+    Discussion sections, explain why it is helpful for the model
+  - Change the tonality: From instructing to implying that we found
+    something
+  - Should report the sub-aim: To validate machine coder approach $\to$
+    Discuss and recommend it in the discussion sections
+  - Put in title: Comparing machine and human coder (to be discussed)
+  - Report in methods: How we derive theme from codes
+  - Report in the results: A simplified table to demonstrate our
+    procedure to interpret the exemplars
+
 ## 2025-04-24
 
 - Scoping review:
