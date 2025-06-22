@@ -1,5 +1,27 @@
 
 
+## 2025-06-19
+
+- Scoping review:
+  - Add one paragraph to explain the graphical overview of resilience as
+    a moderator and mediator:
+    - Explain what each panel means and how to interpret them
+    - Cite the study or at least show how to find them in the included
+      table
+    - Explain that the study on outcome-oriented resilience only
+      explored the moderating mechanism
+    - Study on outcome-oriented resilience explains how resilience is
+      activated
+    - The mediating panel of outcome-oriented resilience is the
+      projected mechanism if the same activation process occur in the
+      mediation process
+  - Restructure the methods sections following PRISMA guideline
+- Email Prof. Frederike and Prof. Talitha about the changes in the
+  current revision
+- ISPOR Student Chapter’s event in autumn: People from PTEE group should
+  come $\to$ Circulate the newsletter
+- Next week we need to discuss about biweekly meetings in summer
+
 ## 2025-05-08
 
 - Apply for courses in Ocasys using student number:
