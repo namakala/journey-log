@@ -1,5 +1,17 @@
 
 
+## 2025-06-26
+
+- Steef and Zhuolin conduct a code checking $\to$ Will be in August:
+  - Check the model, set up the environment
+  - Convert the hourly work into ECTs
+- Scoping review:
+  - State clearly in Fig. 2: This figure only includes the positive
+    findings; negative findings are reported in the table
+  - Elaborate how to read Fig. 2A and the rationale for narrowing it
+    down to Fig. 2B
+- Meeting on the 10th of July: Decide which journal for IADB
+
 ## 2025-06-19
 
 - Scoping review:
