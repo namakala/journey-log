@@ -7,6 +7,12 @@ format:
     scrollable: true
 ---
 
+## 2025-07-10
+
+- Send a reminder of the scoping review to all co-authors
+- Use the available funding for research purpose: Conference visit, books, courses
+- Check on available ABM courses in the Utrecht University
+
 ## 2025-06-26
 
 - Steef and Zhuolin conduct a code checking $\to$ Will be in August:
