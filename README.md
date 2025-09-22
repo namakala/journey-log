@@ -1,5 +1,11 @@
 
 
+# 2025-08-28
+
+- Revise scoping review draft based on given comments
+- Confirm the IADB network analysis manuscript status at GEPI
+- Start ABM design course
+
 ## 2025-07-10
 
 - Send a reminder of the scoping review to all co-authors
