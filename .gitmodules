@@ -19,3 +19,6 @@
 [submodule "research/resilience-scoping-review"]
 	path = research/resilience-scoping-review
 	url = git@github.com:namakala/resilience-scoping-review.git
+[submodule "research/abm-simulation"]
+	path = research/abm-simulation
+	url = https://github.com/namakala/abm-simulation
