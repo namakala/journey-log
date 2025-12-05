@@ -1,5 +1,78 @@
 
 
+# 2025-12-05
+
+- IADB manuscript
+  - Update the ridge plot: Remove the interval, focus only on the
+    distribution
+  - Have a paragraph explaining that eigenvector centrality is bound to
+    \[0, 1\]
+  - Next discussion on the 11th Dec $\to$ Prepare for resubmission on
+    the 17th Dec
+- ABM simulation:
+  - Create a figure representing the initialization phase: this figure
+    must describe in detail how each variable is connected
+    - Explore several diagram approaches
+    - Objective: Clarify how the model works by demonstrating the
+      variable association
+  - Think of a way to reframe the introduction part later
+
+# 2025-11-21
+
+- ABM simulation:
+  - Explain a bit more into softmax
+  - Sync the repository to Overleaf
+  - Revise table 1 to include the initial values and reference
+  - Add a paragraph to explain table 1, check model specification from
+    other health economics manuscripts
+- IADB manuscript:
+  - Complete the analysis and draft by next week
+  - Schedule a discussion with Prof. Talitha and Spyros to interpret the
+    results
+
+# 2025-11-06
+
+- Agent-Based Simulation:
+  - Plan for a peer review with Steef or Oscar
+  - Resolve remaining issues in GitHub
+- IADB network analysis manuscript:
+  - Ask Jens to help with redoing the data query
+  - Conduct a subgroup analysis based on age or polypharmacy status
+- Brainstorm meeting on open source modelling
+
+# 2025-10-09
+
+Agent-Based Simulation: - Introduction: Needs justification why ABM is
+the most suitable, compare to the other options like DES, system dynamic
+model, state transition model. Summarize in 1 paragraph. - Structure:
+It’d be more clear if the overall equations came at beginning. -
+Methods: Put a list of assumptions. - Define the concept more
+elaborately in the methods or introduction. - Methods: Create a table of
+equations and notations. Present it after - Methods: Explain the
+equations more consistently. For instance, when explaining coping
+after. - Methods: Add a subsection about data collection.
+
+# 2025-09-25
+
+- Scoping review revision:
+  - Rephrase the inclusion criteria \#3: Outcomes are related to common
+    mental health disorder and relevant mental health concepts. Example
+    of common mental health disorders are depression and anxiety.
+    Example of relevant mental health concepts are alcohol use,
+    substance use, etc.
+  - Subsequently, in the results sections, further justify why we need
+    to narrow down Figure 2A into Figure 2B. State that we wanted to
+    zoom in to common mental health disorders in further modelling.
+  - In the subsections “Definition of Stress” and “Definition of
+    Resilience”: Starts by explaining the concept (definition), then
+    continue to the measurement. Emphasis on the difference between
+    stressor (trigger) and stress (perception).
+- ABM design:
+  - Finalize the internal scaffold of the model.
+  - Implement unit tests to the model, automate with GitHub workflow.
+  - Set the initial parameters based on relevant studies.
+  - Draft the report for next week’s submission.
+
 # 2025-08-28
 
 - Revise scoping review draft based on given comments
