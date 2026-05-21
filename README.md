@@ -1,6 +1,127 @@
 
 
-# 2025-12-05
+## 2026-05-21
+
+- Scoping review: Improve the clarity of our objectives: Conduct a
+  review to formulate an ABM simulation
+- Thematic analysis: Prof. Frederike will review first, then
+  Prof. Talitha will work on that afterwards
+- Prepare slides for PEGET meeting, deadline on the 4th of June $\to$
+  Use ABM materials
+- On 3rd June: Short presentation about the use of AI
+- Articles to further read:
+  - https://arxiv.org/pdf/2509.18297
+  - https://dl.acm.org/doi/full/10.1145/3706598.3713120
+  - https://dx.doi.org/10.2139/ssrn.5167505
+  - https://journals-sagepub-com.proxy-ub.rug.nl/doi/10.1177/16094069261426100
+  - https://rke.abertay.ac.uk/ws/portalfiles/portal/81476151/DePaoli_InductiveThematicAnalysis_Accepted_2024.pdf
+  - https://arxiv.org/pdf/2309.10771
+  - https://scispace.com/pdf/what-might-be-a-history-of-psychiatric-epidemiology-towards-4ntve0nkxo.pdf
+
+## 2026-05-11
+
+- ABM project:
+  - Review all unit testing to ensure correct theoretical dependencies
+  - Log results from sub-process $\to$ Create different `.env` files
+    that turns off certain process
+  - Start integration testing from the ground up
+  - Include the integration testing procedures and results in the final
+    report
+- Thematic analysis:
+  - Create a reproducible pipeline to perform thematic analysis with
+    human-in-the-loop procedure
+  - Update the methods section
+  - Recheck the code and topic validity given the keywords
+  - Start drafting the results based on code $\to$ topic $\to$ theme
+  - Must finish the revision in 1 week
+- Scoping review:
+  - Introduction reframing can follow the version from March 2025
+  - Must finish the revision in 2 weeks
+
+## 2026-04-24
+
+- Scoping review:
+  - Reframe the introduction to argue that this simulation is necessary
+    for policymaking
+  - In the discussion: Argue why moderation and mediation is not
+    sufficient to explain resilience $\to$ This is an interlude before
+    explaining why we need dynamic models
+- Target journal
+  - Social science and medicine
+  - Journal of mental health and economics
+  - Computational psychiatry
+  - Health services research
+  - European journal of public health
+  - Public health policy
+  - BMC public health
+
+## 2026-04-10
+
+- When explaining how stress improves resilience, focus on the
+  difference of stress level instead of individual differences
+- In the discussion sections,to conclude the argument, provide one
+  connecting paragraph that:
+  - Summarize how the included articles only study mediation
+    vs. moderation in isolation
+  - They fundamentally led to the same conclusion: resilience acts as a
+    protective mechanism
+  - However, disjointed view in how resilience being modelled made it
+    difficult to theorize the underlying mechanism
+  - In reality, both moderation and mediation models work hand in hand
+  - The recent view of resilience see it as a dynamic system $\to$ Cite
+    the article from 2024
+
+## 2026-04-09
+
+- Interpreting the mediating and moderating process of psychological
+  resilience beyond the mathematical operation:
+  - There seems to be a disagreement on how to interpret the mediating
+    and moderating process
+  - I elaborated moderating effect akin to buffer, while mediating
+    effect akin to having a shield
+  - A moderator (buffer) is not directly affected by the IV, but it
+    influences the relationship of IV to DV
+  - A mediator (shield) is directly affected by the IV, so it gets
+    depleted when mediating the relationship of IV to DV
+  - Solution: Add a paragraph explaining the mathematical equation for
+    both moderation and mediation models, emphasizing that the
+    differences are also beyond mathematical operation
+
+## 2026-02-06
+
+- Add thematic analysis figures to the appendix, this figure explains
+  the connection from the code $\to$ theme $\to$ interpretation
+- Revise the introduction of the thematic analysis, start by explaining
+  the conceptualized simulation model, then states that the aim of this
+  research is to validate the expected mechanism in such model
+- Read the guideline by Z. Phillips on good practice of HTA models, DOI:
+  10.2165/00019053-200624040-00006
+
+## 2026-01-29
+
+- Finalize the current version of scoping review manuscript, then send
+  it to all co-authors
+- Coordinate with the ABM course lecturer to revisit the final report
+- Complete the final version of scoping review and thematic analysis
+  before 20th February
+
+## 2026-01-23
+
+- Finish the scoping review manuscript before leaving to Indonesia
+- In scoping review discussion, highlight how the findings matter for
+  simulating psychological resilience
+
+## 2025-12-11
+
+- Reflect on the IABB manuscript: Should we consider network analysis as
+  a routine analysis in IADB?
+- Submit the ABM work to LolaHESG $\to$ Needs to prepare abstract beofre
+  January
+- [Health-RI](https://www.health-ri.nl/en/health-ri) is working on
+  federated services for University Medical Centrum across the
+  Netherlands, might be interesting to get in touch with them
+
+## 2025-12-05
 
 - IADB manuscript
   - Update the ridge plot: Remove the interval, focus only on the
@@ -17,7 +138,7 @@
       variable association
   - Think of a way to reframe the introduction part later
 
-# 2025-11-21
+## 2025-11-21
 
 - ABM simulation:
   - Explain a bit more into softmax
@@ -30,7 +151,7 @@
   - Schedule a discussion with Prof. Talitha and Spyros to interpret the
     results
 
-# 2025-11-06
+## 2025-11-06
 
 - Agent-Based Simulation:
   - Plan for a peer review with Steef or Oscar
@@ -40,7 +161,7 @@
   - Conduct a subgroup analysis based on age or polypharmacy status
 - Brainstorm meeting on open source modelling
 
-# 2025-10-09
+## 2025-10-09
 
 Agent-Based Simulation: - Introduction: Needs justification why ABM is
 the most suitable, compare to the other options like DES, system dynamic
@@ -52,7 +173,7 @@ equations and notations. Present it after - Methods: Explain the
 equations more consistently. For instance, when explaining coping
 after. - Methods: Add a subsection about data collection.
 
-# 2025-09-25
+## 2025-09-25
 
 - Scoping review revision:
   - Rephrase the inclusion criteria \#3: Outcomes are related to common
@@ -73,7 +194,7 @@ after. - Methods: Add a subsection about data collection.
   - Set the initial parameters based on relevant studies.
   - Draft the report for next week’s submission.
 
-# 2025-08-28
+## 2025-08-28
 
 - Revise scoping review draft based on given comments
 - Confirm the IADB network analysis manuscript status at GEPI
