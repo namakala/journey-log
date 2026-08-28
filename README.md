@@ -1,5 +1,66 @@
 
 
+## 2026-08-28
+
+- Agent-Based Modelling:
+  - Finalize the code for peer code review $\to$ Already invited Steef
+    and Qinyang
+  - Break down the seven cumulative modules, and assign who is
+    responsible to review which module
+- Scoping review:
+  - Send the revised manuscript to Prof. Talitha, Prof. Frederike, and
+    Prof. Christiaan
+  - Ensure that the article is ready for final internal review and
+    submission by the end of the month
+
+## 2026-08-13
+
+- Scoping review draft: Remind collaborators to check (especially
+  Christiaan Vinkers)
+- Invite people for code peer review
+
+## 2026-07-02
+
+- Target journal:
+  - Social Science in Medicine
+  - BMJ Open
+- Simulation modelling validation:
+  - Conceptual model validation: Present it to experts
+  - Validation of the input data: Calibration strategy
+  - Code verification: Unit testing
+  - Validation of the model outcome against the empirical range
+- Ongoing work with the ABM project:
+  - Evaluate robustness: Sensitivity analysis against different
+    scenarios to ensure that the model is stable
+  - Discuss with Spyros regarding ABM project repository organization
+  - Target journal for ABM simulation: SMDM
+  - Health impact analysis instead of health economics analysis
+  - Finalize up to the methods sections in August
+  - Finalize the draft by September
+- Start making outline of the thesis $\to$ Breakdown the tasks
+  chapter-by-chapter
+  - Think who can be invited as a co-author
+  - List of publications at the end of the thesis
+
+## 2026-06-04
+
+- Agent-Based Simulation on psychological resilience:
+  - After cleaning up the code, explain it to Spyros, Steef, Oscar, and
+    Qinyang for internal code review $\to$ In August or September
+  - Email Spyros to ask whether he’d want to be included in the code
+    review in August
+  - Update DeepWiki and share it with others
+  - Invite Spyros and Harmen as a collaborator
+- Deadlines:
+  - Finish the code revision in late June
+  - Draft the initial paper by the end of July
+  - Complete code review in August
+  - Finalize the code in September, NO further changes!
+  - Finalize the draft
+  - Draft the general introduction and discussion in October
+- For the thesis draft
+- H-TRIC: Business pitch supported in Groningen
+
 ## 2026-05-21
 
 - Scoping review: Improve the clarity of our objectives: Conduct a
@@ -619,7 +680,7 @@ after. - Methods: Add a subsection about data collection.
   - Mention who the PIC from the RUG side
 - IADB work:
   - Send the draft to all collaborators tomorrow
-  - Will need to revise the abstract $\to$ Limit it to 250-300 words  
+  - Will need to revise the abstract $\to$ Limit it to 250-300 words\
   - List out three relevant target journals, mention it to the team
 - Preference for meeting:
   - January the 3rd
@@ -1137,7 +1198,7 @@ after. - Methods: Add a subsection about data collection.
     resilience work as a moderator in relation with stressors and mental
     disorders?”
   - In project scope, explain that neurobiological/physiological
-    mechanistic explanation is not a part of the review  
+    mechanistic explanation is not a part of the review\
   - In activity plan: Contact collaborators sooner
   - Action point: Make the question simpler, contact the librarian,
     create an inclusion based on model for chapter 5
@@ -1186,7 +1247,7 @@ after. - Methods: Add a subsection about data collection.
     - Find a co-author with expertise on state resilience
 - Plan B: Scoping review on the measurement of resilience
 - Concurrent psychopharmaca uses: Send a draft of introduction +
-  methods, deadline on the 19<sup>th</sup> of April  
+  methods, deadline on the 19<sup>th</sup> of April\
 - Trend of psychopharmaca uses:
   - Formulate the questions better → Why do we need to monitor it this
     way?
